@@ -1,0 +1,403 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- ITab titles -->
+  <!-- EN: Bills -->
+  <TabBills>Pesan</TabBills>
+  <!-- EN: Growing -->
+  <TabGrowing>Tumbuh</TabGrowing>
+  <!-- EN: Bio -->
+  <TabCharacter>Bio</TabCharacter>
+  <!-- EN: Training -->
+  <TabTraining>Latihan</TabTraining>
+  <!-- EN: Prisoner -->
+  <TabPrisoner>Tahanan</TabPrisoner>
+  <!-- EN: Guest -->
+  <TabGuest>Tamu</TabGuest>
+  <!-- EN: Gear -->
+  <TabGear>Alat</TabGear>
+  <!-- EN: Needs -->
+  <TabNeeds>Butuh</TabNeeds>
+  <!-- EN: Storage -->
+  <TabStorage>Simpanan</TabStorage>
+  <!-- EN: Shells -->
+  <TabShells>Selongsong</TabShells>
+  <!-- EN: Health -->
+  <TabHealth>Kesehatan</TabHealth>
+  <!-- EN: Race -->
+  <TabRace>Bangsa</TabRace>
+  <!-- EN: Basics -->
+  <TabBasics>Dasar</TabBasics>
+  <!-- EN: Stats -->
+  <TabStats>Statistik</TabStats>
+  <!-- EN: Records -->
+  <TabRecords>Catatan</TabRecords>
+  <!-- EN: Art -->
+  <TabArt>Seni</TabArt>
+  <!-- EN: Social -->
+  <TabSocial>Sosial</TabSocial>
+  <!-- EN: Log -->
+  <TabLog>Log</TabLog>
+  <!-- EN: Animals -->
+  <TabPenAnimals>Hewan</TabPenAnimals>
+  <!-- EN: Food -->
+  <TabPenFood>Makanan</TabPenFood>
+  <!-- EN: Auto-cut -->
+  <TabPenAutoCut>Oto. Potong</TabPenAutoCut>
+  <!-- EN: Caravan -->
+  <TabFormingCaravan>Karavan</TabFormingCaravan>
+  <!-- EN: Contents -->
+  <TabTransporterContents>Isi</TabTransporterContents>
+  <!-- EN: Contents -->
+  <TabCasketContents>Isi</TabCasketContents>
+  
+  <!-- Bills tab  -->
+  <!-- EN: Add bill -->
+  <AddBill>Tambah pesanan</AddBill>
+  <!-- EN: The recipe {0} requires the skills below. None of your colonists have these skills, so nobody will do this bill. -->
+  <RecipeRequiresSkills>Resep {0} Membutuhkan keterampilan dibawah ini. Tidak ada koloni anda yang memiliki keterampilan ini, jadi tidak ada yang akan melakukan pesanan ini.</RecipeRequiresSkills>
+  <!-- EN: Min skill -->
+  <MinimumSkill>Keterampilan min</MinimumSkill>
+  <!-- EN: SUSPENDED -->
+  <SuspendedCaps>TUNDA</SuspendedCaps>
+  <!-- EN: Worker: {1_labelShort} -->
+  <BoundWorkerIs>Pekerja: {1_labelShort}</BoundWorkerIs>
+  <!-- EN: Plant -->
+  <PlantVerb>Tanaman</PlantVerb>
+  <!-- EN: Copied bill cannot be pasted here -->
+  <ClipboardBillNotAvailableHere>Pesanan yang disalin tidak dapat ditempel disini</ClipboardBillNotAvailableHere>
+  <!-- EN: Move up -->
+  <ReorderBillUpTip>Pindah ke atas</ReorderBillUpTip>
+  <!-- EN: Move down -->
+  <ReorderBillDownTip>Pindah ke bawah</ReorderBillDownTip>
+  <!-- EN: Delete -->
+  <DeleteBillTip>Hapus</DeleteBillTip>
+  <!-- EN: Copy to the clipboard -->
+  <CopyBillTip>Salin ke papan klip</CopyBillTip>
+  <!-- EN: Suspend -->
+  <SuspendBillTip>Tunda</SuspendBillTip>
+  <!-- EN: Paste -->
+  <PasteBillTip>Tempel</PasteBillTip>
+  <!-- EN: can't add more -->
+  <PasteBillTip_LimitReached>tidak bisa menambahkan lebih banyak</PasteBillTip_LimitReached>
+
+  <!-- Guest/prisoner tab -->
+  <!-- EN: Resistance -->
+  <RecruitmentResistance>Resistensi tersisa</RecruitmentResistance>
+  <!-- EN: How much doubt this prisoner has about joining your faction. When this reaches zero, they can be recruited. -->
+  <RecruitmentResistanceDesc>Seberapa banyak keraguan yang dimiliki tahanan ini untuk bergabung dengan faksi anda. Ketika mencapai nol, mereka dapat direkrut.</RecruitmentResistanceDesc>
+  <!-- EN: {0} base resistance -->
+  <RecruitmentResistanceFromPawnKind>Resistensi dasar {0}</RecruitmentResistanceFromPawnKind>
+  <!-- EN: Relations gain on release -->
+  <PrisonerReleasePotentialRelationGains>Hubungan meningkat saat dibebaskan</PrisonerReleasePotentialRelationGains>
+  <!-- EN: The faction goodwill you will get from the prisoner's faction if you release them. This is affected by the prisoner's identity, health, and mental condition. -->
+  <PrisonerReleaseRelationGainsDesc>Peningkatan hubungan faksi akan didapatkan jika tahanan faksi dibebaskan. Peningkatan hubungan dipengaruhi oleh kesehatan dan kondisi mental tahanan.</PrisonerReleaseRelationGainsDesc>
+  <!-- EN: Prison break interval -->
+  <PrisonBreakMTBDays>Interval kabur dari penjara</PrisonBreakMTBDays>
+  <!-- EN: The average days awake between prison breaks. This is affected by mood, mobility, the number of prison doors, and time since the last prison break.\n\nNote that this does not include time spent asleep. -->
+  <PrisonBreakMTBDaysDescription>Jumlah rata-rata waktu harian terjaga untuk berupaya kabur dari penjara. Hal ini dipengaruhi oleh suasana hati, mobilitas, dan terakhir kali penjara dibobol.\n\nAngka ini menghiraukan waktu yang dihabiskan untuk tidur, jadi interval istirahat penjara rata-rata biasanya akan lebih lama.</PrisonBreakMTBDaysDescription>
+  <!-- EN: Never -->
+  <Never>Tidak pernah</Never>
+  <!-- EN: Not while asleep -->
+  <NotWhileAsleep>Sementara tidak tidur</NotWhileAsleep>
+  <!-- EN: Breaking out now -->
+  <CurrentlyPrisonBreaking>Putus sekarang</CurrentlyPrisonBreaking>
+  <!-- EN: Multiplier for door count -->
+  <FactorForDoorCount>Pengganda untuk jumlah pintu</FactorForDoorCount>
+  <!-- EN: Multiplier for movement -->
+  <FactorForMovement>Pengganda untuk gerakan</FactorForMovement>
+  <!-- EN: Slave price -->
+  <SlavePrice>Harga budak</SlavePrice>
+  <!-- EN: The base market value of this {0} if sold. -->
+  <SlavePriceDescription>Nilai dasar pasar dari budak {0}, jika dijual.</SlavePriceDescription>
+  <!-- EN: Gets food -->
+  <GetsFood>Mendapat makanan</GetsFood>
+  <!-- EN: Doctors care -->
+  <DoctorsCare>Perawatan dokter</DoctorsCare>
+  <!-- EN: Gets medicine -->
+  <GetsMedicine>Mendapat obat</GetsMedicine>
+  <!-- EN: Try to recruit -->
+  <ShouldTryToRecruit>Cobalah untuk merekrut</ShouldTryToRecruit>
+  <!-- EN: Considered guilty (expires in {0}) -->
+  <ConsideredGuilty>Dianggap bersalah (Berakhir pada {0})</ConsideredGuilty>
+  <!-- EN: Considered guilty -->
+  <ConsideredGuiltyNoTimer>Dianggap bersalah</ConsideredGuiltyNoTimer>
+
+  <!-- Medical - general -->
+  <!-- EN: Move speed -->
+  <MoveSpeed>Kecepatan bergerak</MoveSpeed>
+  <!-- EN: Efficiency -->
+  <Efficiency>Efisien</Efficiency>
+  <!-- EN: Part efficiency -->
+  <PartEfficiency>Bagian yang Efisien</PartEfficiency>
+  <!-- EN: Body part efficiency -->
+  <BodyPartEfficiency>Bagian tubuh yang Efisien</BodyPartEfficiency>
+  <!-- EN: Gone -->
+  <MissingBodyPart>Hilang</MissingBodyPart>
+  <!-- EN: Destroyed -->
+  <DestroyedBodyPart>Dihancurkan</DestroyedBodyPart>
+  <!-- EN: Shattered -->
+  <ShatteredBodyPart>Hancur</ShatteredBodyPart>
+  <!-- EN: Removed -->
+  <RemovedBodyPart>Dihilangkan</RemovedBodyPart>
+  <!-- EN: Healthy -->
+  <Healthy>Sehat</Healthy>
+  <!-- EN: In pain -->
+  <InPain>Kesakitan</InPain>
+  <!-- EN: Pain -->
+  <PainLevel>Sakit</PainLevel>
+  <!-- EN: Injured -->
+  <Injured>Terluka</Injured>
+  <!-- EN: Untended injury -->
+  <UntendedInjury>Cedera tak kunjung sembuh</UntendedInjury>
+  <!-- EN: no health conditions -->
+  <NoHealthConditions>tidak ada masalah kesehatan</NoHealthConditions>
+  <!-- EN: Whole body -->
+  <WholeBody>Seluruh tubuh</WholeBody>
+  <!-- EN: Data processing -->
+  <DataProcessing>Proses data</DataProcessing>
+  <!-- EN: Communication -->
+  <Communication>Komunikasi</Communication>
+  <!-- EN: Affects -->
+  <Affects>Pengaruh</Affects>
+  <!-- EN: Bleeding -->
+  <BleedingRate>Berdarah</BleedingRate>
+  <!-- EN: death in {0} -->
+  <TimeToDeath>Akan mati dalam {0}</TimeToDeath>
+  <!-- EN: no immediate danger -->
+  <WontBleedOutSoon>Tidak berbahaya langsung</WontBleedOutSoon>
+  <!-- EN: Overview -->
+  <HealthOverview>Gambaran</HealthOverview>
+  <!-- EN: Operations ({0}) -->
+  <MedicalOperationsShort>Operasi ({0})</MedicalOperationsShort>
+  <!-- EN: Modifications ({0}) -->
+  <MedicalOperationsMechanoidsShort>Modifikasi ({0})</MedicalOperationsMechanoidsShort>
+  <!-- EN: Medical operations -->
+  <MedicalOperations>Operasi medis</MedicalOperations>
+  <!-- EN: amputate -->
+  <Amputate>amputasi</Amputate>
+  <!-- EN: harvest -->
+  <HarvestOrgan>panen organ</HarvestOrgan>
+  <!-- EN: remove -->
+  <RemoveOrgan>hilangkan organ</RemoveOrgan>
+  <!-- EN: memory -->
+  <MemoryLower>memori</MemoryLower>
+  <!-- EN: social interactions -->
+  <SocialInteractionsLower>interaksi Sosial</SocialInteractionsLower>
+  <!-- EN: Hunger rate -->
+  <HungerRate>Tingkat kelaparan</HungerRate>
+  <!-- EN: Tiredness -->
+  <Tiredness>Kelelahan</Tiredness>
+  <!-- EN: Pain -->
+  <PainFactor>Sakit</PainFactor>
+  <!-- EN: Prevents infection -->
+  <PreventsInfection>Mencegah infeksi</PreventsInfection>
+  <!-- EN: Self-tend -->
+  <SelfTend>Merawat diri sendiri</SelfTend>
+  <!-- EN: {0} with self-tend enabled will automatically tend to themselves on the spot at {1} the normal efficiency. -->
+  <SelfTendTip>{0} dengan merawat diri sendiri diaktifkan, secara otomatis mereka akan merawat diri mereka sendiri ditempat {1} efisiensi normal.</SelfTendTip>
+  <!-- EN: death in {0} -->
+  <DeathIn>mati dalam (0)</DeathIn>
+  
+  <!-- Medical - Body and activities condition -->
+  <!-- EN: None -->
+  <None>Tidak ada</None>
+  <!-- EN: Very poor -->
+  <VeryPoor>Sangat buruk</VeryPoor>
+  <!-- EN: Poor -->
+  <Poor>Buruk</Poor>
+  <!-- EN: Weakened -->
+  <Weakened>Lemah</Weakened>
+  <!-- EN: OK -->
+  <GoodCondition>Ok</GoodCondition>
+  <!-- EN: Enhanced -->
+  <Enhanced>Ditingkatkan</Enhanced>
+  <!-- EN: Seriously impaired -->
+  <SeriouslyImpaired>Gangguan serius</SeriouslyImpaired>
+  <!-- EN: Impaired -->
+  <Impaired>Gangguan</Impaired>
+  <!-- EN: Slightly impaired -->
+  <SlightlyImpaired>Sedikit terganggu</SlightlyImpaired>
+  <!-- EN: None -->
+  <NoPain>Tidak ada</NoPain>
+  <!-- EN: Little -->
+  <LittlePain>Ringan</LittlePain>
+  <!-- EN: Medium -->
+  <MediumPain>Sedang</MediumPain>
+  <!-- EN: Severe -->
+  <SeverePain>Berat</SeverePain>
+  <!-- EN: Extreme -->
+  <ExtremePain>Ekstrem</ExtremePain>
+
+  <!-- Training tab -->
+  <!-- EN: Trainability -->
+  <Trainability>Kemampuan melatih</Trainability>
+  <!-- EN: Requires {0} trainability. -->
+  <CannotTrainNotSmartEnough>Membutuhkan {0} kemampuan melatih.</CannotTrainNotSmartEnough>
+  <!-- EN: {1_labelShort} is too small to train this. -->
+  <CannotTrainTooSmall>{1_labelShort} terlalu kecil untuk dilatih ini.</CannotTrainTooSmall>
+
+  <!-- EN: Prerequisite needed: {0} -->
+  <TrainingNeedsPrerequisite>Prasyarat dibutuhkan: {0}</TrainingNeedsPrerequisite>
+  
+  <!-- Social tab -->
+  <!-- EN: (no relationships) -->
+  <NoRelationships>(Tidak ada hubungan)</NoRelationships>
+  <!-- EN: Kidnapped -->
+  <Kidnapped>Diculik</Kidnapped>
+  <!-- EN: Lent to {FACTION_name}, returns in {1} -->
+  <Lent>Dipinjam oleh {FACTION_name}, dikembalikan dalam {1}</Lent>
+  <!-- EN: Missing -->
+  <Missing>Hilang</Missing>
+  <!-- EN: Slave -->
+  <Slave>Budak</Slave>
+  <!-- EN: Faction leader -->
+  <FactionLeader>Pemimpin faksi</FactionLeader>
+  <!-- EN: Opinion of {1_labelShort} -->
+  <OpinionOf>Opini tentang {1_labelShort}</OpinionOf>
+  <!-- EN: {1_labelShort}'s opinion of me -->
+  <SomeonesOpinionOfMe>{1_labelShort} opini tentang saya</SomeonesOpinionOfMe>
+  <!-- EN: I'm dead -->
+  <IAmDead>Saya mati</IAmDead>
+  <!-- EN: I'm a psychopath -->
+  <IAmPsychopath>Saya psikopat</IAmPsychopath>
+  
+  <!-- Gear tab -->
+  <!-- EN: Overall armor -->
+  <OverallArmor>Zirah keseluruhan</OverallArmor>
+  <!-- EN: Mass carried: {0} / {1} kg -->
+  <MassCarried>Massa dibawa: {0} / {1} kg</MassCarried>
+  <!-- EN: Comfortable temperature range -->
+  <ComfyTemperatureRange>Kisaran suhu yang nyaman</ComfyTemperatureRange>
+  <!-- EN: Blunt -->
+  <ArmorBlunt>Tumpul</ArmorBlunt>
+  <!-- EN: Sharp -->
+  <ArmorSharp>Tajam</ArmorSharp>
+  <!-- EN: Heat -->
+  <ArmorHeat>Panas</ArmorHeat>
+  
+  <!-- Log tab -->
+  <!-- EN: Show all -->
+  <ShowAll>Lihat semua</ShowAll>
+  <!-- EN: Show combat -->
+  <ShowCombat>Lihat tempur</ShowCombat>
+  <!-- EN: Show social -->
+  <ShowSocial>Lihat sosial</ShowSocial>
+  <!-- EN: no recent entries -->
+  <NoRecentEntries>Tidak ada entri terbaru</NoRecentEntries>
+  <!-- EN: Copy log to the clipboard. -->
+  <CopyLogTip>Salin ke log papan klip.</CopyLogTip>
+
+  <!-- Forming caravan tab -->
+  <!-- EN: Gathering animals -->
+  <FormingCaravanStatus_GatheringAnimals>Kumpulkan barang</FormingCaravanStatus_GatheringAnimals>
+  <!-- EN: Gathering animals (waiting) -->
+  <FormingCaravanStatus_GatheringAnimals_Pause>Mengumpulkan hewan (menunggu)</FormingCaravanStatus_GatheringAnimals_Pause>
+  <!-- EN: Gathering items -->
+  <FormingCaravanStatus_GatheringItems>Kumpulkan barang</FormingCaravanStatus_GatheringItems>
+  <!-- EN: Gathering items (waiting) -->
+  <FormingCaravanStatus_GatheringItems_Pause>Mengumpulkan barang (menunggu)</FormingCaravanStatus_GatheringItems_Pause>
+  <!-- EN: Gathering downed people -->
+  <FormingCaravanStatus_GatheringDownedPawns>Kumpulkan orang yang jatuh</FormingCaravanStatus_GatheringDownedPawns>
+  <!-- EN: Gathering downed people (waiting) -->
+  <FormingCaravanStatus_GatheringDownedPawns_Pause>Mengumpulkan orang yang jatuh (menunggu)</FormingCaravanStatus_GatheringDownedPawns_Pause>
+  <!-- EN: Leaving -->
+  <FormingCaravanStatus_Leaving>Pergi</FormingCaravanStatus_Leaving>
+  <!-- EN: Leaving (waiting) -->
+  <FormingCaravanStatus_Leaving_Pause>Pergi (menunggu)</FormingCaravanStatus_Leaving_Pause>
+  <!-- EN: Waiting -->
+  <FormingCaravanStatus_Waiting>Menunggu</FormingCaravanStatus_Waiting>
+  <!-- EN: Members -->
+  <CaravanMembers>Anggota</CaravanMembers>
+  <!-- EN: Animals -->
+  <CaravanAnimals>Hewan</CaravanAnimals>
+  <!-- EN: To load -->
+  <ItemsToLoad>Untuk dimuat</ItemsToLoad>
+  <!-- EN: Loaded -->
+  <LoadedItems>Memuat</LoadedItems>
+  <!-- EN: pack animals -->
+  <PackAnimalsCountLower>Hewan pengangkut</PackAnimalsCountLower>
+  <!-- EN: mentally broken -->
+  <InMentalStateCountLower>Mental terganggu</InMentalStateCountLower>
+
+  <!-- Transporter contents -->
+  <!-- EN: Remove {{0}}x {0} -->
+  <RemoveSliderText>Menghapus {{0}}x {0}</RemoveSliderText>
+  <!-- EN: Contained items -->
+  <ContainedItems>Mengandung barang</ContainedItems>
+  <!-- EN: Do you really want to remove {0}? -->
+  <ConfirmRemoveItemDialog>Apakah anda yakin ingin menghapus {0}?</ConfirmRemoveItemDialog>
+  
+  <!-- Quests tab -->
+  <!-- EN: Dismiss this quest and move it to the historical tab.\n\nThe quest can be un-dismissed at any time. Its effects and expiry times will proceed as normal. You won't recieve notifications about dismissed quests. -->
+  <DismissQuest>Tutup misi ini dan pindahkan ke tab riwayat.\n\nMisi bisa ditutup kapan saja. Anda tidak akan menerima notifikasi tentang misi yang telah ditutup.</DismissQuest>
+  <!-- EN: Un-dismiss this quest.\n\nThe quest will be returned to the available or active tab, and notifications will be re-enabled. -->
+  <UnDismissQuest>Batalkan penutupan misi ini.\n\nMisi akan dikembalikan ke tab yang tersedia atau aktif, dan notifikasi akan diaktifkan kembali.</UnDismissQuest>
+  <!-- EN: This quest is here because it was dismissed.\n\nYou can un-dismiss it until it expires. -->
+  <QuestDismissed>Misi ada disini kerena telah ditutup.\n\nAnda dapat menutupnya hingga misinya berakhir.</QuestDismissed>
+  <!-- EN: Delete this quest and remove it from the quest list forever. -->
+  <DeleteQuest>v.</DeleteQuest>
+
+  <!-- Animal pen food tab -->
+  <!-- EN: enclose the pen marker to calculate food information -->
+  <PenFoodTab_NotEnclosed>Lampirkan kandang untuk menghitung informasi makanan</PenFoodTab_NotEnclosed>
+
+  <!-- EN: Nutrition stockpiled -->
+  <PenFoodTab_StockpileTotal>Penyimpanan nutrisi</PenFoodTab_StockpileTotal>
+  <!-- EN: The total nutrition of stockpiled food in the pen. -->
+  <PenFoodTab_StockpileTotalDescription>Total nutrisi makanan yang disimpan dalam kandang.</PenFoodTab_StockpileTotalDescription>
+  <!-- EN: Days to stockpile exhaustion -->
+  <PenFoodTab_StockpileEmptyDays>Hari-hari sampai simpanan kosong</PenFoodTab_StockpileEmptyDays>
+  <!-- EN: Nutrition consumption exceeds nutrition growth rate in this pen. The animals will eventually eat all the stockpiled food and starve. -->
+  <PenFoodTab_StockpileEmptyDaysDescription>Konsumsi nutrisi melebihi laju pertumbuhan di kandang ini. Cepat atau lambat, hewan akan menghabiskan seluruh simpanan makanan dan mati kelaparan.</PenFoodTab_StockpileEmptyDaysDescription>
+
+  <!-- EN: Animal type -->
+  <PenFoodTab_AnimalType>Jenis hewan</PenFoodTab_AnimalType>
+  <!-- EN: Count -->
+  <PenFoodTab_Count>menghitung</PenFoodTab_Count>
+  <!-- EN: Today -->
+  <PenFoodTab_CurrentDay>Hari ini</PenFoodTab_CurrentDay>
+  <!-- EN: nutrition -->
+  <PenFoodTab_Nutrition_Unit>nutrisi</PenFoodTab_Nutrition_Unit>
+  <!-- EN: per day -->
+  <PenFoodTab_NutritionPerDay_Unit>per hari</PenFoodTab_NutritionPerDay_Unit>
+  <!-- EN: Force display animal... -->
+  <PenFoodTab_AddAnimal>paksa tampilan hewan...</PenFoodTab_AddAnimal>
+
+  <!-- EN: Nutrition growth -->
+  <PenFoodTab_NaturalNutritionGrowthRate>Pertumbuhan nutrisi</PenFoodTab_NaturalNutritionGrowthRate>
+  <!-- EN: Growth per season -->
+  <PenFoodTab_GrowthPerSeason>Pertumbuhan per musim</PenFoodTab_GrowthPerSeason>
+  <!-- EN: Nutrition consumption -->
+  <PenFoodTab_TotalNutritionConsumptionRate>Konsumsi nutrisi</PenFoodTab_TotalNutritionConsumptionRate>
+  <!-- EN: The average nutrition provided by edible plants in this pen. -->
+  <PenFoodTab_NaturalNutritionGrowthRateDescription>Nutrisi rata-rata yang disediakan oleh tanaman yang dapat dimakan di kandang ini.</PenFoodTab_NaturalNutritionGrowthRateDescription>
+  <!-- EN: The nutrition needed by animals currently in this pen.\n\nTo get more food, expand the pen to cover more wild plant growth, or deliver stockpiled food like haygrass to the pen. -->
+  <PenFoodTab_NutritionConsumptionDescription>Nutrisi yang dibutuhkan oleh hewan saat di kandang ini.</PenFoodTab_NutritionConsumptionDescription>
+  <!-- EN: Note: Plant growth rate varies due to seasons, weather, theft by wild animals, and other factors. These calculations are approximations. -->
+  <PenFoodTab_NaturalNutritionGrowthRateSeasonal>catatan: Tingkat pertumbuhan tenaman bervariasi tergantung pada musim, cuaca, pencurian oleh binatang liar, dan faktor lainnya. Perhitungan ini adalah perkiraan..</PenFoodTab_NaturalNutritionGrowthRateSeasonal>
+
+  <!-- EN: Total consumption -->
+  <PenFoodTab_NutritionConsumedPerDay_ColumLabel>Total Konsumsi</PenFoodTab_NutritionConsumedPerDay_ColumLabel>
+  <!-- EN: The total nutrition that will be consumed each day by each type of animal in this pen. -->
+  <PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>Nilai nurtrisi yang dikonsumsi setiap hari oleh semua spesies hewan di kandang itu.</PenFoodTab_NutritionConsumedPerDay_ColumnTooltip>
+  <!-- EN: Daily consumption per {ANIMALDEF_label} -->
+  <PenFoodTab_NutritionConsumedPerDay>Konsumsi harian {ANIMALDEF_label}</PenFoodTab_NutritionConsumedPerDay>
+  <!-- EN: each {CONSUMEDAMOUNT} -->
+  <PenFoodTab_NutritionConsumedEachAnimalLabel>setiap {CONSUMEDAMOUNT}</PenFoodTab_NutritionConsumedEachAnimalLabel>
+  <!-- EN: Count that could be supported with no other animals in the pen -->
+  <PenFoodTab_AnimalTypeAnimalCapacity>Hitungan yang dapat di dukung tanpa hewan lain di kandang</PenFoodTab_AnimalTypeAnimalCapacity>
+
+  <!-- EN: Edible now -->
+  <PenFoodTab_EdibleNow>Dapat dimakan sekarang</PenFoodTab_EdibleNow>
+
+  <!-- EN: Auto-cut plants in pen -->
+  <PenAutoCut_EnabledCheckbox>Tanaman yang dipotong otomatis dalam kandang</PenAutoCut_EnabledCheckbox>
+  <!-- EN: Automatically mark certain inedible plants to be cut. This makes room for edible plants to grow, which your animals can then eat.\n\nThis auto-designation happens periodically and only applies to certain plants.\n\nThis only works when the pen is enclosed. -->
+  <PenAutoCut_EnabledCheckboxTip>Tandai tanaman tertentu yang tidak dapat dimakan secara otomatis untuk dipotong. Hal ini memberi ruang bagi tanaman yang dapat dimakan untuk tumbuh, yang kemudian dapat dimakan oleh hewan anda.\n\nPenunjuk otomatis ini terjadi secara berkala dan hanya berlaku pada tanaman tertentu.\n\nHanya berfungsi jika kandang tertutup.</PenAutoCut_EnabledCheckboxTip>
+
+  <!-- EN: Pen is not enclosed -->
+  <AutocutUnenclosedPen>Kandang tidak tertutup</AutocutUnenclosedPen>
+  <!-- EN: Pen is not enclosed now, so auto-cut won’t occur. -->
+  <AutocutUnenclosedPenTip>Kandang tidak tertutup sekarang, jadi pemotongan otomatis tidak akan terjadi.</AutocutUnenclosedPenTip>
+</LanguageData>
