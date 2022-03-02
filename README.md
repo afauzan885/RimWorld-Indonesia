@@ -1,1 +1,3 @@
-#                                                                             RimWorld-Indonesia
+#  RimWorld-Indonesia
+
+##Selamat Datang di Terjemahan RimWorld
