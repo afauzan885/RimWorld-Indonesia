@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: first body ring -->
+  <MechanicalTermiteBodyFirstRing.label>cicin badan pertama</MechanicalTermiteBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyFirstRing.labelShort>cincin badan</MechanicalTermiteBodyFirstRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalTermiteBodySecondRing.label>cincin badan kedua</MechanicalTermiteBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodySecondRing.labelShort>cincin badan</MechanicalTermiteBodySecondRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalTermiteBodyThirdRing.label>cincin badan ketiga</MechanicalTermiteBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalTermiteBodyThirdRing.labelShort>cincin badan</MechanicalTermiteBodyThirdRing.labelShort>
+  
+</LanguageData>
