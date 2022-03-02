@@ -1,0 +1,675 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Main menu -->
+  <!-- EN: Tutorial -->
+  <Tutorial>Tutorial</Tutorial>
+  <!-- EN: New colony -->
+  <NewColony>Koloni baru</NewColony>
+  <!-- EN: Back to game -->
+  <BackToGame>Kembali ke permainan</BackToGame>
+  <!-- EN: Review scenario -->
+  <ReviewScenario>Lihat skenario</ReviewScenario>
+  <!-- EN: Save -->
+  <Save>Simpan</Save>
+  <!-- EN: Load game -->
+  <LoadGame>Muat permainan</LoadGame>
+  <!-- EN: Options -->
+  <Options>Pengaturan</Options>
+  <!-- EN: Mod -->
+  <Mod>Mod</Mod>
+  <!-- EN: Mods -->
+  <Mods>Mod</Mods>
+  <!-- EN: Save translation report -->
+  <SaveTranslationReport>Simpan laporan terjemahan</SaveTranslationReport>
+  <!-- EN: Generating translation report -->
+  <GeneratingTranslationReport>Membuat laporan terjemahan</GeneratingTranslationReport>
+  <!-- EN: Cleanup translation files -->
+  <CleanupTranslationFiles>Bersihkan file terjemahan</CleanupTranslationFiles>
+  <!-- EN: Update translations files (TKey's) -->
+  <TranslationFilesTKeyUpdate>Perbaharui file terjemahan (TKey's)</TranslationFilesTKeyUpdate>
+  <!-- EN: Cleaning translation files -->
+  <CleaningTranslationFiles>Bersihkan file terjemahan</CleaningTranslationFiles>
+  <!-- EN: Credits -->
+  <Credits>Kredit</Credits>
+  <!-- EN: Quit to main menu -->
+  <QuitToMainMenu>Keluar ke menu utama</QuitToMainMenu>
+  <!-- EN: Save and quit to menu -->
+  <SaveAndQuitToMainMenu>Simpan dan keluar ke menu utama</SaveAndQuitToMainMenu>
+  <!-- EN: Quit to OS -->
+  <QuitToOS>Keluar ke OS</QuitToOS>
+  <!-- EN: Save and quit to OS -->
+  <SaveAndQuitToOS>Simpan dan keluar ke OS</SaveAndQuitToOS>
+  <!-- EN: Fiction primer -->
+  <FictionPrimer>Fiksi primer</FictionPrimer>
+  <!-- EN: Ludeon blog -->
+  <LudeonBlog>Blog Ludeon</LudeonBlog>
+  <!-- EN: Forums -->
+  <Forums>Forum</Forums>
+  <!-- EN: Official wiki -->
+  <OfficialWiki>Wiki resmi</OfficialWiki>
+  <!-- EN: Tynan's twitter -->
+  <TynansTwitter>Twitter Tynan</TynansTwitter>
+  <!-- EN: Tynan's design book -->
+  <TynansDesignBook>Buku desain Tynan</TynansDesignBook>
+  <!-- EN: Help translate RimWorld -->
+  <HelpTranslate>Bantu terjemahkan RimWorld</HelpTranslate>
+  <!-- EN: Buy soundtrack -->
+  <BuySoundtrack>Beli Soundtrack</BuySoundtrack>
+  <!-- EN: Create world -->
+  <CreateWorld>Buat dunia</CreateWorld>
+
+  <!-- Main menu translations info window -->
+  <!-- EN: All translations of RimWorld are fan-made. This fan-made translation was created by the following excellent volunteers:\n\n{0} -->
+  <TranslationThanks>Semua terjemahan RimWorld dibuat oleh penggemarnya. Terjemahan ini dibuat oleh sukarelawan terbaik berikut ini:\n\n{0}</TranslationThanks>
+  <!-- EN: You can contribute too. Click below to learn more (opens web browser). -->
+  <TranslationHowToContribute>anda juga bisa bekontribusi. Klik dibawah ini untuk mempelajari lebih lanjut (buka browser web).</TranslationHowToContribute>
+  <!-- EN: Learn more -->
+  <LearnMore>Pelajari lebih lanjut</LearnMore>
+
+  <!-- Main menu dev build -->
+  <!-- EN: Warning: This is an unstable development build. This means we are running design experiments and doing technical development.\n\nSome things will be temporarily unbalanced on purpose. This is a classic game design method where we deliberately go too far with a balance change in order to better understand balance boundaries. We can then use that information to decide on the final balance points.\n\nThere will also be bugs, including game-breaking ones. Save compatibility may break any time.\n\nIf you're okay with all of this, thanks for testing! If you don't want to be subject to our experiments, please play the latest stable version. -->
+  <DevBuildWarning>Peringatan: Ini merupakan versi pengembang yang tidak stabil. Kami sedang menjalankan eksperimen desain dan sedang melakukan peningkatan teknis.\n\nBeberapa hal sengaja kami tidak seimbangkan. Ini adalah metode desain game klasik yang dimana kami ingin melangkah lebih jauh dengan perubahan keseimbangan untuk memahami batas keseimbangan. Kami dapat menggunakan informasi itu untuk menentukan titik keseimbangan akhir.\n\nKemungkinan akan muncul bug, termasuk permainan juga dapat mengalami crash. Penyimpanan yang kompatibilitas juga dapat crash kapan saja.\n\nJika anda setuju dengan semua ini, terima kasih telah mengujinya! Jika anda tidak ingin menjadi subjek percobaan kami, silahkan mainkan ulang saat versi terbaru sudah stabil.</DevBuildWarning>
+
+  <!-- Create/review world -->
+  <!-- EN: Review world -->
+  <ReviewWorld>Lihat dunia</ReviewWorld>
+  <!-- EN: Generate -->
+  <WorldGenerate>Membuat</WorldGenerate>
+  <!-- EN: Save and finish -->
+  <WorldSaveAndFinish>Simpan dan selesai</WorldSaveAndFinish>
+  <!-- EN: Reset -->
+  <Reset>Reset</Reset>
+  <!-- EN: Globe coverage -->
+  <PlanetCoverage>Cangkupan global</PlanetCoverage>
+  <!-- EN: Overall rainfall -->
+  <PlanetRainfall>Curah hujan keseluruhan</PlanetRainfall>
+  <!-- EN: Overall temperature -->
+  <PlanetTemperature>Suhu keseluruhan</PlanetTemperature>
+  <!-- EN: Population -->
+  <PlanetPopulation>Populasi</PlanetPopulation>
+  <!-- EN: Low -->
+  <PlanetRainfall_Low>Rendah</PlanetRainfall_Low>
+  <!-- EN: Normal -->
+  <PlanetRainfall_Normal>Normal</PlanetRainfall_Normal>
+  <!-- EN: High -->
+  <PlanetRainfall_High>Tinggi</PlanetRainfall_High>
+  <!-- EN: Low -->
+  <PlanetTemperature_Low>Rendah</PlanetTemperature_Low>
+  <!-- EN: Normal -->
+  <PlanetTemperature_Normal>Normal</PlanetTemperature_Normal>
+  <!-- EN: High -->
+  <PlanetTemperature_High>Tinggi</PlanetTemperature_High>
+  <!-- EN: Sparse -->
+  <PlanetPopulation_Low>Sepi</PlanetPopulation_Low>
+  <!-- EN: Normal -->
+  <PlanetPopulation_Normal>Sedang</PlanetPopulation_Normal>
+  <!-- EN: Crowded -->
+  <PlanetPopulation_High>Ramai</PlanetPopulation_High>
+  <!-- EN: Seed -->
+  <WorldSeed>Seed</WorldSeed>
+  <!-- EN: Randomize seed -->
+  <RandomizeSeed>Seed diacak</RandomizeSeed>
+  <!-- EN: The planet is always the same diameter, but since it's far larger than needed for play, we don't generate the whole surface because it can take a very long time. This is the percentage of the surface that you want generated. -->
+  <PlanetCoverageTip>Planet ini selalu memiliki diameter yang sama, tetapi karena ukurannya jauh lebih besar daripada ukuran yang diperlukan untuk memainkannya, kami tidak membuat seluruh permukaan pada waktu yang bersamaan karena dapat memakan waktu yang sangat lama. Ini merupakan persentase permukaan yang ingin anda buat.</PlanetCoverageTip>
+  <!-- EN: Factions -->
+  <WorldFactionsTab>Faksi</WorldFactionsTab>
+
+  <!-- Select world -->
+  <!-- EN: Select world -->
+  <SelectWorld>Pilih dunia</SelectWorld>
+  <!-- EN: Select -->
+  <WorldChooseButton>Pilih</WorldChooseButton>
+  <!-- EN: No world files found. Create a world first. -->
+  <NoWorldsFilesFound>File dunia tidak ditemukan. Ciptakan dunia yang pertama.</NoWorldsFilesFound>
+  
+  <!-- Version info -->
+  <!-- EN: Version {0} is now available. Check ludeon.com for more info. -->
+  <BuildNowAvailable>Versi {0} telah tersedia. Kunjungi ludeon.com untuk info lebih lanjut.</BuildNowAvailable>
+  <!-- EN: This is the latest version. -->
+  <BuildUpToDate>Ini merupakan versi terbaru.</BuildUpToDate>
+  <!-- EN: Error getting version info: {0} -->
+  <ErrorGettingVersionInfo>Terjadi kesalahan saat mengambil informasi versi: {0}</ErrorGettingVersionInfo>
+  <!-- EN: Loading version info... -->
+  <LoadingVersionInfo>Memuat info versi...</LoadingVersionInfo>
+
+  <!-- World generator -->
+  <!-- EN: Generate world -->
+  <GenerateWorld>Membuat dunia</GenerateWorld>
+
+  <!-- Mods config -->
+  <!-- EN: Open Steam Workshop -->
+  <OpenSteamWorkshop>Buka steam Workshop</OpenSteamWorkshop>
+  <!-- EN: Get mods from forum -->
+  <GetModsFromForum>Dapatkan mods dari forum</GetModsFromForum>
+  <!-- EN: Open mods data folder -->
+  <GetModsFromForum>Dapatkan mods dari forum</GetModsFromForum>
+  <!-- EN: Show mods data location -->
+  <ShowModsDataLocation>Tampilkan lokasi data mod</ShowModsDataLocation>
+  <!-- EN: Are you sure you want to disable the core mod? The game won't work at all unless you have another mod that replaces all the core functionality.\n\nRemember, other mods can override defs in the core mod by using the same defName. -->
+  <ConfirmDisableCoreMod>anda yakin ingin menonaktifkan mod inti? Permainan tidak akan berfungsi sama sekali kecuali anda memiliki mod lain yang mengganti fungsi mod inti.\n\nIngat, mod lain dapat mengganti def mod inti dengan menggunakan nama def yang sama.</ConfirmDisableCoreMod>
+  <!-- EN: Are you sure you want to delete all the content for {0}? -->
+  <ConfirmDeleteMod>anda yakin ingin menghapus semua konten untuk {0}?</ConfirmDeleteMod>
+  <!-- EN: Auto-sort mods -->
+  <ResolveModOrder>Urutkan mod secara otomatis</ResolveModOrder>
+  <!-- EN: Cannot move {0}: It must be loaded after {1}. -->
+  <ModReorderConflict_MustLoadAfter>Tidak dapat dipindahkan {0}: Harus dimuat setelah {1}.</ModReorderConflict_MustLoadAfter>
+  <!-- EN: Cannot move {0}: It must be loaded before {1}. -->
+  <ModReorderConflict_MustLoadBefore>Tidak dapat dipindahkan {0}: Harus dimuat sebelum {1}.</ModReorderConflict_MustLoadBefore>
+  <!-- EN: Unsubscribe -->
+  <Unsubscribe>Berhenti berlangganan</Unsubscribe>
+  <!-- EN: Are you sure you want to unsubscribe from {0}? -->
+  <ConfirmUnsubscribe>anda yakin ingin berhenti berlangganan dari {0}?</ConfirmUnsubscribe>
+  <!-- EN: Author -->
+  <Author>Pembuat</Author>
+  <!-- EN: Workshop page -->
+  <WorkshopPage>Halaman workshop</WorkshopPage>
+  <!-- EN: Upload to Steam Workshop -->
+  <UploadToSteamWorkshop>Unggah ke Steam Workshop</UploadToSteamWorkshop>
+  <!-- EN: Update on Steam Workshop -->
+  <UpdateOnSteamWorkshop>Perbaharui ke Steam Workshop</UpdateOnSteamWorkshop>
+  <!-- EN: Upload already in progress. -->
+  <UploadAlreadyInProgress>Unggahan sedang berlangsung.</UploadAlreadyInProgress>
+  <!-- EN: Workshop submission failed.\n\nReason: {0} -->
+  <WorkshopSubmissionFailed>Pengiriman workshop gagal.\n\nAlasan: {0}</WorkshopSubmissionFailed>
+  <!-- EN: Successfully uploaded {0}. -->
+  <WorkshopUploadSucceeded>Unggahan berhasil {0}.</WorkshopUploadSucceeded>
+  <!-- EN: Downloading -->
+  <Downloading>Mengunduh</Downloading>
+  <!-- EN: Display fulfilled requirements -->
+  <ModDisplayFulfilledRequirements>Tampilan memenuhi persyaratan</ModDisplayFulfilledRequirements>
+  <!-- EN: Click to select. -->
+  <ModClickToSelect>Klik untuk memilih.</ModClickToSelect>
+  <!-- EN: Click to go to website. -->
+  <ModClickToGoToWebsite>klik untuk pergi ke website.</ModClickToGoToWebsite>
+  <!-- EN: Source -->
+  <Source>Sumber</Source>
+  <!-- EN: For game version(s) -->
+  <ModTargetVersion>Untuk versi permainan(s)</ModTargetVersion>
+  <!-- EN: ID -->
+  <ModPackageId>ID</ModPackageId>
+  <!-- EN: This must be loaded before: {0}. -->
+  <ModMustLoadBefore>Harus dimuat sebelumnya: {0}.</ModMustLoadBefore>
+  <!-- EN: This must be loaded after: {0}. -->
+  <ModMustLoadAfter>Harus dimuat setelahnya: {0}.</ModMustLoadAfter>
+  <!-- EN: Depends on: {0} -->
+  <ModDependsOn>Tergantung pada: {0}</ModDependsOn>
+  <!-- EN: Incompatible with: {0} -->
+  <ModIncompatibleWith>Tidak cocok dengan: {0}</ModIncompatibleWith>
+  <!-- EN: This mod is incompatible with: {0}. -->
+  <ModIncompatibleWithTip>Mod ini tidak cocok dengan: {0}.</ModIncompatibleWithTip>
+  <!-- EN: This mod is loading in the wrong order relative to another mod. Use the 'auto-sort' button, or re-order the mods manually. -->
+  <ModOrderingWarning>Mod ini dimuat dalam urutan yang salah terhadap mod lainnya, gunakan tombol 'urutkan otomatis', atau atur ulang mod secara manual.</ModOrderingWarning>
+  <!-- EN: Another active mod uses the same ID: {0}. -->
+  <ModWithSameIdAlreadyActive>Mod lainnya yang sama sedang aktif ID: {0}.</ModWithSameIdAlreadyActive>
+  <!-- EN: There is a cyclic mod dependency starting with {0}. -->
+  <ModCyclicDependency>Ketergantungan mod siklik yang digunakan Difficulty_ManhunterChanceOnDamageFactor_Info {0}.</ModCyclicDependency>
+  <!-- EN: This requires following mods to work: {0}. -->
+  <ModUnsatisfiedDependency>Membutuhkan mod lainnya agar dapat berfungsi: {0}.</ModUnsatisfiedDependency>
+  <!-- EN: This mod was not made for this version of RimWorld, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion>Mod ini tidak dirancang untuk versi RimWorld saat ini, dan mungkin tidak akan berfungsi dengan baik.</ModNotMadeForThisVersion>
+  <!-- EN: This mod is not made for this version of RimWorld. -->
+  <ModNotMadeForThisVersionShort>Mod ini tidak dirancang untuk versi Rimworld saat ini.</ModNotMadeForThisVersionShort>
+  <!-- EN: This mod was made for a newer version of RimWorld than this, and will probably not work correctly. -->
+  <ModNotMadeForThisVersion_Newer>Mod ini dirancang untuk versi Rimworld yang lebih baru, dan kemungkinan tidak berfungsi dengan baik.</ModNotMadeForThisVersion_Newer>
+  <!-- EN: Mod needs properly formatted supported version information in About.xml. Like this: <supportedVersions><li>{0}</li></supportedVersions> - <targetVersion> is deprecated. Check log for further information. -->
+  <MessageModNeedsWellFormattedTargetVersion>Mod membutuhkan informasi versi yang di dukung dengan format yang benar di About.xml. Seperti ini: &lt;supportedVersions&gt;&lt;li&gt;{0}&lt;/li&gt;&lt;/supportedVersions&gt; - &lt;targetVersion&gt; Sudah usang. Periksa log untuk informasi yang lebih lanjut.</MessageModNeedsWellFormattedTargetVersion>
+  <!-- EN: Mod needs a unique, properly formatted packageId in About.xml. It must must meet following requirements:\n\n  - Alphanumeric characters and dot only.\n  - No spaces.\n  - At least one dot.\n  - No repeated dots in a row, or starting or ending with a dot.\n  - 60 characters or less.\n  - Cannot contain word "Ludeon".\n\nFor example:\n<packageId>AuthorName.ModName</packageId>\n<packageId>AuthorName.ModName.Specific</packageId> -->
+  <MessageModNeedsWellFormattedPackageId>Mod ini membutuhkan packageId yang diformat dengan benar di About.xml. Dengan memenuhi persyaratan berikut:\n\n  - Karakter alfanumerik dan hanya titik saja.\n  - Jangan di spasi.\n  - setidaknya terdapat satu titik.\n  - Tidak ada titik yang berulang dalam satu baris, atau dimulai dan atau juga diakhiri dengan titik.\n  - 60 Karakter atau kurang.\n  - Jangan berisi kata "Ludeon".\n\nUntuk contoh:\n&lt;packageId&gt;AuthorName.ModName&lt;/packageId&gt;\n&lt;packageId&gt;AuthorName.ModName.Specific&lt;/packageId&gt;</MessageModNeedsWellFormattedPackageId>
+  <!-- EN: This mod has issues in LoadFolders.xml, that you need to resolve before uploading: -->
+  <ModHadLoadFolderIssues>mod ini bermasalah pada LoadFolders.xml, anda perlu selesaikan sebelum mengupload:</ModHadLoadFolderIssues>
+  <!-- EN: Folder {0} specified for version {1} doesn't exist. -->
+  <ModLoadFolderDoesntExist>Folder {0} versi spesifik untuk {1} Tidak ada.</ModLoadFolderDoesntExist>
+  <!-- EN: Malformed version string '{0}'. Correct format is Major.Minor (e.g. 1.1) -->
+  <ModLoadFolderMalformedVersion>Versi string rusak '{0}'. Format yang benar adalah Major.Minor (e.g. 1.1)</ModLoadFolderMalformedVersion>
+  <!-- EN: The list of load folders for version {0} is empty. -->
+  <ModLoadFolderListEmpty>Daftar folder muat untuk versi {0} Kosong.</ModLoadFolderListEmpty>
+  <!-- EN: Version {0} lists the same folder more than once: {1}. -->
+  <ModLoadFolderRepeatingFolder>Versi {0} harus mencantumkan folder yang sama lebih dari sekali: {1}.</ModLoadFolderRepeatingFolder>
+  <!-- EN: Invalid version order: {0} should come before {1}. -->
+  <ModLoadFolderOutOfOrder>Urutan versi tidak valid: {0} Harusnya diurutkan sebelumn {1}.</ModLoadFolderOutOfOrder>
+  <!-- EN: Invalid version order: 'default' should be defined first. -->
+  <ModLoadFolderOutOfOrderDefault>Urutan versi tidak valid: 'default' harus didefinisikan terlebih dahulu.</ModLoadFolderOutOfOrderDefault>
+  <!-- EN: Using 'default' in load folders is deprecated. Please define folders for each version using the <v...> tags. -->
+  <ModLoadFolderDefaultDeprecated>Menggunakan 'default' dalam folder muat sudah tidak digunakan lagi. Tentukan folder untuk setiap versi yang digunakan &lt;v...&gt; tags.</ModLoadFolderDefaultDeprecated>
+  <!-- EN: Version {0} is defined in load folders, but is not listed in 'supportedVersions' of mod's About.xml. -->
+  <ModLoadFolderDefinesUnsupportedGameVersion>Versi {0} Terdapat di dalam folder muat, tetapi tidak terdaftar di 'supportedVersions' of mod's About.xml.</ModLoadFolderDefinesUnsupportedGameVersion>
+  <!-- EN: Drag to reorder -->
+  <DragToReorder>Seret untuk menyusun ulang</DragToReorder>
+
+  <!-- Select scenario -->
+  <!-- EN: Choose scenario -->
+  <ChooseScenario>Pilih skenario</ChooseScenario>
+  <!-- EN: Custom -->
+  <ScenariosCustom>kustom</ScenariosCustom>
+  <!-- EN: Steam Workshop -->
+  <ScenariosSteamWorkshop>Steam Workshop</ScenariosSteamWorkshop>
+  <!-- EN: Scenario editor -->
+  <ScenarioEditor>Editor skenario</ScenarioEditor>
+  <!-- EN: Delete -->
+  <Delete>Hapus</Delete>
+  
+  <!-- Scenario editor -->
+  <!-- EN: seed -->
+  <Seed>Seed</Seed>
+  <!-- EN: Load -->
+  <Load>Muat</Load>
+  <!-- EN: edit mode -->
+  <EditMode>Mode edit</EditMode>
+  <!-- EN: Summary -->
+  <Summary>Ringkasan</Summary>
+  <!-- EN: Add part -->
+  <AddPart>Tambah bagian</AddPart>
+  <!-- EN: All text fields must be filled. -->
+  <TextFieldsMustBeFilled>Semua bidang teks harus diisi.</TextFieldsMustBeFilled>
+  <!-- EN: Are you sure you want to upload this to the Steam Workshop?\n\nYou must agree to the Steam Workshop terms of service. Find the full terms here:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement -->
+  <ConfirmSteamWorkshopUpload>Apakah anda yakin ingin mengunggah ini ke Steam Workshop?\n\nanda harus menyetujui persyaratan layanan Steam Workshop. Temukan persyaratan lengkapnya disini:\n\nhttp://steamcommunity.com/sharedfiles/workshoplegalagreement</ConfirmSteamWorkshopUpload>
+  <!-- EN: Obviously you should only upload content that you created yourself.\n\nDid you create this content yourself? -->
+  <ConfirmContentAuthor>anda hanya perlu mengupload konten yang anda buat sendiri.\n\nApakah anda mau membuat konten ini sendiri?</ConfirmContentAuthor>
+  <!-- EN: Incompatible -->
+  <Incompatible>Tidak didukung</Incompatible>
+  <!-- EN: Tag as translation -->
+  <TagAsTranslation>Tandai sebagai terjemahan</TagAsTranslation>
+  <!-- EN: Too many (max {0}):  -->
+  <TooMany>Terlalu banyak (maks {0}): </TooMany>
+  <!-- EN: Can be updated on Workshop, since you are the author. -->
+  <CanBeUpdatedOnWorkshop>Dapat diperbaharui di Workshop, karena anda adalah pembuatnya.</CanBeUpdatedOnWorkshop>
+  
+  <!-- Select storyteller -->
+  <!-- EN: Choose AI Storyteller -->
+  <ChooseAIStoryteller>Pilih AI Storyteller</ChooseAIStoryteller>
+  <!-- EN: The AI Storyteller creates events like pirate raids, resource drops, or animal attacks. Their choices will affect the story of your colony. You can change these settings at any time. -->
+  <HowStorytellersWork>AI Storyteller merupakan AI pembuat acara seperti serangan penjarah, penurunan sumber daya, atau serangan hewan. Pilihannya akan mempengaruhi jalan cerita koloni anda. anda dapat mengubah pengaturan ini kapan saja.</HowStorytellersWork>
+  <!-- EN: Please choose a difficulty setting. -->
+  <MustChooseDifficulty>Silahkan pilih tingkat kesulitan.</MustChooseDifficulty>
+  <!-- EN: Difficulty -->
+  <Difficulty>Tingkat kesulitan</Difficulty>
+  <!-- EN: Commitment mode -->
+  <CommitmentMode>Mode commitment</CommitmentMode>
+  <!-- EN: Reload anytime mode -->
+  <ReloadAnytimeMode>Mode reload any time</ReloadAnytimeMode>
+  <!-- EN: Please choose commitment mode or reload anytime mode. -->
+  <MustChoosePermadeath>Silahkan pilih mode commitment atau mode reload any time.</MustChoosePermadeath>
+  <!-- EN: You can save and load the game at any time.\n\nThis is a good choice if you're still learning the game, if it fits your personal playstyle, if you're using mods that may break your game, or if you intend to self-enforce commitment mode. -->
+  <ReloadAnytimeModeInfo>Anda dapat menyimpan dan memuat permainan kapan saja.\n\nIni merupakan pilihan yang bagus jika anda masih mempelajari permainan, jika sesuai dengan gaya bermain anda. Jika anda menggunakan mod yang mengakibatkan permainan crash, dan anda berniat untuk memaksakannya di mode commitment.</ReloadAnytimeModeInfo>
+  <!-- EN: You can only save when quitting the game.\n\nSince RimWorld is a story generator, even losing all but one person is not the end of the game - it's part of the story. The game is designed to allow recovery after losses.\n\nPlaying out these terrible situations makes a story with both tragedy and triumph. It's the way RimWorld was designed to be played.\n\nThere's a reason Luke Skywalker didn't quit and reload when his family got killed - loss and recovery is dramatic. -->
+  <PermadeathModeInfo>anda hanya dapat menyimpan saat keluar dari permainan.\n\nKarena RimWorld merupakan permainan pembuat cerita, bahkan saat kehilangan semua dan hanya tersisa satu orang bukanlah akhir dari permainan - ini adalah bagian dari cerita. Permainan ini dirancang akan terjadi pemulihan setelah kerugian yang didapat.\n\nMemainkan situasi yang ekstreme untuk membuat sebuah cerita dengan tragedi dan kemenangan. Begitulah cara permainan RimWorld dirancang.\n\nAda alasan mengapa Luke Skywalker Tidak putus asa dan tetap berjuang disaat keluarganya terbunuh - Kehilangan dan pemulihannya yang dramatis.</PermadeathModeInfo>
+  <!-- EN: Storyteller and playstyle can be changed any time. -->
+  <CanChangeStorytellerSettingsDuringPlay>Storyteller dan playstyle dapat diubah kapan saja.</CanChangeStorytellerSettingsDuringPlay>
+
+  <!-- custom difficulty settings -->
+  <!-- EN: Custom playstyle settings -->
+  <DifficultyCustomSectionLabel>Pengaturan Kustom playstyle</DifficultyCustomSectionLabel>
+  <!-- EN: Set to standard playstyle... -->
+  <DifficultyReset>Setel ke standar playstyle...</DifficultyReset>
+  
+  <!-- EN: Threats -->
+  <DifficultyThreatSection>Ancaman</DifficultyThreatSection>
+  <!-- EN: Threat scale -->
+  <Difficulty_ThreatScale_Label>Skala Ancaman</Difficulty_ThreatScale_Label>
+  <!-- EN: Adjust the size of threats like raids and infestations, and the difficulty of quests. -->
+  <Difficulty_ThreatScale_Info>Sesuaikan ukuran ancaman seperti penjarah dan infestasi, dan tingkat kesulitan misi.</Difficulty_ThreatScale_Info>
+  <!-- EN: Major threats -->
+  <Difficulty_AllowBigThreats_Label>Ancaman besar</Difficulty_AllowBigThreats_Label>
+  <!-- EN: Allow major threats such as raids, infestations, manhunter packs, crashed mechanoid ships and more. -->
+  <Difficulty_AllowBigThreats_Info>Izinkan ancaman besar seperti penjarah, infestasi, serangan ke-pemburu, kapal merchanoids yang jatuh, dan banyak lagi.</Difficulty_AllowBigThreats_Info>
+  <!-- EN: Quest threats -->
+  <Difficulty_AllowViolentQuests_Label>Ancaman misi</Difficulty_AllowViolentQuests_Label>
+  <!-- EN: Allow quests to present with violent threats and challenges. If this is disabled, quests will be modified to be non-violent. -->
+  <Difficulty_AllowViolentQuests_Info>Izinkan misi untuk mendatangkan ancaman dan tantangan kekerasan. Jika dinonaktifkan, misi akan berubah tanpa adanya kekerasan.</Difficulty_AllowViolentQuests_Info>
+  <!-- EN: Intro threats -->
+  <Difficulty_AllowIntroThreats_Label>Intro ancaman</Difficulty_AllowIntroThreats_Label>
+  <!-- EN: Enable the fixed intro threats that appear near game start. -->
+  <Difficulty_AllowIntroThreats_Info>Aktifkan intro ancaman yang muncul di dekat permainan yang anda mulai.</Difficulty_AllowIntroThreats_Info>
+  <!-- EN: Predators hunt humans -->
+  <Difficulty_PredatorsHuntHumanlikes_Label>Predator memburu manusia</Difficulty_PredatorsHuntHumanlikes_Label>
+  <!-- EN: Allow wild predators to hunt humans. -->
+  <Difficulty_PredatorsHuntHumanlikes_Info>Izinkan predator liar memburu manusia.</Difficulty_PredatorsHuntHumanlikes_Info>
+  <!-- EN: Extreme weather -->
+  <Difficulty_AllowExtremeWeatherIncidents_Label>Cuaca ekstreme</Difficulty_AllowExtremeWeatherIncidents_Label>
+  <!-- EN: Allow extreme weather incidents such as toxic fallout, volcanic winters and flashstorms. -->
+  <Difficulty_AllowExtremeWeatherIncidents_Info>Izinkan insiden cuaca ekstreme seperti udara beracun, musim dingin vulkanik, dan badai petir.</Difficulty_AllowExtremeWeatherIncidents_Info>
+
+  <!-- EN: Economy -->
+  <DifficultyEconomySection>Ekonomi</DifficultyEconomySection>
+  <!-- EN: Trade price disadvantage -->
+  <Difficulty_TradePriceFactorLoss_Label>Kerugian saat pedagang</Difficulty_TradePriceFactorLoss_Label>
+  <!-- EN: When trading, buy prices are increased by this amount while sell prices are reduced by this amount. -->
+  <Difficulty_TradePriceFactorLoss_Info>Saat berdagang. Harga beli akan dinaikan dengan jumlah yang anda beli, sementara harga jual akan dikurangi dengan jumlah yang anda jual .</Difficulty_TradePriceFactorLoss_Info>
+  <!-- EN: Harvest yield -->
+  <Difficulty_CropYieldFactor_Label>Hasil panen</Difficulty_CropYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when harvesting plants and crops. This includes harvesting plants and cutting trees. -->
+  <Difficulty_CropYieldFactor_Info>Sesuaikan jumlah panen yang dihasilkan saat memanen tanaman. Hal ini termasuk dengan hasil memanen tanaman dan menebang pohon.</Difficulty_CropYieldFactor_Info>
+  <!-- EN: Mining yield -->
+  <Difficulty_MineYieldFactor_Label>Hasil tambang</Difficulty_MineYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when mining. -->
+  <Difficulty_MineYieldFactor_Info>Sesuaikan jumlah material yang dihasilkan saat menambang.</Difficulty_MineYieldFactor_Info>
+  <!-- EN: Butchering yield -->
+  <Difficulty_ButcherYieldFactor_Label>Hasil pemotongan daging</Difficulty_ButcherYieldFactor_Label>
+  <!-- EN: Adjust the amount of materials produced when butchering. This includes meat, leather, and yield from shredding mechanoids. -->
+  <Difficulty_ButcherYieldFactor_Info>Sesuaikan jumlah daging yang dihasilkan saat memotong daging. Hal ini termasuk dengan daging, kulit, dan hasil mendaur ulang mechanoids.</Difficulty_ButcherYieldFactor_Info>
+  <!-- EN: Research speed -->
+  <Difficulty_ResearchSpeedFactor_Label>Kecepatan penelitian</Difficulty_ResearchSpeedFactor_Label>
+  <!-- EN: Adjust the speed of research. -->
+  <Difficulty_ResearchSpeedFactor_Info>Sesuaikan kecepatan penelitian.</Difficulty_ResearchSpeedFactor_Info>
+  <!-- EN: Quest rewards -->
+  <Difficulty_QuestRewardValueFactor_Label>Hadiah misi</Difficulty_QuestRewardValueFactor_Label>
+  <!-- EN: Adjust the value of rewards given for quests.\n\nNote: Quest reward value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_QuestRewardValueFactor_Info>Sesuaikan nilai hadiah yang diberikan dari misi.\n\nCatatan: Nilai hadiah dari misi juga secara otomatis akan diskalakan untuk mengimbangi skala ancaman. Jika anda menyesuaikan pengaturan ini, anda akan menambahkan jumlah pengganda.</Difficulty_QuestRewardValueFactor_Info>
+  <!-- EN: Raid loot -->
+  <Difficulty_RaidLootPointsFactor_Label>Hasil menjarah</Difficulty_RaidLootPointsFactor_Label>
+  <!-- EN: Adjust the value of loot carried by raiders.\n\nNote: Raid loot value is also automatically scaled to compensate for threat scale. If you adjust this setting, you'll be adding an additional multiplier. -->
+  <Difficulty_RaidLootPointsFactor_Info>Sesuaikan nilai rampasan yang dibawa oleh penjarah.\n\nCatatan: Nilai rampasan yang dibawa penjarah secara otomatis akan diskalakan untuk mengimbangi skala ancaman. Jika anda menyesuaikan pengaturan ini, anda akan menambahkan jumlah pengganda.</Difficulty_RaidLootPointsFactor_Info>
+  <!-- EN: Turret rearm cost -->
+  <Difficulty_MaintenanceCostFactor_Label>Biaya isi ulang turret</Difficulty_MaintenanceCostFactor_Label>
+  <!-- EN: Adjust the cost of rearming turrets. -->
+  <Difficulty_MaintenanceCostFactor_Info>Sesuaikan biaya isi ulang turret.</Difficulty_MaintenanceCostFactor_Info>
+  <!-- EN: Scaria rot chance -->
+  <Difficulty_ScariaRotChance_Label>Skala peluang membusuk karena scaria</Difficulty_ScariaRotChance_Label>
+  <!-- EN: The probability that a corpse will immediately rot upon death, if the creature has the scaria disease.\n\nNote: The default settings are designed to exactly balance out the increase in animal count at higher difficulties, so all players get the same meat rewards. -->
+  <Difficulty_ScariaRotChance_Info>Peluang mayat akan segera membusuk setelah mati, jika makhluk menderita penyakit scaria.\n\nCatatan: Pengaturan default dirancang untuk menyeimbangkan dengan tepat terhadap peningkatan jumlah hewan pada tingkat kesulitan yang lebih tinggi, sehingga semua pemain mendapat hadiah daging yang sama.</Difficulty_ScariaRotChance_Info>
+  <!-- EN: Enemy death on downed -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Label>Kematian musuh saat dia terjatuh</Difficulty_EnemyDeathOnDownedChanceFactor_Label>
+  <!-- EN: Adjust the extra chance that an enemy will immediately die when downed. This affects the chances to take prisoners, and thus colony population growth rates. -->
+  <Difficulty_EnemyDeathOnDownedChanceFactor_Info>Sesuaikan peluang ekstra agar musuh langsung mati saat terjatuh, hal ini akan mempengaruhi peluang untuk menangkap tahanan, dan tingkat pertumbuhan populasi koloni.</Difficulty_EnemyDeathOnDownedChanceFactor_Info>
+
+  <!-- EN: General -->
+  <DifficultyGeneralSection>Umum</DifficultyGeneralSection>
+  <!-- EN: Colonist mood -->
+  <Difficulty_ColonistMoodOffset_Label>Mood koloni</Difficulty_ColonistMoodOffset_Label>
+  <!-- EN: A permanent mood offset applied to every colonist and prisoner. Colonists have a base mood of 50%. -->
+  <Difficulty_ColonistMoodOffset_Info>Perubahan mood permanen diterapkan setiap koloni dan tahanan. Kolonis memiliki mood awal 50%.</Difficulty_ColonistMoodOffset_Info>
+  <!-- EN: Food poison chance -->
+  <Difficulty_FoodPoisonChanceFactor_Label>Peluang keracunan makanan</Difficulty_FoodPoisonChanceFactor_Label>
+  <!-- EN: Adjust the chance that a person will get food poisoning from eating a potentially-poisoned meal. -->
+  <Difficulty_FoodPoisonChanceFactor_Info>Sesuaikan peluang seseorang keracunan makanan karena memakan makanan yang berpotensi beracun.</Difficulty_FoodPoisonChanceFactor_Info>
+  <!-- EN: Animal revenge chance -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Label>Peluang hewan membalas</Difficulty_ManhunterChanceOnDamageFactor_Label>
+  <!-- EN: Adjust the chance that injuring a wild animal will cause it to attack. -->
+  <Difficulty_ManhunterChanceOnDamageFactor_Info>Sesuaikan peluang yang melukai hewan liar yang menyebabkannya menyerangmu.</Difficulty_ManhunterChanceOnDamageFactor_Info>
+  <!-- EN: Friendly fire -->
+  <Difficulty_FriendlyFireChanceFactor_Label>Friendly fire</Difficulty_FriendlyFireChanceFactor_Label>
+  <!-- EN: Adjust the chance of friendly fire.\n\nNote: This setting only affects direct shots which were going to hit their target. It does not prevent damage from explosions, or from shots which were going to miss their target. -->
+  <Difficulty_FriendlyFireChanceFactor_Info>Sesuaikan peluang dari friendly fire.\n\nCatatan: Pengaturan ini hanya mempengaruhi tembakan langsung yang mengenai target. hal ini mengakibatkan kerusakan akibat ledakan, atau tembakan yang meleset dari sasaran.</Difficulty_FriendlyFireChanceFactor_Info>
+  <!-- EN: Colonist instant kills -->
+  <Difficulty_AllowInstantKillChance_Label>Koloni dibunuh secara instan</Difficulty_AllowInstantKillChance_Label>
+  <!-- EN: Adjust the chance that a colonist can die instantly due to an attack. The incoming damage is adjusted so it will down the colonist instead.\n\nThis only prevents some kinds of instant kills - colonists can still be downed and bleed to death, die from fire, explosions, disease, and so on. -->
+  <Difficulty_AllowInstantKillChance_Info>Sesuaikan peluang seorang koloni yang bisa mati seketika karena serangan. Kerusakan yang diterima akan disesuaikan, sehingga hanya akan menjatuhkan kolonimu sebagai gantinya.\n\nHal ini mencegah agar kolonimu tidak terbunuh secara instan - dan kolonimu masih bisa terjatuh, mati kehabisan darah, mati karena api, ledakan, penyakit, dan lain sebagainya.</Difficulty_AllowInstantKillChance_Info>
+  <!-- EN: Infection chance -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Label>Peluang terinfeksi</Difficulty_PlayerPawnInfectionChanceFactor_Label>
+  <!-- EN: Adjust the chance that a wound will become infected. -->
+  <Difficulty_PlayerPawnInfectionChanceFactor_Info>Sesuaikan peluang luka akan terinfeksi.</Difficulty_PlayerPawnInfectionChanceFactor_Info>
+  <!-- EN: Disease frequency -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Label>Frekuensi penyakit</Difficulty_DiseaseIntervalFactor_Inverted_Label>
+  <!-- EN: Adjust the frequency of random disease events. -->
+  <Difficulty_DiseaseIntervalFactor_Inverted_Info>Sesuaikan frenkuensi terjadi penyakit secara acak.</Difficulty_DiseaseIntervalFactor_Inverted_Info>
+  <!-- EN: Insect spawning rate -->
+  <Difficulty_EnemyReproductionRateFactor_Label>Tingkat respawn serangga</Difficulty_EnemyReproductionRateFactor_Label>
+  <!-- EN: Adjust the rate at which existing insect hives spawn new insects. Lower values means more time between spawn events.\n\nThis does not affect whether infestations can occur - only the speed at which active hives produce insects. -->
+  <Difficulty_EnemyReproductionRateFactor_Info>Sesuaikan Kecepatan sarang serangga yang ada untuk me-respawn serangga baru. Nilai yang lebih rendah berati membuat sarang lebih lama me-respawn serangga.\n\nHal ini tidak akan mempengaruhi apakah infestasi akan terjadi - hanya dimana kecepatan sarang yang aktif untuk menghasilkan serangga.</Difficulty_EnemyReproductionRateFactor_Info>
+  <!-- EN: Deep drilling infestations -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Label>Infestasi pengeboran yang dalam</Difficulty_DeepDrillInfestationChanceFactor_Label>
+  <!-- EN: Adjust the chance that deep drilling will trigger an infestation. -->
+  <Difficulty_DeepDrillInfestationChanceFactor_Info>Sesuaikan peluang pengeboran dalam yang akan memicu infestasi.</Difficulty_DeepDrillInfestationChanceFactor_Info>
+  <!-- EN: Map generation ancient threats -->
+  <Difficulty_PeacefulTemples_Inverted_Label>Membuat ancaman kuno di peta</Difficulty_PeacefulTemples_Inverted_Label>
+  <!-- EN: Ancient structures may contain dangerous threats. -->
+  <Difficulty_PeacefulTemples_Inverted_Info>Bangunan kuno memungkinkan adanya ancaman yang berbahaya.</Difficulty_PeacefulTemples_Inverted_Info>
+  <!-- EN: Map generation natural hives -->
+  <Difficulty_AllowCaveHives_Label>Membuat sarang alami di peta</Difficulty_AllowCaveHives_Label>
+  <!-- EN: Dormant insect hives may spawn in natural caves.\n\nThis setting only applies to map generation and does not affect active insects that may tunnel in during play. -->
+  <Difficulty_AllowCaveHives_Info>Sarang serangga yang tidak aktif dapat respawn digua secara alami.\n\nPengaturan ini hanya berlaku untuk pembuatan peta dan tidak akan mempengaruhi keaktifan serangga yang mungkin ikut selama permainan berlangsung.</Difficulty_AllowCaveHives_Info>
+
+  <!-- EN: Player tools -->
+  <DifficultyPlayerToolsSection>Alat pemain</DifficultyPlayerToolsSection>
+  <!-- EN: Player can build traps -->
+  <Difficulty_AllowTraps_Label>Pemain dapat membuat jebakan</Difficulty_AllowTraps_Label>
+  <!-- EN: Player can build traps like spike traps and IED traps. -->
+  <Difficulty_AllowTraps_Info>Pemain dapat membuat jebakan, seperti jebakan paku dan jebakan IED.</Difficulty_AllowTraps_Info>
+  <!-- EN: Player can build turrets -->
+  <Difficulty_AllowTurrets_Label>Pemain dapat membuat menaea</Difficulty_AllowTurrets_Label>
+  <!-- EN: Player can build static turrets like mini-turrets, autocannon turrets, and uranium slug turrets.\n\nYou can still use captured turrets even if this is disabled. -->
+  <Difficulty_AllowTurrets_Info>Pemain dapat membangun menara, seperti menara mini, menara meriam otomatis, dan menara uranium slug.\n\nAnda masih bisa menggunakan menara meskipun telah dinonaktifkan.</Difficulty_AllowTurrets_Info>
+  <!-- EN: Player can build mortars -->
+  <Difficulty_AllowMortars_Label>Pemain dapat membangun mortar</Difficulty_AllowMortars_Label>
+  <!-- EN: Player can build mortars.\n\nYou can still use captured mortars even if this is disabled. -->
+  <Difficulty_AllowMortars_Info>Pemain bisa membangun mortar.\n\nAnda bisa menggunakannya meskipun telah dinonaktifkan.</Difficulty_AllowMortars_Info>
+  <!-- EN: Classic mortars -->
+  <Difficulty_ClassicMortars_Label>Klassische Mörser</Difficulty_ClassicMortars_Label>
+  <!-- EN: Mortars will not require reinforced barrels to construct or reload, and are balanced for this ease of access. -->
+  <Difficulty_ClassicMortars_Info>Mörser benötigen keine verstärkten Läufe zum Errichten und Nachladen und sie sind entsprechend angepasst.</Difficulty_ClassicMortars_Info>
+ 
+  <!-- EN: Adaptation -->
+  <DifficultyAdaptationSection>Adaptasi</DifficultyAdaptationSection>
+  <!-- EN: Damage adaptation growth -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Label>Mengadaptasi kenaikan kerusakan</Difficulty_AdaptationGrowthRateFactorOverZero_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the rate of that challenge growth. -->
+  <Difficulty_AdaptationGrowthRateFactorOverZero_Info>Mengadaptasi berati, storyteller membuat permainan menjadi lebih menantang dari waktu ke waktu selama anda tidak mengalami kejadian yang merugikanmu.\n\nIni menyesuaikan tingkat kenaikan tantangan tersebut.</Difficulty_AdaptationGrowthRateFactorOverZero_Info>
+  <!-- EN: Damage adaptation effect -->
+  <Difficulty_AdaptationEffectFactor_Label>Mengadaptasi efek kerusakan</Difficulty_AdaptationEffectFactor_Label>
+  <!-- EN: Adaptation means the storyteller makes the game more challenging over time as long as you are not taking losses. This is separate from the story effects of wealth and population.\n\nThis adjusts the effect of that adaptation value on actual threats. -->
+  <Difficulty_AdaptationEffectFactor_Info>Mengadaptasi berati, storyteller membuat permainan menjadi lebih menantang dari waktu ke waktu selama anda tidak mengalami kejadian yang merugikanmu.\n\nIni menyesuaikan efek nilai adaptasi dari sebuah ancaman.</Difficulty_AdaptationEffectFactor_Info>
+  <!-- EN: Wealth-independent progress mode -->
+  <Difficulty_FixedWealthMode_Label>Mode Wealth-independent progress </Difficulty_FixedWealthMode_Label>
+  <!-- EN: Play in a wealth-independent progress mode.\n\nIn normal mode, the storyteller scales threats according to colonist count, player wealth, and a variety of other factors. Wealth-independent mode removes the wealth factor and replaces it with a fixed progress curve based on time. The time is counted from the founding of each colony.\n\nThis is only recommended for those looking for a strict skill challenge. In wealth-independent mode, it may be nearly impossible to recover from serious losses unless you found a new settlement. It's also possible to get too far ahead of the curve and find the game too easy. -->
+  <Difficulty_FixedWealthMode_Info>Bermain dalam mode wealth-independent progres.\n\nPada mode Normal, Storyteller mengukur ancaman menurut populasi koloni, sumber daya yang diperoleh, dan faktor lainnya. Mode Wealth-independent menghilangkan faktor sumber daya dan menggantinya dengan kurva kemajuan yang tetap berdasarkan waktu permainan. Waktu dihitung merupakan hasil dari pendirian setiap orang-orang dikoloni anda.\n\nNilai ini hanya disarankan bagi mereka yang mencari tantangan dengan skill bermain yang tinggi. Didalam mode wealth-independent, sangat kecil kemungkinan untuk pulih dari kerugian yang anda terima, kecuali anda harus menemukan solusi dari masalah yang dihadapi. Bisa jadi kurva permainan menjadi lebih tinggi dan menganggap permainan ini terlalu mudah untuk dimainkan.</Difficulty_FixedWealthMode_Info>
+  <!-- EN: Years until maximum threat -->
+  <Difficulty_FixedWealthTimeFactor_Label>Dari tahun ke tahun sampai titik ancaman yang maksimum</Difficulty_FixedWealthTimeFactor_Label>
+  <!-- EN: The number of game years until the wealth-independent mode reaches its maximum threat level.\n\nNote that the storyteller will still scale threats according to colonist count and a variety of other factors. -->
+  <Difficulty_FixedWealthTimeFactor_Info>jumlah waktu tahun dalam permainan di mode wealth-independent akan mencapai tingkat ancaman yang maksimum.\n\nPerhatikan bahwa storyteller akan terus mengukur ancaman menurut jumlah populasi koloni dan berbagai macam faktor lainnya.</Difficulty_FixedWealthTimeFactor_Info>
+
+  <!-- EN: Ideology -->
+  <DifficultyIdeologySection>Ideologi</DifficultyIdeologySection>
+  <!-- EN: Low pop conversion boost -->
+  <Difficulty_LowPopConversionBoost_Label>Peningkatan konversi ketika populasi rendah</Difficulty_LowPopConversionBoost_Label>
+  <!-- EN: With a single colonist of the player's starting ideoligion, conversion chance to his ideoligion is multiplied by this amount. Conversion attempts against them have their impact divided by that amount.\n\nWith two colonists of the player's starting ideoligion, the effect is halved.\n\nWith three or more colonists of the player's starting ideoligion, this has no effect. -->
+  <Difficulty_LowPopConversionBoost_Info>Dengan satu kolonis dari ideologi awal pemain, peluang konversi ke ideologinya digandakan dengan jumlah ini. Upya konversi terhadap mereka memiliki dampak dibagi dengan jumlah itu.\n\nDengan dua koloni dari ideologi awal pemain, efeknya dibagi dua\n\nDenga tiga atau lebih koloni dari ideologi awal pemain, ini tidak terpengaruh.</Difficulty_LowPopConversionBoost_Info>
+
+  <!-- Site select -->
+  <!-- EN: Select starting site -->
+  <SelectStartingSite>Pilih situs awal</SelectStartingSite>
+  <!-- EN: Select random site -->
+  <SelectRandomSite>Pilih situs Acak</SelectRandomSite>
+  <!-- EN: Select site -->
+  <SelectSite>Pilih situs</SelectSite>
+  <!-- EN: Please select a site. -->
+  <MustSelectStartingSite>Silahkan pilih situs.</MustSelectStartingSite>
+  <!-- EN: You cannot land on this biome: {0} -->
+  <CannotLandBiome>anda tidak bisa mendarat di bioma ini: {0}</CannotLandBiome>
+  <!-- EN: Biome not implemented -->
+  <BiomeNotImplemented>Bioma tidak diimplementasikan</BiomeNotImplemented>
+  <!-- EN: You cannot land on impassable mountains. -->
+  <CannotLandImpassableMountains>Anda tidak bisa mendarat di gunung yang tidak bisa dilewati oleh koloni .</CannotLandImpassableMountains>
+  <!-- EN: {0} already have a base there. -->
+  <BaseAlreadyThere>{0} Sudah terdapat basis disana.</BaseAlreadyThere>
+  <!-- EN: You already have a base there. -->
+  <YourBaseAlreadyThere>Anda sudah memiliki basis disana.</YourBaseAlreadyThere>
+  <!-- EN: This tile is occupied. -->
+  <TileOccupied>Blok sudah di tempati.</TileOccupied>
+  <!-- EN: Settlements cannot be directly adjacent to each other. -->
+  <FactionBaseAdjacent>Permukiman tidak bisa berbatasan langsung satu sama lain.</FactionBaseAdjacent>
+  <!-- EN: Biome -->
+  <Biome>Bioma</Biome>
+  <!-- EN: Terrain -->
+  <Terrain>Medan</Terrain>
+  <!-- EN: Road -->
+  <Road>Jalan</Road>
+  <!-- EN: River -->
+  <River>Sungai</River>
+  <!-- EN: Elevation -->
+  <Elevation>Ketinggian</Elevation>
+  <!-- EN: Fertility -->
+  <Fertility>Kesuburan</Fertility>
+  <!-- EN: Average temperature -->
+  <AvgTemp>Rata-rata temperatur</AvgTemp>
+  <!-- EN: Rainfall -->
+  <Rainfall>Curah hujan</Rainfall>
+  <!-- EN: Special features -->
+  <SpecialFeatures>Fitur spesial</SpecialFeatures>
+  <!-- EN: northern coast -->
+  <HasCoast0>Pantai Utara</HasCoast0>
+  <!-- EN: eastern coast -->
+  <HasCoast1>Pantai Timur</HasCoast1>
+  <!-- EN: southern coast -->
+  <HasCoast2>Pantai Selatan</HasCoast2>
+  <!-- EN: western coast -->
+  <HasCoast3>Pantai Barat</HasCoast3>
+  <!-- EN: caves -->
+  <HasCaves>Gua</HasCaves>
+  <!-- EN: Faction base -->
+  <FactionBase>Basis faksi</FactionBase>
+  <!-- EN: Stone types -->
+  <StoneTypesHere>Jenis batu</StoneTypesHere>
+  <!-- EN: Time zone -->
+  <TimeZone>Zona waktu</TimeZone>
+  <!-- EN: Movement difficulty -->
+  <MovementDifficulty>Tingkat kesulitan untuk bergerak</MovementDifficulty>
+  <!-- EN: Animals can graze now -->
+  <AnimalsCanGrazeNow>Hewan bisa merumput sekarang</AnimalsCanGrazeNow>
+  <!-- EN: Average disease frequency -->
+  <AverageDiseaseFrequency>Rata-rata frekuensi penyakit</AverageDiseaseFrequency>
+  <!-- EN: per year -->
+  <PerYear>Per tahun</PerYear>
+  <!-- EN: Forageability -->
+  <Forageability>Kemampuan pakan</Forageability>
+  <!-- EN: None of the selected people can do the following jobs:\n\n{0}\n\nThis can make the game more difficult than usual. Are you sure you want to continue? -->
+  <ConfirmRequiredWorkTypeDisabledForEveryone>Tidak ada orang yang dipilih untuk melakukan pekerjaan ini:\n\n{0}\n\nIni bisa membuat permainan lebih sulit dari biasanya. Apakah anda yakin ingin melanjutkannya?</ConfirmRequiredWorkTypeDisabledForEveryone>
+
+  <!-- Character chooser -->
+  <!-- EN: Create characters -->
+  <FirstNameDesc>Nama depan Karakter.\n\nHanya ditampilkan di menu tertentu.</FirstNameDesc>
+  <!-- EN: The character's first name.\n\nThis is only displayed in certain menus. -->
+  <ShortIdentifierDesc>Nama panggilan pada Karakter.\n\nIni akan ditampilkan selalu. kemungkinan akan menjadi nama depan atau belakang, atau nama panggilan yang terpisah.</ShortIdentifierDesc>
+  <!-- EN: The character's short identifier.\n\nThis is displayed at all times. It can be the first or last name, or a completely separate nickname. -->
+  <ShortIdentifierDesc>Nama panggilan pada Karakter.\n\nIni akan ditampilkan selalu. kemungkinan akan menjadi nama depan atau belakang, atau nama panggilan yang terpisah.</ShortIdentifierDesc>
+  <!-- EN: The character's last name.\n\nThis is only displayed in certain menus. -->
+  <LastNameDesc>Nama belakang Karakter.\n\nHanya ditampilkan pada menu tertentu.</LastNameDesc>
+  <!-- EN: Randomize -->
+  <Randomize>Acak</Randomize>
+  <!-- EN: age {0} -->
+  <AgeIndicator>Umur {0}</AgeIndicator>
+  <!-- EN: {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummary>{PAWN_race}, Umur {PAWN_ageFull}</PawnSummary>
+  <!-- EN: {PAWN_gender} {PAWN_race}, age {PAWN_ageFull} -->
+  <PawnSummaryWithGender>{PAWN_gender} {PAWN_race}, Umur {PAWN_ageFull}</PawnSummaryWithGender>
+  <!-- EN: Backstory -->
+  <Backstory>Masa lalu</Backstory>
+  <!-- EN: Incapable of -->
+  <IncapableOf>Tidak mampu</IncapableOf>
+  <!-- EN: Abilities -->
+  <Abilities>Kemampuan</Abilities>
+  <!-- EN: Caused by backstory: {0} -->
+  <IncapableOfTooltipBackstory>Disebabkan oleh masa lalunya: {0}</IncapableOfTooltipBackstory>
+  <!-- EN: Caused by title: {0} -->
+  <IncapableOfTooltipTitle>Disebabkan oleh latar belakangnya: {0}</IncapableOfTooltipTitle>
+  <!-- EN: Caused by trait: {0} -->
+  <IncapableOfTooltipTrait>Disebabkan oleh sifatnya: {0}</IncapableOfTooltipTrait>
+  <!-- EN: Caused by: {0} -->
+  <IncapableOfTooltipHediff>Disebabkan oleh: {0}</IncapableOfTooltipHediff>
+  <!-- EN: Disabled work types: -->
+  <IncapableOfTooltipWorkTypes>Jenis pekerjaan yang dinonaktifkan:</IncapableOfTooltipWorkTypes>
+  <!-- EN: Caused by quest status: {0} -->
+  <IncapableOfTooltipQuest>Disebakan oleh status misinya: {0}</IncapableOfTooltipQuest>
+  <!-- EN: Caused by role: {0} -->
+  <IncapableOfTooltipRole>Disebabkan oleh peran: {0}</IncapableOfTooltipRole>
+  <!-- EN: Traits -->
+  <Traits>Sifat</Traits>
+  <!-- EN: Permanent mood effect -->
+  <PermanentMoodEffect>Efek mood permanen</PermanentMoodEffect>
+  <!-- EN: Skills -->
+  <Skills>Skill</Skills>
+  <!-- EN: none -->
+  <NoneLower>Tidak ada</NoneLower>
+  <!-- EN: Adulthood -->
+  <Adulthood>Dewasa</Adulthood>
+  <!-- EN: Childhood -->
+  <Childhood>Anak-anak</Childhood>
+  <!-- EN: Current -->
+  <Current>Dipilih</Current>
+  <!-- EN: male -->
+  <Male>Laki-laki</Male>
+  <!-- EN: female -->
+  <Female>Perempuan</Female>
+  <!-- EN: male and female -->
+  <MaleAndFemale>Laki-laki dan perempuan</MaleAndFemale>
+  <!-- EN: male -->
+  <MaleAnimal>Jantan</MaleAnimal>
+  <!-- EN: female -->
+  <FemaleAnimal>Betina</FemaleAnimal>
+  <!-- EN: Pain -->
+  <Pain>Rasa sakit</Pain>
+  <!-- EN: Health -->
+  <Health>Kesehatan</Health>
+  <!-- EN: Relations -->
+  <Relations>Hubungan</Relations>
+  <!-- EN: Team skills -->
+  <TeamSkills>Skill dalam tim</TeamSkills>
+  <!-- EN: Selected -->
+  <StartingPawnsSelected>Pilih</StartingPawnsSelected>
+  <!-- EN: Left behind -->
+  <StartingPawnsLeftBehind>Meninggalkan</StartingPawnsLeftBehind>
+  <!-- EN: This colonist is considered guilty. You can freely banish, execute or arrest them, and others won't be bothered.\n\nGuilt expires in -->
+  <GuiltyDesc>Koloni ini dianggap bersalah. Anda bebas untuk mengusir, mengeksekusi atau menangkap mereka, dan orang lain tidak akan terganggu.\n\nRasa bersalah berakhir dalam</GuiltyDesc>
+  
+  <!-- Misc -->
+  <!-- EN: Start -->
+  <Start>mulai</Start>
+  <!-- EN: Advanced -->
+  <Advanced>Lanjutan</Advanced>
+  <!-- EN: Next -->
+  <Next>Berikutnya</Next>
+  <!-- EN: Back -->
+  <Back>Mundur</Back>
+  <!-- EN: Change material... -->
+  <ShowMaterials>Ubah material...</ShowMaterials>
+  <!-- EN: Gameplay -->
+  <Gameplay>Gameplay</Gameplay>
+  <!-- EN: Really quit? You'll lose unsaved progress. -->
+  <ConfirmQuit>Yakin ingin keluar? anda akan kehilangan kemajuan yang belum disimpan.</ConfirmQuit>
+  <!-- EN: Each person needs a valid name. -->
+  <EveryoneNeedsValidName>Setiap orang membutuhkan nama yang valid.</EveryoneNeedsValidName>
+  <!-- EN: None of the selected people can do the following jobs -->
+  <RequiredWorkTypeDisabledForEveryone>Tidak ada orang yang dipilih untuk melakukan pekerjaan ini</RequiredWorkTypeDisabledForEveryone>
+  <!-- EN: Quit -->
+  <Quit>Keluar</Quit>
+  <!-- EN: Ignore -->
+  <Ignore>Abaikan</Ignore>
+  
+  <!-- Progress bar -->
+  <!-- EN: Generating world -->
+  <GeneratingWorld>Membuat dunia</GeneratingWorld>
+  <!-- EN: Generating planet -->
+  <GeneratingPlanet>Membuat Planet</GeneratingPlanet>
+  <!-- EN: Generating map -->
+  <GeneratingMap>Membuat peta</GeneratingMap>
+  <!-- EN: Generating map for new encounter -->
+  <GeneratingMapForNewEncounter>Membuat peta pada permainan baru </GeneratingMapForNewEncounter>
+
+  <!-- EN: Click for more info -->
+  <ClickForMoreInfo>Klik untuk informasi lebih lanjut</ClickForMoreInfo>
+  <!-- EN: No more information is available. -->
+  <NoMoreInfoAvailable>Informasi lebih lanjut tidak tersedia.</NoMoreInfoAvailable>
+
+  <!-- Factions -->
+  <!-- EN: Factions -->
+  <Factions>Faksi</Factions>
+  <!-- EN: Gameplay problems can occur with more than {0} factions. -->
+  <RecommendedFactionCount>Masalah gameplay dapat terjadi dengan lebih dari {0} faksi.</RecommendedFactionCount>
+  <!-- EN: Maximum {0} visible factions allowed. -->
+  <TotalFactionsAllowed>Maksimum {0} faksi yang diizinkan terlihat.</TotalFactionsAllowed>
+  <!-- EN: There can be no more than {0} {1}. -->
+  <MaxFactionsForType>Tidak boleh lebih dari {0}{1}.</MaxFactionsForType>
+  <!-- EN: Restore defaults -->
+  <ResetFactionsToDefault>Kembalikan ke awal</ResetFactionsToDefault>
+  <!-- EN: Select the factions in the world. You can select up to {0} factions total. -->
+  <FactionSelectionDesc>Pilih faksi di dunia. Anda dapat memilih hingga {0} total faksi.</FactionSelectionDesc>
+  <!-- EN: Disabling {0} means less quest variety and other reduced content. -->
+  <FactionDisabledContentWarning>Menonaktifkan {0} berarti lebih sedikit variasi pencarian dan konten lainnya yang dikurangi.</FactionDisabledContentWarning>
+  <!-- EN: Disabling {0} means less spontaneous threat variety. -->
+  <InsectsDisabledContentWarning>Menonaktifkan {0} dapat mengurangi ancaman spontan.</InsectsDisabledContentWarning>
+  <!-- EN: Disabling {0} means less quest and spontaneous threat variety. -->
+  <MechanoidsDisabledContentWarning>Menonaktifkan {0} berarti dapat mengurangi pecarian dan variasi ancaman apapun.</MechanoidsDisabledContentWarning>
+  <!-- EN: Without other factions, raids, trading, and quests won't occur as normal. -->
+  <FactionsDisabledWarning>Tanpa faksi lain, penjarahan, perdagangam tidak akan terjadi seperti biasanya.</FactionsDisabledWarning>
+
+</LanguageData>

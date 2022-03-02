@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Audiovisuals -->
+  <!-- EN: Audiovisuals -->
+  <Audiovisuals>Audio visual</Audiovisuals>
+  <!-- EN: Game volume -->
+  <GameVolume>Volume permainan</GameVolume>
+  <!-- EN: Music volume -->
+  <MusicVolume>Volume musik</MusicVolume>
+  <!-- EN: Ambient volume -->
+  <AmbientVolume>Volume sekitar</AmbientVolume>
+  <!-- EN: Anti-aliasing -->
+  <Antialiasing>Anti-aliasing</Antialiasing>
+
+  <!-- Gameplay -->
+  <!-- EN: Screen-edge mouse scroll -->
+  <EdgeScreenScroll>Gulir mouse ditepi layar</EdgeScreenScroll>
+  <!-- EN: Pause on load -->
+  <PauseOnLoad>Jeda saat memuat</PauseOnLoad>
+  <!-- EN: Pause on urgent letter -->
+  <PauseOnUrgentLetter>Jeda sebentar untuk pesan yang mendesak</PauseOnUrgentLetter>
+  <!-- EN: Pause on -->
+  <AutomaticPauseModeSetting>Jeda</AutomaticPauseModeSetting>
+  <!-- EN: Custom cursor -->
+  <CustomCursor>Kursor kustom</CustomCursor>
+  <!-- EN: Hats shown only on game map -->
+  <HatsShownOnlyOnMap>Tampilan topi hanya di peta</HatsShownOnlyOnMap>
+  <!-- EN: UI scale -->
+  <UIScale>Skala UI</UIScale>
+  <!-- EN: Keyboard configuration -->
+  <KeyboardConfig>Konfigurasi keyboard</KeyboardConfig>
+  <!-- EN: Choose language -->
+  <ChooseLanguage>Pilih bahasa</ChooseLanguage>
+  <!-- EN: Reset learning helper -->
+  <ResetAdaptiveTutor>Reset learning helper</ResetAdaptiveTutor>
+  <!-- EN: Tutor is reset. You will be now be re-taught all lessons from scratch. -->
+  <AdaptiveTutorIsReset>Tutor disetel ulang. Sekarang anda akan diajarkan kembali dari awal.</AdaptiveTutorIsReset>
+  <!-- EN: Run in background -->
+  <RunInBackground>Jalankan di latar belakang</RunInBackground>
+  <!-- EN: Development mode -->
+  <DevelopmentMode>Mode pengembang</DevelopmentMode>
+  <!-- EN: Auto-reset mods config on crash -->
+  <ResetModsConfigOnCrash>Setel ulang mod secara otomatis saat mod crash</ResetModsConfigOnCrash>
+  <!-- EN: Simulate not owning Royalty -->
+  <SimulateNotOwningRoyalty>Simulasikan tidak memiliki Royalti</SimulateNotOwningRoyalty>
+  <!-- EN: Simulate not owning Ideology -->
+  <SimulateNotOwningIdeology>Simulasikan tidak memiliki Ideologi</SimulateNotOwningIdeology>
+  <!-- EN: Verbose logging -->
+  <LogVerbose>Log Verbose</LogVerbose>
+  <!-- EN: Open save data folder -->
+  <OpenSaveGameDataFolder>Buka folder penyimpanan data</OpenSaveGameDataFolder>
+  <!-- EN: Show save data location -->
+  <ShowSaveGameDataLocation>Tampilkan lokasi penyimpanan data</ShowSaveGameDataLocation>
+  <!-- EN: Open log file folder -->
+  <OpenLogFileFolder>Buka folder file log</OpenLogFileFolder>
+  <!-- EN: Show log file location -->
+  <ShowLogFileLocation>Tampilkan lokasi file log</ShowLogFileLocation>
+  <!-- EN: Preferred player-created characters. These characters will be more likely to randomly appear during play: -->
+  <NamesYouWantToSee>Karakter ini disukai pemain. Karakter ini akan lebih sering muncul secara acak saat bermain:</NamesYouWantToSee>
+  <!-- EN: Add name -->
+  <AddName>Tambah nama</AddName>
+  <!-- EN: Type the first name, nickname, or last name. -->
+  <TypeFirstNickOrLastName>Ketik nama depan, nama panggilan, atau nama belakang.</TypeFirstNickOrLastName>
+  <!-- EN: This name is already on the preferred list. -->
+  <MessageAlreadyPreferredName>Nama ini sudah ada di daftar pilihan.</MessageAlreadyPreferredName>
+  <!-- EN: Storyteller settings -->
+  <ChangeStoryteller>Pengaturan pencerita</ChangeStoryteller>
+  <!-- EN: Autosave interval -->
+  <AutosaveInterval>Selang oto. simpan</AutosaveInterval>
+  <!-- EN: Temperature mode -->
+  <TemperatureMode>Mode suhu</TemperatureMode>
+  <!-- EN: Show realtime clock -->
+  <ShowRealtimeClock>Tampilkan waktu dunia nyata</ShowRealtimeClock>
+  <!-- EN: Maximum number of colonies: {0} -->
+  <MaxNumberOfPlayerSettlements>Jumlah koloni maksimum: {0}</MaxNumberOfPlayerSettlements>
+  <!-- EN: Map mouse drag sensitivity -->
+  <MapDragSensitivity>Sensitif mouse menyeret map</MapDragSensitivity>
+  <!-- EN: Plant wind sway -->
+  <PlantWindSway>Tanaman goyang tertiup angin</PlantWindSway>
+  <!-- EN: Enable test map sizes -->
+  <EnableTestMapSizes>Aktifkan uji ukuran peta</EnableTestMapSizes>
+  <!-- EN: Maximum autosave interval in permadeath mode is {0} day. -->
+  <MaxPermadeathAutosaveIntervalInfo>Maks. interval simpan otomatis pada mode permadeath: {0} hari.</MaxPermadeathAutosaveIntervalInfo>
+  <!-- EN: Mod Settings -->
+  <ModSettings>Pengaturan mod</ModSettings>
+  <!-- EN: Permanently disable development mode -->
+  <PermanentlyDisableDevMode>Nonaktif permanen mode pengembang</PermanentlyDisableDevMode>
+  <!-- EN: Texture compression -->
+  <TextureCompression>Kompres tekstur</TextureCompression>
+  <!-- EN: Turning off texture compression will use much more video memory, but makes textures look slightly better in detailed areas. Only turn this off if you know you have lots of extra video memory.\n\nNote that using certain mods will often consume much more video memory, so you may need to turn this on if you add certain mods. -->
+  <TextureCompression_Tooltip>Menonaktifkan kompresi tekstur menggunakan lebih banyak memori video, tapi tekstur akan terlihat sedikit lebih detail di area tertentu. Nonaktifkan jika Anda memiliki banyak memori video tambahan.\n\nPerhatikan, menggunakan mod tertentu akan menghabiskan lebih banyak memori video, jadi Anda mungkin perlu mengaktifkannya jika menambahkan mod tertentu.</TextureCompression_Tooltip>
+
+  <!-- Resolution -->
+  <!-- EN: Resolution -->
+  <Resolution>Resolosui</Resolution>
+  <!-- EN: Fullscreen -->
+  <Fullscreen>Layar penuh</Fullscreen>
+
+  <!-- Mods -->
+  <!-- EN: Select mod... -->
+  <SelectMod>Pilih mod...</SelectMod>
+  <!-- EN: No configurable mods loaded. -->
+  <NoConfigurableMods>Tidak ada konfigurasi mod yang dimuat.</NoConfigurableMods>
+  
+  <!-- Options reset -->
+  <!-- EN: Restore to default settings -->
+  <RestoreToDefaultSettings>Kembalikan ke pengaturan default</RestoreToDefaultSettings>
+  <!-- EN: Your options have been reset. The game will now restart automatically. -->
+  <ResetAndRestart>Opsi anda telah disetel ulang. Permainan ini akan dimulai ulang secara otomatis.</ResetAndRestart>
+  <!-- EN: All your settings will be reset to the default and the game will be restarted. All unsaved progress will be lost!\n\nContinue? -->
+  <ResetAndRestartConfirmationDialog>Semua pengaturan anda akan diatur ke pengaturan default dan permainan akan dimulai ulang. Semua kemajuan yang belum disimpan akan hilang!\n\nLanjutkan?</ResetAndRestartConfirmationDialog>
+  <!-- EN: Changing the texture compression option requires a restart. All unsaved progress will be lost!\n\nContinue? -->
+  <ChangedTextureCompressionRestart>Mengubah opsi kompresi tekstur memerlukan restart. Semua kemajuan yang belum disimpan akan hilang!\in\Lanjutkan?</ChangedTextureCompressionRestart>
+  
+  <!-- Background image -->
+  <!-- EN: Menu background -->
+  <SetBackgroundImage>Latar belakang menu</SetBackgroundImage>
+
+</LanguageData>

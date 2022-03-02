@@ -1,0 +1,246 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: Mad {ANIMAL_labelShort} -->
+  <LetterLabelAnimalInsanitySingle>{ANIMAL_labelShort} marah</LetterLabelAnimalInsanitySingle>
+  <!-- EN: A local {ANIMAL_label} has gone mad. It will attack everyone it sees. -->
+  <AnimalInsanitySingle>{ANIMAL_label} sedang marah. ia akan menyerang semua orang yang dilihatnya.</AnimalInsanitySingle>
+  <!-- EN: Mad {0} -->
+  <LetterLabelAnimalInsanityMultiple>marah {0}</LetterLabelAnimalInsanityMultiple>
+  <!-- EN: Some sort of psychic wave has swept over the landscape. Your colonists are okay, but...\n\nIt seems many of the {0} in the area have been driven insane. -->
+  <AnimalInsanityMultiple>Semacam gelombang psikis yang telah menyapu panorama. Kolonimu baik-baik saja, tapi ...\n\nBanyak dari mereka {0} di daerah itu menjadi gila.</AnimalInsanityMultiple>
+
+  <!-- EN: Blight: {PLANTDEF_labelPlural} -->
+  <LetterLabelCropBlight>Busuk: {PLANTDEF_labelPlural}</LetterLabelCropBlight>
+  <!-- EN: Blight has been discovered on the {PLANTDEF_labelPlural}!
+\nYou should cut or burn the affected plants before the blight spreads. -->
+  <LetterCropBlight>Penyakit busuk telah ditemukan di {PLANTDEF_labelPlural}!.\nKamu haru memotong atau membakar tanaman yang terkena penyakit itu, sebelum penyakit itu menyebar luas.</LetterCropBlight>
+
+  <!-- EN: Miracle -->
+  <LetterLabelMiracleHeal>Keajaiban</LetterLabelMiracleHeal>
+  <!-- EN: {0} has experienced a miraculous recovery! -->
+  <MiracleHeal>{0} sembuh dengan ajaib!</MiracleHeal>
+
+  <!-- Enemy raids -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <EnemyRaidLeaderPresent>Salah satu {LEADER_factionPawnsPlural} - {LEADER_labelShort}, merupakan pemimpin faksi.</EnemyRaidLeaderPresent>
+
+  <!-- Friendly raids -->
+  <!-- EN: One of the {LEADER_factionPawnsPlural} - {LEADER_labelShort}, is the leader of the faction. -->
+  <FriendlyRaidLeaderPresent>Salah satu {LEADER_factionPawnsPlural} - {LEADER_labelShort}, merupakan pemimpin faksi.</FriendlyRaidLeaderPresent>
+
+  <!-- EN: Transport pod crash -->
+  <LetterLabelRefugeePodCrash>Pod transportasi jatuh</LetterLabelRefugeePodCrash>
+  <!-- EN: {PAWN_titleIndef} named {PAWN_nameDef} is crashing in a transport pod nearby. If {PAWN_pronoun} survives the impact, {PAWN_pronoun} will be badly wounded. -->
+  <RefugeePodCrash>{PAWN_titleIndef} bernama {PAWN_nameDef} jatuh didekat sini. Jika {PAWN_pronoun} selamat dari dampaknya, {PAWN_pronoun} akan terluka parah.</RefugeePodCrash>  
+  <!-- EN: {PAWN_nameDef} is not affiliated with any faction. You can rescue {PAWN_objective} and hope {PAWN_pronoun} joins freely, or capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Factionless>{PAWN_nameDef} tidak berafiliasi dengan faksi apapun. Kamu bisa menyelamatkan {PAWN_objective} dan berharap {PAWN_pronoun} bergabung dengan sukarela, atau ditangkap {PAWN_objective} untuk tujuan direkrut atau dijadikan budak.</RefugeePodCrash_Factionless>
+  <!-- EN: {PAWN_nameDef} is from your enemy {PAWN_factionName}. You can capture {PAWN_objective} for recruitment or slavery purposes. -->
+  <RefugeePodCrash_Hostile>{PAWN_nameDef} berasal dari musuhmu {PAWN_factionName}. Kamu bisa menangkap {PAWN_objective} dengan tujuan direkrut atau dijadikan budak.</RefugeePodCrash_Hostile>
+  <!-- EN: {PAWN_nameDef} is from {PAWN_factionName}. If you rescue {PAWN_objective}, {PAWN_pronoun} may join freely. Otherwise, {PAWN_pronoun} will return home and spread goodwill between your factions.\n\nYou can also capture {PAWN_objective} for recruitment or slavery purposes, but this will anger {PAWN_possessive} faction. -->
+  <RefugeePodCrash_NonHostile>{PAWN_nameDef} berasal dari {PAWN_factionName}. Jika kamu menyelamatkan {PAWN_objective}, {PAWN_pronoun} boleh bergabung dengan sukarela. Jika tidak, {PAWN_pronoun} akan dikembalikan ke rumahnya dan menyebarkan rumor baik tentang faksimu.\n\nKamu juga bisa menangkap {PAWN_objective} untuk tujuan direkrut atau dijadikan budak, tapi hal ini akan membuat marah {PAWN_possessive} terhadap faksi kamu.</RefugeePodCrash_NonHostile>
+
+  <!-- EN: Wanderer joins: {PAWN_nameDef} -->
+  <LetterLabelWandererJoins>Pengembara bergabung: {PAWN_nameDef}</LetterLabelWandererJoins>
+  <!-- EN: A {PAWN_title} named {PAWN_nameDef} has arrived and wants to join the colony.\n\n[PAWN_pronoun] is willing to contribute, but will not leave voluntarily, claiming to have nowhere else to go. You can choose to turn {PAWN_objective} down and send {PAWN_objective} away. However, your colonists will be disturbed at sending someone away in need. -->
+  <LetterWandererJoins>{PAWN_title} bernama {PAWN_nameDef} telah tiba dan ingin bergabung dengan koloni.\n\n[PAWN_pronoun] bersedia berkontribusi, tetapi tidak akan pergi secara sukarela, mengaku memiliki tujuan lain. Anda dapat memilih untuk menolak {PAWN_objective} dan mengirim {PAWN_objective} pergi. Namun, koloni anda akan mereasa terganggu saat mengirim seseorang yang dibutuhkan.</LetterWandererJoins>
+
+  <!-- EN: Cargo pods -->
+  <LetterLabelCargoPodCrash>Pod kargo</LetterLabelCargoPodCrash>
+  <!-- EN: You have detected a cluster of cargo pods crashing nearby.\n\nPerhaps you'll find something useful in the wreckage. -->
+  <CargoPodCrash>Anda mendeteksi sekelompok kargo yang terjatuh disekitarmu.\n\nMungkin kamu akan menemukan sesuatu yang berguna pada reruntuhan kargo tersebut.</CargoPodCrash>
+
+  <!-- EN: an electrical conduit -->
+  <AnElectricalConduit>kabel listrik</AnElectricalConduit>
+  <!-- EN: A fault in {0} has caused a short circuit. -->
+  <ShortCircuit>Kesalahan dalam {0}, menyebabkan korsleting listrik.</ShortCircuit>
+  <!-- EN: A fault in {0} has caused a short circuit which started a fire. -->
+  <ShortCircuitStartedFire>Kesalahan dalam {0}, menyebabkan korsleting listrik dan terjadi kebakaran.</ShortCircuitStartedFire>
+  <!-- EN: All {0} Wd of energy in the connected batteries has been discharged in an electrical explosion. -->
+  <ShortCircuitDischargedEnergy>Semua {0} Wd energi dalam baterai yang tersambung telah kosong karena ledakan listrik.</ShortCircuitDischargedEnergy>
+  <!-- EN: This large amount of power has created an explosion of considerable size. -->
+  <ShortCircuitWasLarge>Daya yang besar ini telah mengakibatkan ledakan dengan Kekuatan yang cukup besar.</ShortCircuitWasLarge>
+  <!-- EN: That really is a huge explosion. Wow. -->
+  <ShortCircuitWasHuge>Itu sungguh ledakan yang sangat besar. Wooow...</ShortCircuitWasHuge>
+
+  <!-- EN: A trade ship is passing nearby.\n\nThey are known as {0}. They are a {1}.\n\n{2} -->
+  <TraderArrival>Sebuah kapal dagang sedang lewat disekitar sini.\n\nMereka dikenal sebagai {0}. Mereka adalah {1}.\n\n{2}</TraderArrival>
+  <!-- EN: They're affiliated with {FACTION_name}. -->
+  <TraderArrivalFromFaction>Mereka berafiliasi dengan {FACTION_name}.</TraderArrivalFromFaction>
+  <!-- EN: They are not affiliated with any faction. -->
+  <TraderArrivalNoFaction>Mereka tidak berafiliasi dengan faksi manapun.</TraderArrivalNoFaction>
+
+  <!-- EN: A {PAWN_title} from {1} is passing by. {PAWN_pronoun} is named {PAWN_nameFull}. -->
+  <SingleTravelerPassing>Sebuah {PAWN_title} berasal dari {1} sedang lewat. {PAWN_pronoun} bernama {PAWN_nameFull}.</SingleTravelerPassing>
+  <!-- EN: A group of travelers from {0} are passing by. -->
+  <GroupTravelersPassing>Sekelompok pelancong berasal dari {0} sedang lewat.</GroupTravelersPassing>
+
+  <!-- EN: Visitor -->
+  <LetterLabelSingleVisitorArrives>Pengunjung</LetterLabelSingleVisitorArrives>
+  <!-- EN: {PAWN_titleIndef} from {1} is visiting the colony.\n\n{PAWN_pronoun} is named {PAWN_nameFull}.{3}{4} -->
+  <SingleVisitorArrives>{PAWN_titleIndef} berasal dari {1} sedang mengunjungi Koloni anda.\n\n{PAWN_pronoun} bernama {PAWN_nameFull}.{3}{4}</SingleVisitorArrives>
+  <!-- EN: {PAWN_pronoun} seems to have a few items to trade. -->
+  <SingleVisitorArrivesTraderInfo>{PAWN_pronoun} memiliki beberapa barang untuk diperdagangkan.</SingleVisitorArrivesTraderInfo>
+  <!-- EN: {PAWN_pronoun} is the leader of the faction. -->
+  <SingleVisitorArrivesLeaderInfo>{PAWN_pronoun} merupakan pemimpin faksi.</SingleVisitorArrivesLeaderInfo>
+  <!-- EN: Visitors -->
+  <LetterLabelGroupVisitorsArrive>Pengunjung</LetterLabelGroupVisitorsArrive>
+  <!-- EN: A group from {0} are visiting the colony.{1}{2} -->
+  <GroupVisitorsArrive>Grup dari {0} sedang mengunjungi Koloni anda.{1}{2}</GroupVisitorsArrive>
+  <!-- EN: They seem to have a few items to trade. -->
+  <GroupVisitorsArriveTraderInfo>Sepertinya grup Itu memiliki beberapa barang untuk diperdagangkan.</GroupVisitorsArriveTraderInfo>
+  <!-- EN: One of the visitors - {1_labelShort}, is the leader of the faction. -->
+  <GroupVisitorsArriveLeaderInfo>Salah satu pengunjung - {1_labelShort}, merupakan pemimpin faksi.</GroupVisitorsArriveLeaderInfo>
+  <!-- EN: Visitors from {0} are leaving. -->
+  <VisitorsLeaving>Pengunjung dari {0} meninggalkan.</VisitorsLeaving>
+
+  <!-- EN: Manhunter pack -->
+  <LetterLabelManhunterPackArrived>Serangan pemburu manusia</LetterLabelManhunterPackArrived>
+  <!-- EN: A pack of man-hunting {0} have entered the area! Driven insane by the disease known as scaria, they will roam the region, hunting for humanoid flesh.\n\nThey won't attack doors unless they see someone go through the door. Hide inside and you'll be safe. They also won't attack powered-off turrets, so turn your turrets off to save them.\n\nThe {0} will leave the area in one or two days. You can hide and wait them out, or fight them. -->
+  <ManhunterPackArrived>Sekelompok pemburu manusia {0} telah memasuki area tersebut! Mereka menjadi gila karena penyakit yang disebut scaria, mereka akan berkeliaran didaerah itu, memburu daging manusia.\n\nMereka tidak akan menyerang pintu, kecuali jika mereka melihat seseorang melewati pintu. Bersembunyi di dalam agar aman. Mereka juga tidak akan menyerang menara yang dinonaktifkan, jadi matikan menara anda agar menara tidak dirusak.\n\n{0} akan meninggalkan daerah anda dalam satu atau dua hari. Anda bisa Bersembunyi dan menunggu mereka kabur atau melawannya.</ManhunterPackArrived>
+  
+  <!-- Crashed ship part-->
+  <!-- EN: The {SOURCE_label} has emitted a psychic pulse that has driven nearby animals mad. -->
+  <MessageAnimalInsanityPulse>Di {SOURCE_label} telah memancarkan gelombang psikis yang akan membuat hewan di sekitarnya menjadi gila.</MessageAnimalInsanityPulse>
+  <!-- EN: The crashed ship part has emitted a focused psychic pulse that has driven colonist {0} insane. -->
+  <LetterShipPartDroveColonistInsane>Bagian kapal yang jatuh memancarkan gelombang psikis yang terfokus, membuat {0} koloni menjadi gila.</LetterShipPartDroveColonistInsane>
+  <!-- EN: Awoke {0} days ago -->
+  <AwokeDaysAgo>Bangun dalam {0} hari yang lalu</AwokeDaysAgo>
+  <!-- EN: Activated {0} days ago -->
+  <ActivatedDaysAgo>Diaktifkan {0} hari yang lalu</ActivatedDaysAgo>
+  <!-- EN: Opened {0} days ago -->
+  <OpenedDaysAgo>Terbuka {0} hari yang lalu</OpenedDaysAgo>
+  <!-- EN: Psychic drone level: {0} -->
+  <PsychicDroneLevel>level drone psikis: {0}</PsychicDroneLevel>
+  <!-- EN: Drone intensifies -->
+  <LetterLabelPsychicDroneLevelIncreased>Drone meningkat</LetterLabelPsychicDroneLevelIncreased>
+  <!-- EN: The crashed ship part is now emanating a more powerful kind of psychic drone. Every {0} humanlike in the area now feels more disturbed, terrified, and paranoid. -->
+  <LetterPsychicDroneLevelIncreased>Bagian kapal yang barusan jatuh mengeluarkan jenis drone psikis yang lebih kuat. Setiap {0} Setiap manusia di daerah itu akan merasa lebih terganggu, ketakutan, dan paranoid.</LetterPsychicDroneLevelIncreased>
+  
+  <!-- Agent revealed -->
+  <!-- EN: Agent -->
+  <LetterLabelAgentRevealed>Agen</LetterLabelAgentRevealed>
+  <!-- EN: {0} has been revealed as an agent of your enemy {1}.\n\nThey are attempting to escape now. -->
+  <LetterAgentRevealed>{0} terdeteksi berasal dari agen musuhmu {1}.\n\nIa mencoba melarikan diri sekarang.</LetterAgentRevealed>
+
+  <!-- Beavers -->
+  <!-- EN: Beavers! -->
+  <LetterLabelBeaversArrived>Berang-berang!</LetterLabelBeaversArrived>
+  <!-- EN: A group of hungry alphabeavers has just arrived.\n\nTry to eliminate them before they decimate every last source of wood in the region. -->
+  <BeaversArrived>Sekelompok berang-berang alpha lapar baru saja tiba.\n\nCobalah untuk membunuhnya sebelum mereka menghancurkan semua sumber kayu di wilayah anda.</BeaversArrived>
+  
+  <!-- Self-tame -->
+  <!-- EN: {1_kind} self-tamed -->
+  <LetterLabelAnimalSelfTame>{1_kind} jinak dengan sendirinya</LetterLabelAnimalSelfTame>
+  <!-- EN: {0} has become tame. -->
+  <LetterAnimalSelfTame>{0} telah dijinakan.</LetterAnimalSelfTame>
+  <!-- EN: {0} has become tame. It is now designated {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndNameNumerical>{0} telah menjadi jinak. Sekarang ditunjuk {ANIMAL_nameFull}.</LetterAnimalSelfTameAndNameNumerical>
+  <!-- EN: {0} has become tame. Colonists have decided to name it {ANIMAL_nameFull}. -->
+  <LetterAnimalSelfTameAndName>{0} telah dijinakan. Koloni anda menamakannya {ANIMAL_nameFull}.</LetterAnimalSelfTameAndName>
+
+  <!-- Farm animals wander in -->
+  <!-- EN: {0} join -->
+  <LetterLabelFarmAnimalsWanderIn>{0} bergabung</LetterLabelFarmAnimalsWanderIn>
+  <!-- EN: A group of {0}, abandoned or lost, have wandered into the area.\n\nThey seem accustomed to human contact and are joining the colony. -->
+  <LetterFarmAnimalsWanderIn>Sebuah grup dari {0}, telah ditinggalkan atau hilang, sedang mengembara ke daerah tersebut.\n\nMereka sudah terbiasa dengan kontak manusia dan bergabung dengan Koloni anda.</LetterFarmAnimalsWanderIn>
+  
+  <!-- Thrumbo passes -->
+  <!-- EN: Rare thrumbos -->
+  <LetterLabelThrumboPasses>Thrumbo langka</LetterLabelThrumboPasses>
+  <!-- EN: A small herd of thrumbos have wandered into the area.\n\nPeaceful by nature, these rare creatures are extremely dangerous when confronted. Some traders are willing to pay a lot of money for their precious leather and horn.\n\nThrumbos will leave the area in a few days. -->
+  <LetterThrumboPasses>Kelompok thrumbo kecil berkeliaran di daerah itu.\n\nSecara alamiah mereka damai, makhluk langka ini sangat berbahaya bila saat marah. Beberapa pedagang bersedia membayar mahal untuk kulit dan tanduk mereka yang berharga.\n\nThrumbo akan meninggalkan area itu dalam beberapa hari.</LetterThrumboPasses>
+  
+  <!-- Trader caravan -->
+  <!-- EN: {1} from {0} -->
+  <LetterLabelTraderCaravanArrival>{1} berasal dari {0}</LetterLabelTraderCaravanArrival>
+  <!-- EN: A caravan from {0} is approaching. They are a {1}. -->
+  <LetterTraderCaravanArrival>Sebuah karavan dari {0} mendekat. Mereka adalah {1}.</LetterTraderCaravanArrival>
+  <!-- EN: They will hang around the colony for some time before leaving. You can attack them - but this will anger their faction! -->
+  <LetterCaravanArrivalCommonWarning>Mereka akan berkeliaran di dekat koloni anda selama beberapa saat sebelum pergi. Anda bisa menyerang mereka - tapi hal ini bisa membuat faksi mereka marah terhadap faksi anda!</LetterCaravanArrivalCommonWarning>
+    
+  <!-- Ransom demand -->
+  <!-- EN: Ransom demand at {0} -->
+  <RansomDemandTitle>Permintaan tebusan di {0}</RansomDemandTitle>
+  <!-- EN: {1} contacts you on radio. They are holding former colonist {PAWN_labelShort} for ransom.\n\nThey're willing to release {PAWN_objective} back to you in exchange for {2} silver. -->
+  <RansomDemand>{1} menghubungi anda dari radio. Mereka menahan orang koloni anda '{PAWN_labelShort}', yang dulu pernah ditangkap untuk ditebus.\n\nMereka bersedia membebaskan {PAWN_objective} kembali kepada anda dengan bayaran {2} perak.</RansomDemand>
+  <!-- EN: Accept -->
+  <RansomDemand_Accept>Terima</RansomDemand_Accept>
+  <!-- EN: Reject -->
+  <RansomDemand_Reject>Tolak</RansomDemand_Reject>
+  
+  <!-- Journey-related -->
+  <!-- EN: Ship found -->
+  <EscapeShipFoundLabel>Kapal ditemukan</EscapeShipFoundLabel>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days, and the energy signature will be detectable from a long distance away. This sort of energy signature indicates interstellar flight capability, and will attract gangs of desperate raiders and swarms of deadly mechanoids.\n\nYou will be assaulted with an intensity you've never seen. Make sure your defenses are prepared first. -->
+  <EscapeShipFound>Anda telah berhasil menemukan koordinat yang dikirim oleh (*Name)Charlon Whitestone(/Name) dan menemukan kapal luar angkasa yang tersembunyi.\n\nReaktor kapal dalam mode hibernasi total, sehingga tidak dapat terbang. Anda dapat memulai berinteraksi dengan inti komputer.\n\n(*Name)Charlon Whitestone(/Name) memperingatkan anda bahwa dalam proses menghidupkan kembali memakan waktu sekitar 15 hari, jejak energi dapat dideteksi dari jarak jauh. Jejak energi ini menunjukan kemampuan untuk melakukan penerbangan antarbintang, dan akan menarik perhatian geng perampok yang putus asa dan kawanan mechanoid yang mematikan.\n\nAnda akan diserang dengan intesitas yang belum anda alami. Pastikan pertahanan anda telah disiapkan terlebih dahulu.</EscapeShipFound>
+  <!-- EN: You've reached the coordinates sent by (*Name)Charlon Whitestone(/Name) and discovered the hidden starship.\n\nThe ship's reactor is still in deep hibernation mode, so it can't fly yet. You can start it up by interacting with the computer core.\n\n(*Name)Charlon Whitestone(/Name) warns you that the startup process will take about 15 days. -->
+  <EscapeShipFoundPeaceful>Anda telah mencapai koordinat yang dikirim oleh (*Name)Charlon Whitestone(/Name) dan menemukan kapal luar angkasa yang tersembunyi.\n\nReaktor kapal dalam mode hibernasi total, sehingga tidak dapat terbang. Anda dapat memulai berinteraksi dengan inti komputer.\n\n(*Name)Charlon Whitestone(/Name) memperingatkan anda bahwa dalam proses menghidupkan kembali memakan waktu sekitar 15 hari.</EscapeShipFoundPeaceful>
+
+  <!-- Caravan meeting -->
+  <!-- EN: Caravan meeting by {0} -->
+  <CaravanMeetingTitle>Pertemuan karavan pada {0}</CaravanMeetingTitle>
+  <!-- EN: {0} has met peacefully with a caravan from {1}. The other caravan is composed of:\n\n{2} -->
+  <CaravanMeeting>{0} telah bertemu secara damai dengan karavan dari {1}. Karavan lainnya terdiri dari:\n\n{2}</CaravanMeeting>
+  <!-- EN: Trade -->
+  <CaravanMeeting_Trade>Dagang</CaravanMeeting_Trade>
+  <!-- EN: Attack -->
+  <CaravanMeeting_Attack>Serang</CaravanMeeting_Attack>
+  <!-- EN: Move on -->
+  <CaravanMeeting_MoveOn>Berpindah</CaravanMeeting_MoveOn>
+  <!-- EN: no caravan members capable of trading -->
+  <CaravanMeeting_TradeIncapable>tidak ada anggota karavan yang mampu berdagang</CaravanMeeting_TradeIncapable>
+  <!-- EN: need a trader with the title of {0} from {1_name} -->
+  <CaravanMeeting_NoPermit>membutuhkan seorang pedagang dengan gelar {0} dari {1_name}</CaravanMeeting_NoPermit>
+  
+  <!-- Caravan request -->
+  <!-- EN: Caravan request -->
+  <LetterLabelCaravanRequest>Permintaan karavan</LetterLabelCaravanRequest>
+  <!-- EN: A nearby settlement, {0}, contacts you with a special trade request. They would like to purchase:\n\n  {1} (worth {2})\n\nIn return, they offer:\n\n  {3} (worth {4})\n\nThis request expires after: {5}\n\nIf you want to make the trade, send a caravan with the requested supplies. The estimated travel time is {6}. You can review this offer by selecting {0} on the world map. -->
+  <LetterCaravanRequest>Sebuah pemukiman terdekat {0}, menghubungi anda dengan permintaan perdagangan khusus. Mereka ingin membeli:\n\n  {1} (worth {2})\n\nSebagai imbalannya, mereka menawarkan:\n\n  {3} (worth {4})\n\nPermintaan ini berakhir setelah: {5}\n\nJika anda ingin melakukan perdagangan, kirim karavan dengan persediaan yang diminta. Perkiraan waktu tempuh adalah {6}. Anda dapat meninjau tawaran ini dengan memilih {0} di peta dunia.</LetterCaravanRequest>
+  <!-- EN: Requesting: {0} ({2}) ({1} left) -->
+  <CaravanRequestInfo>Meminta: {0} ({2}) ({1} tersisa)</CaravanRequestInfo>
+  <!-- EN: normal quality or better -->
+  <NormalQualityOrBetter>kualitas normal atau lebih baik</NormalQualityOrBetter>
+  <!-- EN: not tainted -->
+  <NotTainted>tidak busuk</NotTainted>
+
+  <!-- Caravan demand -->
+  <!-- EN: Caravan demand by {0} -->
+  <CaravanDemandTitle>Permintaan karavan oleh {0}</CaravanDemandTitle>
+  <!-- EN: {0} has been ambushed by a group of {2} {4} from {1}. They will attack unless you give them:\n\n{3} -->
+  <CaravanDemand>{0} telah disergap oleh sekelompok {2} {4} dari {1}. Mereka akan menyerang kecuali kamu memberi mereka:\n\n{3}</CaravanDemand>
+  <!-- EN: Give and pass -->
+  <CaravanDemand_Give>Beri dan lewat</CaravanDemand_Give>
+  <!-- EN: Refuse and fight -->
+  <CaravanDemand_Fight>Tolak dan lawan</CaravanDemand_Fight>
+
+  <!-- Site no longer hostile -->
+  <!-- EN: Quest no longer available -->
+  <LetterLabelSiteNoLongerHostile>Misi tidak tersedia lagi</LetterLabelSiteNoLongerHostile>
+  <!-- EN: Quests no longer available -->
+  <LetterLabelSiteNoLongerHostileMulti>Misi tidak tersedia lagi</LetterLabelSiteNoLongerHostileMulti>
+  <!-- EN: Because you are no longer hostile with {0}, the {1} site is no longer available. -->
+  <LetterSiteNoLongerHostile>Karena anda bukan lagi musuh {0}, {1} situs tidak tersedia lagi.</LetterSiteNoLongerHostile>
+  <!-- EN: Because you are no longer hostile with {0}, the following sites are no longer available -->
+  <LetterSiteNoLongerHostileMulti>Karena anda bukan lagi musuh {0}, Situs berikut tidak tersedia lagi</LetterSiteNoLongerHostileMulti>
+
+  <!-- Quest asker faction hostile -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerFactionHostile>Misi gagal</LetterLabelQuestAskerFactionHostile>
+  <!-- EN: The quest is now incompletable because {FACTION_name} is hostile. -->
+  <LetterQuestAskerFactionHostile>Misi ini tidak dapat diselesaikan karena {FACTION_name} menjadi musuh.</LetterQuestAskerFactionHostile>
+
+  <!-- Quest asker captured -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerCaptured>Misi gagal</LetterLabelQuestAskerCaptured>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has been captured. -->
+  <LetterQuestAskerCaptured>Misi ini tidak dapat diselesaikan karena {SUBJECT_definite} telah ditangkap.</LetterQuestAskerCaptured>
+
+  <!-- Quest asker died -->
+  <!-- EN: Quest failed -->
+  <LetterLabelQuestAskerDied>Misi gagal</LetterLabelQuestAskerDied>
+  <!-- EN: The quest is now incompletable because {SUBJECT_definite} has died. -->
+  <LetterQuestAskerDied>Misi ini tidak dapat diselesaikan karena {SUBJECT_definite} mati.</LetterQuestAskerDied>
+
+</LanguageData>
