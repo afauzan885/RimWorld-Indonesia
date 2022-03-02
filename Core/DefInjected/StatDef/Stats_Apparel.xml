@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <ArmorRating_Blunt.label>Zirah - tumpul</ArmorRating_Blunt.label>
+  <!-- EN: The protection given against blunt damage like fists, club impacts and rock falls.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Blunt.description>Perlindungan yang diberikan terhadap kerusakan tumpul seperti tinju, benturan pentungan, dan kejatuhan reruntuhan batu.\n\nSaat menerima kerusakan, pertama-tama rating zirah ini dikurangi dengan nilai penetrasi serangan zirah.\n\nrating baju besi yang tersisa kemudian dibandingkan dengan nomor acak dari 0 hingga 100.n\n - Jika angka acak dibawah dari setengah rating zirah, kerusakan akan dibelokan tanpa memberikan kerusakan.\n\n - Jika angka acak lebih dari setengah rating baji besi, tetapi tidak lebih tinggi dari rating zirah, kerusakannya dikurangi dari setengah zirah dan diubah menjadi kerusakan tumpul.\n\n - Jika angka acak lebih besar dari rating zirah, zirah tidak akan berpengaruh.\n\nMisalnya, pada 90% rating zirah terhadap serangan dengan 10% zirah penetrasi, ada 40% peluang untuk menangkis serangan tanpa membahayakan, dan 40% peluang kerusakan.\n\nSetiap lapisan pelindung diterapkan secara terpisah, dari luar ke dalam.</ArmorRating_Blunt.description>
+  <!-- EN: Armor - Blunt (armor stat) -->
+  <ArmorRating_Blunt.labelForFullStatList>Zirah - Tumpul (stat zirah)</ArmorRating_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
+  <ArmorRating_Heat.label>Zirah - Panas</ArmorRating_Heat.label>
+  <!-- EN: The protection given against temperature-related damage like burns.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Heat.description>Perlindungan yang diberikan terhadap kerusakan terkait oleh suhu seperti luka bakar.\n\nSaat menerima kerusakan, pertama-tama rating zirah ini dikurangi dengan nilai penetrasi serangan zirah.\n\nrating baju besi yang tersisa kemudian dibandingkan dengan nomor acak dari 0 hingga 100.n\n - Jika angka acak dibawah dari setengah rating zirah, kerusakan akan dibelokan tanpa memberikan kerusakan.\n\n - Jika angka acak lebih dari setengah rating baji besi, tetapi tidak lebih tinggi dari rating zirah, kerusakannya dikurangi dari setengah zirah dan diubah menjadi kerusakan tumpul.\n\n - Jika angka acak lebih besar dari rating zirah, zirah tidak akan berpengaruh.\n\nMisalnya, pada 90% rating zirah terhadap serangan dengan 10% zirah penetrasi, ada 40% peluang untuk menangkis serangan tanpa membahayakan, dan 40% peluang kerusakan.\n\nSetiap lapisan pelindung diterapkan secara terpisah, dari luar ke dalam.</ArmorRating_Heat.description>
+  <!-- EN: Armor - Heat (armor stat) -->
+  <ArmorRating_Heat.labelForFullStatList>Zirah - Panas (stat zirah)</ArmorRating_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <ArmorRating_Sharp.label>Zirah - Tajam</ArmorRating_Sharp.label>
+  <!-- EN: The protection given against sharp damage like bullets, knife stabs, explosions, and animal bites.\n\nUpon taking damage, first this armor rating is reduced by the attack's armor penetration value.\n\nThe remaining armor rating is then compared against a random number from 0 to 100.\n\n    - If the random number is under half the armor rating, the damage deflects harmlessly.\n    - If the random number is over half the armor rating, but not higher than the armor rating, the damage is reduced by half and changed to blunt.\n    - If the random number is greater than the armor rating, the armor has no effect.\n\nFor example, at 90% armor rating against an attack with 10% armor penetration, there is a 40% chance of deflecting the attack harmlessly, and a 40% chance of mitigating the damage.\n\nEach layer of armor is applied separately, from the outside in. -->
+  <ArmorRating_Sharp.description>Perlindungan yang diberikan terhadap kerusakan tajam seperti peluru, tusukan, pisau, ledakan, dan gigitan binatang.\n\nSaat menerima kerusakan, pertama-tama rating zirah ini dikurangi dengan nilai penetrasi serangan zirah.\n\nrating baju besi yang tersisa kemudian dibandingkan dengan nomor acak dari 0 hingga 100.n\n - Jika angka acak dibawah dari setengah rating zirah, kerusakan akan dibelokan tanpa memberikan kerusakan.\n\n - Jika angka acak lebih dari setengah rating baji besi, tetapi tidak lebih tinggi dari rating zirah, kerusakannya dikurangi dari setengah zirah dan diubah menjadi kerusakan tumpul.\n\n - Jika angka acak lebih besar dari rating zirah, zirah tidak akan berpengaruh.\n\nMisalnya, pada 90% rating zirah terhadap serangan dengan 10% zirah penetrasi, ada 40% peluang untuk menangkis serangan tanpa membahayakan, dan 40% peluang kerusakan.\n\nSetiap lapisan pelindung diterapkan secara terpisah, dari luar ke dalam.</ArmorRating_Sharp.description>
+  <!-- EN: Armor - Sharp (armor stat) -->
+  <ArmorRating_Sharp.labelForFullStatList>Zirah - Tajam (stat zirah)</ArmorRating_Sharp.labelForFullStatList>
+  
+  <!-- EN: Shield max energy -->
+  <EnergyShieldEnergyMax.label>energi maks. perisai</EnergyShieldEnergyMax.label>
+  <!-- EN: The maximum energy a shield belt can have at one time.\n\nMore energy absorbs more damage. -->
+  <EnergyShieldEnergyMax.description>Energi maksimum yang dapat dimiliki sabuk pelindung pada satu waktu.\n\nLebih banyak energi yang ada, lebih banyak menyerap kerusakan yang diterima.</EnergyShieldEnergyMax.description>
+  
+  <!-- EN: Shield recharge rate -->
+  <EnergyShieldRechargeRate.label>Tingkat pengisian ulang perisai</EnergyShieldRechargeRate.label>
+  <!-- EN: The rate at which a shield gains energy as long as it is not broken. -->
+  <EnergyShieldRechargeRate.description>Tingkat dimana perisai meregenasi energi selama tidak rusak.</EnergyShieldRechargeRate.description>
+  <!-- EN: {0}/s -->
+  <EnergyShieldRechargeRate.formatString>{0}/d</EnergyShieldRechargeRate.formatString>
+  
+  <!-- EN: equip delay -->
+  <EquipDelay.label>keterlambatan memakai</EquipDelay.label>
+  <!-- EN: The time it takes to equip and unequip this item. -->
+  <EquipDelay.description>Waktu yang dibutuhkan untuk melengkapi dan melepas item ini.</EquipDelay.description>
+  <!-- EN: {0} s -->
+  <EquipDelay.formatString>{0} d</EquipDelay.formatString>
+  
+  <!-- EN: Insulation - Cold -->
+  <Insulation_Cold.label>Isolasi - Dingin</Insulation_Cold.label>
+  <!-- EN: How much this apparel improves a wearer's minimum comfortable temperature.\n\nGreater values allow surviving in colder temperatures. -->
+  <Insulation_Cold.description>Seberapa besar pakaian ini meningkatkan suhu nyaman minimal pemakainya.\n\nNilai yang lebih besar memungkinkan bertahan dalam suhu yang lebih dingin.</Insulation_Cold.description>
+  <!-- EN: Insulation - Cold (armor stat) -->
+  <Insulation_Cold.labelForFullStatList>Isolasi - Dingin (stat zirah)</Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
+  <Insulation_Heat.label>Isolasi - Panas</Insulation_Heat.label>
+  <!-- EN: How much this apparel improves a wearer's maximum comfortable temperature.\n\nGreater values allow surviving in warmer temperatures. -->
+  <Insulation_Heat.description>Seberapa besar pakaian ini meningkatkan suhu kenyamanan maksimum pemakainya.\n\nNilai yang lebih besar memungkinkan bertahan dalam suhu yang lebih panas.</Insulation_Heat.description>
+  <!-- EN: Insulation - Heat (armor stat) -->
+  <Insulation_Heat.labelForFullStatList>Isolasi - Panas (stat zirah)</Insulation_Heat.labelForFullStatList>
+  
+  <!-- EN: Smokepop pack radius -->
+  <SmokepopBeltRadius.label>Radius semburan asap</SmokepopBeltRadius.label>
+  <!-- EN: The area obscured when a smokepop pack detonates. -->
+  <SmokepopBeltRadius.description>Area yang dikaburkan ketika semburan asap meledak.</SmokepopBeltRadius.description>
+  <!-- EN: {0} c -->
+  <SmokepopBeltRadius.formatString>{0} s</SmokepopBeltRadius.formatString>
+  
+  <!-- EN: Armor - Material effect multiplier -->
+  <StuffEffectMultiplierArmor.label>Zirah - Material efek pengganda</StuffEffectMultiplierArmor.label>
+  
+  <!-- EN: Insulation - Cold - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Cold.label>Isolasi - Dingin - Material efek pengganda</StuffEffectMultiplierInsulation_Cold.label>
+  
+  <!-- EN: Insulation - Heat - Material effect multiplier -->
+  <StuffEffectMultiplierInsulation_Heat.label>Isolasi - Panas - Material efek pengganda</StuffEffectMultiplierInsulation_Heat.label>
+  
+</LanguageData>

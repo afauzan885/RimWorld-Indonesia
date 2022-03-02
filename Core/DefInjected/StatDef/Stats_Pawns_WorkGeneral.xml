@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal gather speed -->
+  <AnimalGatherSpeed.label>kecepatan memanen produk hewani</AnimalGatherSpeed.label>
+  <!-- EN: The speed at which this person milks, shears, and otherwise gathers resources from animals. -->
+  <AnimalGatherSpeed.description>Kecepatan orang ini memerah susu, mencukur, dan mengumpulkan sumber daya dari hewan.</AnimalGatherSpeed.description>
+  
+  <!-- EN: animal gather yield -->
+  <AnimalGatherYield.label>hasil produk hewani</AnimalGatherYield.label>
+  <!-- EN: The percentage yield someone receives when they shear, milk, or otherwise gather resources from a living animal.\n\nHigher percentages reduce the chance of wasting the product. -->
+  <AnimalGatherYield.description>Persentasi yang didapat ketika mereka mencukur, memerah susu, atau mengumpulkan sumber daya dari hewan.\n\nPersentase yang lebih tinggi mengurangi kemungkinan produk terbuang percuma.</AnimalGatherYield.description>
+  
+  <!-- EN: construction speed -->
+  <ConstructionSpeed.label>kecepatan membangun</ConstructionSpeed.label>
+  <!-- EN: The speed at which this person constructs and repairs buildings. -->
+  <ConstructionSpeed.description>Kecepatan orang ini membangun dan memperbaiki bangunan.</ConstructionSpeed.description>
+  
+  <!-- EN: construct success chance -->
+  <ConstructSuccessChance.label>peluang sukses membangun</ConstructSuccessChance.label>
+  <!-- EN: The chance that this person will succeed in constructing something.\nFailing means wasting time and resources. -->
+  <ConstructSuccessChance.description>Peluang orang ini akan berhasil dalam membangun sesuatu.\nGagal berarti membuang-buang waktu dan sumber daya.</ConstructSuccessChance.description>
+  
+  <!-- EN: deep drilling speed -->
+  <DeepDrillingSpeed.label>kecepatan bor dalam</DeepDrillingSpeed.label>
+  <!-- EN: A speed at which this person uses a deep drill to extract underground resources. -->
+  <DeepDrillingSpeed.description>Kecepatan dimana orang ini menggunakan bor dalam untuk mengekstrak sumber daya bawah tanah.</DeepDrillingSpeed.description>
+
+  <!-- EN: drug crop harvest yield -->
+  <DrugHarvestYield.label>hasil panen tanaman obat</DrugHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting drug crops.\n\nLow yields give a chance that this person will accidentally waste the harvest. High yields increase the yield from each plant. -->
+  <DrugHarvestYield.description>Hasil yang di dapat orang ini saat memanen tanaman obat.\n\nHasil yang rendah memberikan kemungkinan bahwa orang ini secara tidak sengaja membuang hasil panennya. Hasil tinggi meningkatkan hasil dari setiap tanaman.</DrugHarvestYield.description>
+  
+  <!-- EN: repair success chance -->
+  <FixBrokenDownBuildingSuccessChance.label>peluang sukses memperbaiki</FixBrokenDownBuildingSuccessChance.label>
+  <!-- EN: The chance that this person will successfully repair a broken down building using a component.\n\nFailing means wasting time and resources.\nNote that this only applies to repairing breakdowns, which is different from repairing damage. -->
+  <FixBrokenDownBuildingSuccessChance.description>Peluang orang ini akan berhasil memperbaiki bangunan yang rusak menggunakan komponen.\n\nGagal berarti membuang-buang waktu dan sumber daya.\n\nPerhatikan bahwa ini hanya berlaku untuk membangun ulang, berbeda dengan memperbaiki kerusakan.</FixBrokenDownBuildingSuccessChance.description>
+  
+  <!-- EN: hunting stealth -->
+  <HuntingStealth.label>pemburu siluman</HuntingStealth.label>
+  <!-- EN: This stat reduces the chance of hunted animals attacking the hunter.\n\nA 0% score means no reduction.\nA 100% score means animals never attack. -->
+  <HuntingStealth.description>Statistik ini mengurangi kemungkinan hewan buruan menyerang pemburu.\n\nSkor 0% berarti tidak ada pengurangan.\nSkor 100% berarti hewan tidak pernah menyerang.</HuntingStealth.description>
+  
+  <!-- EN: mining speed -->
+  <MiningSpeed.label>kecepatan menambang</MiningSpeed.label>
+  <!-- EN: A speed at which this person mines away walls. -->
+  <MiningSpeed.description>Kecepatan seseorang dalam menambang batu.</MiningSpeed.description>
+  
+  <!-- EN: mining yield -->
+  <MiningYield.label>hasil tambang</MiningYield.label>
+  <!-- EN: The percentage of mined resources a miner will produce.\n\nThis applies to both wall mining and deep drill mining.\nThis doesn't affect the production rate of rock chunks from deep drills. -->
+  <MiningYield.description>Persentase sumber daya yang akan dihasilkan oleh penambang.\n\nIni berlaku untuk menambang batu dan penambangan bor dalam.\nIni tidak mempengaruhi tingkat produksi bongkahan batu dari bor dalam.</MiningYield.description>
+  
+  <!-- EN: plant harvest yield -->
+  <PlantHarvestYield.label>hasil panen tanaman</PlantHarvestYield.label>
+  <!-- EN: The yield this person gets when harvesting plants.\n\nLow yields give a chance that this person will accidentally waste the harvest. -->
+  <PlantHarvestYield.description>Hasil yang didapat orang ini saat memanen tanaman.\n\nHasil yang rendah berpeluang seseorang tidak sengaja gagal memanen.</PlantHarvestYield.description>
+  
+  <!-- EN: plant work speed -->
+  <PlantWorkSpeed.label>kecepatan kerja tanaman</PlantWorkSpeed.label>
+  <!-- EN: The speed at which this person sows and harvests plants. -->
+  <PlantWorkSpeed.description>Kecepatan orang ini saat menabur dan memanen tanaman.</PlantWorkSpeed.description>
+  
+  <!-- EN: research speed -->
+  <ResearchSpeed.label>kecepatan riset</ResearchSpeed.label>
+  <!-- EN: How fast this person performs research and how quickly they can find things using scanning equipment. -->
+  <ResearchSpeed.description>Seberapa cepat orang ini melakukan penelitian dan seberapa cepat mereka mendapatkan sesuatu menggunakan peralatan pemindai.</ResearchSpeed.description>
+  
+  <!-- EN: smoothing speed -->
+  <SmoothingSpeed.label>kecepatan penghalusan</SmoothingSpeed.label>
+  <!-- EN: A multiplier on the speed at which this person smooths rough stone floors and walls. -->
+  <SmoothingSpeed.description>Pengganda pada kecepatan orang ini saat menghaluskan lantai dan dinding batu yang kasar.</SmoothingSpeed.description>
+  
+  <!-- EN: global work speed -->
+  <WorkSpeedGlobal.label>kecepatan kerja keseluruhan</WorkSpeedGlobal.label>
+  <!-- EN: A multiplier on a character's speed at doing any kind of work. -->
+  <WorkSpeedGlobal.description>Pengganda pada kecepatan orang ini saat melakukan pekerjaan apapun.</WorkSpeedGlobal.description>
+  
+</LanguageData>

@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: casting time -->
+  <Ability_CastingTime.label>waktu casting</Ability_CastingTime.label>
+  <!-- EN: How long it takes to perform this ability. -->
+  <Ability_CastingTime.description>Berapa lama waktu yang dibutuhkan untuk melakukan kemampuan ini.</Ability_CastingTime.description>
+  <!-- EN: {0} s -->
+  <Ability_CastingTime.formatString>{0} d</Ability_CastingTime.formatString>
+  
+  <!-- EN: detection chance -->
+  <Ability_DetectChancePerEntropy.label>peluang terdeteksi</Ability_DetectChancePerEntropy.label>
+  <!-- EN: The likelihood of this psychic power being detected when it is used.\n\nSome factions try to enforce laws which restrict some powers to those holding specific titles. When you use a power, there is a chance that the psychic signature will be detected at a distance, which leads to diplomatic consequences. -->
+  <Ability_DetectChancePerEntropy.description>Peluang kekuatan psikis ini akan terdeteksi saat digunakan.\n\nBeberapa faksi mencoba menegakkan hukum yang membatasi kekuatan hanya untuk mereka yang memiliki gelar tertentu. Saat anda menggunakan kekuatan, ada kemungkinan jejak psikis akan terdeteksi dari jauh, dan ini akan mengarah pada konsekuensi diplomatik.</Ability_DetectChancePerEntropy.description>
+  
+  <!-- EN: duration -->
+  <Ability_Duration.label>durasi</Ability_Duration.label>
+  <!-- EN: How long the effects of this ability last. -->
+  <Ability_Duration.description>Berapa lama efek dari kemampuan ini bertahan.</Ability_Duration.description>
+  <!-- EN: {0} s -->
+  <Ability_Duration.formatString>{0} d</Ability_Duration.formatString>
+  
+  <!-- EN: effect radius -->
+  <Ability_EffectRadius.label>radius efek</Ability_EffectRadius.label>
+  <!-- EN: The radius of the area of effect of this ability. -->
+  <Ability_EffectRadius.description>Efek radius area dari kemampuan ini.</Ability_EffectRadius.description>
+  
+  <!-- EN: neural heat gain -->
+  <Ability_EntropyGain.label>perolehan panas saraf</Ability_EntropyGain.label>
+  <!-- EN: How much neural heat will be added as a result of performing this ability. -->
+  <Ability_EntropyGain.description>Berapa banyak panas saraf yang akan ditambahkan sebagai hasil dari melakukan kemampuan ini.</Ability_EntropyGain.description>
+  
+  <!-- EN: goodwill impact -->
+  <Ability_GoodwillImpact.label>dampak niat baik</Ability_GoodwillImpact.label>
+  <!-- EN: How casting this ability on someone will impact relations with their faction. -->
+  <Ability_GoodwillImpact.description>Bagaimana dampak kemampuan ini jika diberikan pada seseorang yang akan mempengaruhi hubungan dengan faksi mereka.</Ability_GoodwillImpact.description>
+  
+  <!-- EN: psyfocus cost -->
+  <Ability_PsyfocusCost.label>biaya psifokus</Ability_PsyfocusCost.label>
+  <!-- EN: How much psyfocus must be spent to perform this ability. -->
+  <Ability_PsyfocusCost.description>Berapa banyak psifokus yang harus dikeluarkan untuk melakukan kemampuan ini.</Ability_PsyfocusCost.description>
+  
+  <!-- EN: range -->
+  <Ability_Range.label>jarak</Ability_Range.label>
+  <!-- EN: The maximum distance to a target of this ability, or to the center of the target location. -->
+  <Ability_Range.description>Jarak kemampuan maksimum ke target, atau ke pusat lokasi taret.</Ability_Range.description>
+  
+  <!-- EN: psylink level -->
+  <Ability_RequiredPsylink.label>level psilink</Ability_RequiredPsylink.label>
+  <!-- EN: The minimum psylink level required to use this ability. -->
+  <Ability_RequiredPsylink.description>Level psilink minimal yang diperlukan untuk menggunakan kemampuan ini.</Ability_RequiredPsylink.description>
+  
+</LanguageData>

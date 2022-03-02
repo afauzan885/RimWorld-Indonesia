@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: allow biocoded apparel -->
+  <AllowBiocodedApparel.label>izinkan pakaian biokode</AllowBiocodedApparel.label>
+  
+  <!-- EN: allow biocoded weapons -->
+  <AllowBiocodedWeapons.label>izinkan senjata biokode</AllowBiocodedWeapons.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableApparel.label>memungkinkan pakaian bisa dibakar</AllowBurnableApparel.label>
+  
+  <!-- EN: allow burnable -->
+  <AllowBurnableWeapons.label>memungkinkan senjata bisa dibakar</AllowBurnableWeapons.label>
+  
+  <!-- EN: allow colonist corpses -->
+  <AllowCorpsesColonist.label>izinkan mayat koloni</AllowCorpsesColonist.label>
+  <!-- EN: Allow the dead bodies of colonists. -->
+  <AllowCorpsesColonist.description>Mengizinkan mayat para koloni.</AllowCorpsesColonist.description>
+  
+  <!-- EN: allow stranger corpses -->
+  <AllowCorpsesStranger.label>izinkan mayat orang asing</AllowCorpsesStranger.label>
+  <!-- EN: Allow the dead bodies of strangers and enemies. -->
+  <AllowCorpsesStranger.description>Mengizinkan tubuh mayat orang asing dan musuh.</AllowCorpsesStranger.description>
+  
+  <!-- EN: allow tainted apparel -->
+  <AllowDeadmansApparel.label>izinkan pakaian kotor</AllowDeadmansApparel.label>
+  <!-- EN: Allow clothing that was once worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowDeadmansApparel.description>Mengizinkan pakaian yang telah dipakai oleh mayat. Banyak orang merasa terganggu bila pakaian bekas mayat dipakainya, dan pedagang juga tidak akan menerimanya.</AllowDeadmansApparel.description>
+  
+  <!-- EN: allow fresh -->
+  <AllowFresh.label>bolehkan segar</AllowFresh.label>
+  <!-- EN: Allow organic things which haven't started to rot yet. -->
+  <AllowFresh.description>Ini memungkinkan barang organik yang belum mulai busuk.</AllowFresh.description>
+
+  <!-- EN: allow males -->
+  <AllowMaleGender.label>izinkan pria</AllowMaleGender.label>
+  <!-- EN: Allow male individuals. -->
+  <AllowMaleGender.description>izinkan seorang pria</AllowMaleGender.description>
+  
+  <!-- EN: allow non-biocoded apparel -->
+  <AllowNonBiocodedApparel.label>izinkan pakaian non-biokode</AllowNonBiocodedApparel.label>
+  
+  <!-- EN: allow non-biocoded weapons -->
+  <AllowNonBiocodedWeapons.label>izinkan senjata non-biokode</AllowNonBiocodedWeapons.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableApparel.label>memungkinkan pakaian bisa dibakar</AllowNonBurnableApparel.label>
+  
+  <!-- EN: allow non-burnable -->
+  <AllowNonBurnableWeapons.label>memungkinkan senjata bisa dibakar</AllowNonBurnableWeapons.label>
+  
+  <!-- EN: allow clean apparel -->
+  <AllowNonDeadmansApparel.label>izinkan pakaian bersih</AllowNonDeadmansApparel.label>
+  <!-- EN: Allow clothing that was never worn by a corpse. Most humans find corpse-tainted clothing to be disturbing, and traders will not accept it. -->
+  <AllowNonDeadmansApparel.description>Mengizinkan pakaian yang tidak pernah dikenakan oleh mayat. Banyak orang merasa terganggu bila pakaian bekas mayat dipakai olehnya, dan pedagang pun tidak akan menerimanya.</AllowNonDeadmansApparel.description>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableApparel.label>izinkan pakaian tidak dapat didaur ulang</AllowNonSmeltableApparel.label>
+  
+  <!-- EN: allow non-smeltable -->
+  <AllowNonSmeltableWeapons.label>izinkan senajata tidak dapat didaur ulang</AllowNonSmeltableWeapons.label>
+  
+  <!-- EN: allow plant food -->
+  <AllowPlantFood.label>izinkan menanam tanaman</AllowPlantFood.label>
+  <!-- EN: Allow foods that are of quality equivalent to unharvested plants, like hay. -->
+  <AllowPlantFood.description>Mengizinkan makanan yang kualitasnya sama dengan tanaman yang belum dipanen, seperti jerami.</AllowPlantFood.description>
+  
+  <!-- EN: allow rotten -->
+  <AllowRotten.label>bolehkan busuk</AllowRotten.label>
+  <!-- EN: Allow organic things which have started to rot. -->
+  <AllowRotten.description>Ini memungkinkan barang organik yang mulai busuk.</AllowRotten.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltable.label>izinkan senjata didaur ulang</AllowSmeltable.label>
+  <AllowSmeltable.description>Mengizinkan senjata dapat didaur ulang.</AllowSmeltable.description>
+  
+  <!-- EN: allow smeltable -->
+  <AllowSmeltableApparel.label>izinkan pakian didaur ulang</AllowSmeltableApparel.label>
+  
+</LanguageData>

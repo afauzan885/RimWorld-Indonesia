@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: outpost -->
+  <Outpost.label>pos terdepan</Outpost.label>
+  <!-- EN: A small, guarded outpost. -->
+  <Outpost.description>Pos penjagaan kecil.</Outpost.description>
+  <!-- EN: Attacking {0} -->
+  <Outpost.approachingReportString>Menyerang {0}</Outpost.approachingReportString>
+  <!-- EN: Attack {0} -->
+  <Outpost.approachOrderString>Serang {0}</Outpost.approachOrderString>
+  <!-- EN: There is an enemy outpost in this area. -->
+  <Outpost.arrivedLetter>Ada pos musuh di daerah ini.</Outpost.arrivedLetter>
+  
+</LanguageData>

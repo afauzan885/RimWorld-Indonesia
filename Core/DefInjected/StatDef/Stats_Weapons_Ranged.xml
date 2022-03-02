@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Accuracy (long) -->
+  <AccuracyLong.label>Akurasi (jauh)</AccuracyLong.label>
+  <!-- EN: The weapon's accuracy at a distance of 40 cells or more.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyLong.description>Akurasi senjata pada jarak 40 sel atau lebih.\n\nPeluang tembakan yang sebenarnya untuk mengenai juga akan dipengaruhi oleh faktor lain.</AccuracyLong.description>
+  
+  <!-- EN: Accuracy (medium) -->
+  <AccuracyMedium.label>Akurasi (sedang)</AccuracyMedium.label>
+  <!-- EN: The weapon's accuracy at a distance of 25 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyMedium.description>Akurasi senjata pada jarak 25 sel atau lebih.\n\nPeluang tembakan yang sebenarnya untuk mengenai juga akan dipengaruhi oleh faktor lain.</AccuracyMedium.description>
+  
+  <!-- EN: Accuracy (short) -->
+  <AccuracyShort.label>Akurasi (pendek)</AccuracyShort.label>
+  <!-- EN: The weapon's accuracy at a distance of 12 cells.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyShort.description>Akurasi senjata pada jarak 12 sel.\n\nPeluang tembakan yang sebenarnya untuk mengenai juga akan dipengaruhi oleh faktor lain.</AccuracyShort.description>
+  
+  <!-- EN: Accuracy (close) -->
+  <AccuracyTouch.label>Akurasi (dekat)</AccuracyTouch.label>
+  <!-- EN: The weapon's accuracy at a distance of 3 cells or less.\n\nAn actual shot's chance to hit will also be affected by other factors. -->
+  <AccuracyTouch.description>Akurasi senjata pada jarak 3 sel atau lebih dekat.\n\nPeluang tembakan yang sebenarnya untuk mengenai juga akan dipengaruhi oleh faktor lain.</AccuracyTouch.description>
+  
+  <!-- EN: ranged cooldown -->
+  <RangedWeapon_Cooldown.label>cooldown tembakan</RangedWeapon_Cooldown.label>
+  <!-- EN: How long it takes to recover after firing this weapon. -->
+  <RangedWeapon_Cooldown.description>Berapa lama waktu yang dibutuhkan untuk menembak kembali setelah mengeluarkan proyektil senjata ini.</RangedWeapon_Cooldown.description>
+  <!-- EN: {0} s -->
+  <RangedWeapon_Cooldown.formatString>{0} d</RangedWeapon_Cooldown.formatString>
+  
+  <!-- EN: damage multiplier -->
+  <RangedWeapon_DamageMultiplier.label>pengganda kerusakan</RangedWeapon_DamageMultiplier.label>
+  <!-- EN: A damage multiplier applied to projectiles fired from this weapon. -->
+  <RangedWeapon_DamageMultiplier.description>Pengganda kerusakan diterapkan pada proyektil senjata ini.</RangedWeapon_DamageMultiplier.description>
+  
+</LanguageData>

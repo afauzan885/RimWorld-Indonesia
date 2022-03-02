@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animals learning factor -->
+  <AnimalsLearningFactor.label>faktor belajar hewan</AnimalsLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for animals skill. -->
+  <AnimalsLearningFactor.description>Pengganda pada tingkat pembelajaran untuk keterampilan hewan.</AnimalsLearningFactor.description>
+  
+  <!-- EN: caravan riding speed -->
+  <CaravanRidingSpeedFactor.label>kecepatan menunggangi karavan</CaravanRidingSpeedFactor.label>
+  <!-- EN: The multiplier applied to a person's movement speed when they ride this animal as part of a caravan. Animals can only be ridden in caravans. -->
+  <CaravanRidingSpeedFactor.description>Pengganda ini diterapkan pada laju gerakan seseorang ketika mereka menunggangi hewan karavan. Hewan hanya bisa ditunggangi oleh karavan.</CaravanRidingSpeedFactor.description>
+  
+  <!-- EN: carrying capacity -->
+  <CarryingCapacity.label>kapasitas angkut</CarryingCapacity.label>
+  <!-- EN: The amount of stuff this creature can carry in its hands, mouth, or other manipulators.\n\nThis is separate from the ability to carry cargo on long cross-world trips. -->
+  <CarryingCapacity.description>Jumlah barang yang dapat dibawa makhluk ini dengan tangan, mulut, atau alat lainnya.\n\nBerbeda dari kemampuan membawa kargo dalam perjalanan lintas dunia.</CarryingCapacity.description>
+  
+  <!-- EN: Maximum comfortable temperature -->
+  <ComfyTemperatureMax.label>Suhu kenyamanan maksimum</ComfyTemperatureMax.label>
+  <!-- EN: Above this temperature, characters will be unhappy.\n\nSignificantly above this temperature, they will develop heatstroke and eventually die. -->
+  <ComfyTemperatureMax.description>Di atas suhu ini, karakter tidak akan bahagia.\n\nSecara signifikan di atas suhu ini, mereka akan mengalami sengatan panas dan akhirnya mati.</ComfyTemperatureMax.description>
+  
+  <!-- EN: Minimum comfortable temperature -->
+  <ComfyTemperatureMin.label>Suhu kenyamanan minimum</ComfyTemperatureMin.label>
+  <!-- EN: Below this temperature, characters will be unhappy.\n\nSignificantly below this temperature, they will develop hypothermia and frostbite and eventually die. -->
+  <ComfyTemperatureMin.description>Di bawah suhu ini, karakter tidak akan bahagia.\n\nSecara signifikan di bawah suhu ini, mereka akan mengalami hiportemia, rahang dingin dan pada akhirnya mati.</ComfyTemperatureMin.description>
+  
+  <!-- EN: eating speed -->
+  <EatingSpeed.label>kecepatan makan</EatingSpeed.label>
+  <!-- EN: A multiplier on eating speed. -->
+  <EatingSpeed.description>Pengganda pada kecepatan makan.</EatingSpeed.description>
+  
+  <!-- EN: filth rate -->
+  <FilthRate.label>tingkat kotoran</FilthRate.label>
+  <!-- EN: How much filth this creature produces.\n\nIt's best to keep filth-producing animals outdoors or on straw matting where their filth won't be a problem. -->
+  <FilthRate.description>Berapa banyak kotoran yang dihasilkan makhluk ini.\n\nYang terbaik adalah menyimpan hewan penghasil kotoran di luar ruangan atau di anyaman jerami, dimana kotoran mereka menjadi tidak masalah.</FilthRate.description>
+  
+  <!-- EN: foraged food amount -->
+  <ForagedNutritionPerDay.label>jumlah pakan ternak</ForagedNutritionPerDay.label>
+  <!-- EN: The amount of nutrition this person will automatically forage per day while traveling by caravan. -->
+  <ForagedNutritionPerDay.description>Jumlah nutrisi orang ini akan secara otomatis mencari makan per hari saat bepergian dengan karavan.</ForagedNutritionPerDay.description>
+  
+  <!-- EN: global learning factor -->
+  <GlobalLearningFactor.label>faktor pembelajaran umum</GlobalLearningFactor.label>
+  <!-- EN: A multiplier on the learning rate for all skills. -->
+  <GlobalLearningFactor.description>Pengganda pada tingkat pembelajaran untuk semua skill.</GlobalLearningFactor.description>
+  
+  <!-- EN: hunger rate multiplier -->
+  <HungerRateMultiplier.label>pengganda tingkat kelaparan</HungerRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature becomes hungry. -->
+  <HungerRateMultiplier.description>Seberapa cepat makhluk ini menjadi lapar digandakan.</HungerRateMultiplier.description>
+  
+  <!-- EN: immunity gain speed -->
+  <ImmunityGainSpeed.label>kecepatan peningkatan imunitas</ImmunityGainSpeed.label>
+  <!-- EN: The speed at which this character gains immunity to diseases.\n\nIf this is too slow, the character will die from a disease before developing immunity. -->
+  <ImmunityGainSpeed.description>Kecepatan karakter ini memperoleh imunitas terhadap penyakit.\n\nJika terlalu lambat, karakter akan mati karena karena penyakitnya sebelum ia mengembangkan imunitas.</ImmunityGainSpeed.description>
+  
+  <!-- EN: injury healing factor -->
+  <InjuryHealingFactor.label>faktor penyembuhan cedera</InjuryHealingFactor.label>
+  <!-- EN: The multiplier applied to a person's injury healing rate. -->
+  <InjuryHealingFactor.description>Pengganda yang diterapkan pada tingkat penyembuhan cedera seseorang.</InjuryHealingFactor.description>
+  
+  <!-- EN: leather amount -->
+  <LeatherAmount.label>jumlah kulit</LeatherAmount.label>
+  <!-- EN: The amount of leather yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <LeatherAmount.description>Jumlah kulit yang dihasilkan saat menyembelih makhluk ini. Nilai ini berkurang jika makhluk itu tidak disembelih dengan bersih, atau jika terluka saat dibunuh.</LeatherAmount.description>
+  
+  <!-- EN: meat amount -->
+  <MeatAmount.label>jumlah daging</MeatAmount.label>
+  <!-- EN: The amount of meat yielded when butchering this creature. This value is reduced if the creature is not slaughtered cleanly, or if it is wounded when killed. -->
+  <MeatAmount.description>Jumlah daging yang dihasilkan saat menyembelih makhluk ini. Nilai ini berkurang jika makhluk itu tidak disebelih dengan bersih, atau jika terluka saat dibunuh.</MeatAmount.description>
+  
+  <!-- EN: mental break threshold -->
+  <MentalBreakThreshold.label>ambang batas gangguan mental</MentalBreakThreshold.label>
+  <!-- EN: As long as someone's mood is below this level, they are in danger of having a mental break.\n\nThe severity of the mental break will depend on how far below the threshold they are. -->
+  <MentalBreakThreshold.description>Selama mood seseorang berada di bawah level ini, mereka akan mengalami gangguan mental.\n\nKeparahan gangguan mental akan tergantung pada seberapa jauh ia berada di bawah ambang batas.</MentalBreakThreshold.description>
+  
+  <!-- EN: minimum handling skill -->
+  <MinimumHandlingSkill.label>keterampilan penanganan minimum</MinimumHandlingSkill.label>
+  <!-- EN: This creature cannot be tamed, trained, or commanded by anyone with less than this skill in animals. -->
+  <MinimumHandlingSkill.description>Makhluk ini tidak dapat dijinakkan, dilatih, atau diperintah oleh siapa pun yang memiliki keterampilan hewan kurang dari ini.</MinimumHandlingSkill.description>
+  
+  <!-- EN: move speed -->
+  <MoveSpeed.label>Laju bergerak</MoveSpeed.label>
+  <!-- EN: Speed of movement in cells per second. -->
+  <MoveSpeed.description>Laju gerakan sel per detik.</MoveSpeed.description>
+  <!-- EN: {0} c/s -->
+  <MoveSpeed.formatString>{0} s/d</MoveSpeed.formatString>
+  
+  <!-- EN: pain shock threshold -->
+  <PainShockThreshold.label>ambang syok nyeri</PainShockThreshold.label>
+  <!-- EN: The pain level at which this creature is downed from pain. -->
+  <PainShockThreshold.description>Tingkat rasa sakit dimana makhluk ini jatoh karena rasa sakit.</PainShockThreshold.description>
+  
+  <!-- EN: psychic sensitivity -->
+  <PsychicSensitivity.label>sensivitas psikis</PsychicSensitivity.label>
+  <!-- EN: More sensitive people suffer more from negative psychic effects, and benefit more from positive ones. Higher psychic sensitivity also increases neural heat limit. -->
+  <PsychicSensitivity.description>Orang yang lebih sensitif lebih menderita akibat efek psikis negatif, dan sebaliknya akan mendapat lebih banyak manfaat dari efek positif. Sensivitas psikis yang lebih tinggi juga meningkatkan batas panas saraf.</PsychicSensitivity.description>
+  
+  <!-- EN: rest rate multiplier -->
+  <RestRateMultiplier.label>pengganda tingkat istirahat</RestRateMultiplier.label>
+  <!-- EN: A multiplier on how quickly a creature rests while sleeping. -->
+  <RestRateMultiplier.description>Pengganda seberapa cepat makhluk ini beristirahat saat tidur.</RestRateMultiplier.description>
+  
+  <!-- EN: toxic sensitivity -->
+  <ToxicSensitivity.label>sensivitas racun</ToxicSensitivity.label>
+  <!-- EN: Multiplier on the impact of toxic buildup on this creature. -->
+  <ToxicSensitivity.description>Pengganda dampak penumpukan racun pada makhluk ini.</ToxicSensitivity.description>
+  
+</LanguageData>

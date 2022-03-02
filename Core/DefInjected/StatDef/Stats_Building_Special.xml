@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: rest effectiveness -->
+  <BedRestEffectiveness.label>efektivitas istirahat</BedRestEffectiveness.label>
+  <!-- EN: How fast people sleeping on this gain rest. -->
+  <BedRestEffectiveness.description>Seberapa cepat orang yang tidur dengan ini memperoleh kualitas istirahat.</BedRestEffectiveness.description>
+  
+  <!-- EN: door opening speed -->
+  <DoorOpenSpeed.label>kecepatan pintu terbuka</DoorOpenSpeed.label>
+  <!-- EN: The speed at which the door opens when unpowered.\n\nSlow doors will slow down everyone who uses them. -->
+  <DoorOpenSpeed.description>Kecepatan pintu terbuka saat tidak diberi daya.\n\nPintu yang lambat akan memperlambat semua orang yang menggunakannya.</DoorOpenSpeed.description>
+  
+  <!-- EN: immunity gain speed factor -->
+  <ImmunityGainSpeedFactor.label>faktor kecepatan perolehan imunitas</ImmunityGainSpeedFactor.label>
+  <!-- EN: Immunity gain speed is multiplied by this value. -->
+  <ImmunityGainSpeedFactor.description>Kecepatan perolehan kekebalan digandakan dengan nilai ini.</ImmunityGainSpeedFactor.description>
+  
+  <!-- EN: recreation power -->
+  <JoyGainFactor.label>kekuatan rekreasi</JoyGainFactor.label>
+  <!-- EN: How effectively this item entertains people and fulfills the need for recreation. -->
+  <JoyGainFactor.description>Seberapa efektif item ini menghibur orang dan memenuhi kebutuhan rekreasi.</JoyGainFactor.description>
+  
+  <!-- EN: medical tend quality offset -->
+  <MedicalTendQualityOffset.label>pengimbangan kualitas perawatan medis </MedicalTendQualityOffset.label>
+  <!-- EN: Medical tend quality is offset by this value. -->
+  <MedicalTendQualityOffset.description>Kualitas medis cenderung diimbangi oleh nilai ini.</MedicalTendQualityOffset.description>
+  
+  <!-- EN: research speed factor -->
+  <ResearchSpeedFactor.label>faktor kecepatan riset</ResearchSpeedFactor.label>
+  <!-- EN: The speed at which people do research is multiplied by this value. -->
+  <ResearchSpeedFactor.description>Kecepatan orang melakukan penelitian digandakan dengan nilai ini.</ResearchSpeedFactor.description>
+  <!-- EN: Room cleanliness -->
+  <ResearchSpeedFactor.parts.Room_cleanliness.customLabel>Kebersihan ruangan</ResearchSpeedFactor.parts.Room_cleanliness.customLabel>
+  
+  <!-- EN: surgery success chance factor -->
+  <SurgerySuccessChanceFactor.label>faktor peluang keberhasilan operasi</SurgerySuccessChanceFactor.label>
+  <!-- EN: A multiplier to the chance that a surgery will succeed when performed here.\n\nSurgery success chances are also affected by many other factors, including the surgeon's ability and medicine used. -->
+  <SurgerySuccessChanceFactor.description>Peluang keberhasilan operasi digandakan bila dilakukan disini.\n\nPeluang keberhasilan operasi juga dipengaruhi oleh banyak faktor lain, termasuk kemampuan ahli bedah dan obat yang digunakan.</SurgerySuccessChanceFactor.description>
+  <!-- EN: Room cleanliness -->
+  <SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>kebersihan ruangan</SurgerySuccessChanceFactor.parts.Room_cleanliness.customLabel>
+  
+  <!-- EN: trap melee damage -->
+  <TrapMeleeDamage.label>kerusakan pukulan jebakan</TrapMeleeDamage.label>
+  <!-- EN: How much damage this trap does on average.\n\nThe actual damage in any instance will vary randomly. -->
+  <TrapMeleeDamage.description>Berapa banyak kerusakan yang dirata-ratakan dari jebakan ini.\n\nKerusakan sebenarnya dalam setiap kejadian akan bervariasi secara acak.</TrapMeleeDamage.description>
+  
+  <!-- EN: trap spring chance -->
+  <TrapSpringChance.label>peluang memicu jebakan</TrapSpringChance.label>
+  <!-- EN: The likelihood that the trap will spring when an unaware creature passes over it. -->
+  <TrapSpringChance.description>Kemungkinan jebakan akan terpicu ketika makhluk yang tidak sadar melewatinya.</TrapSpringChance.description>
+  
+  <!-- EN: work efficiency factor -->
+  <WorkTableEfficiencyFactor.label>faktor efisiensi kerja</WorkTableEfficiencyFactor.label>
+  <!-- EN: Work efficiency is multiplied by this value. -->
+  <WorkTableEfficiencyFactor.description>efisiensi kerja dikalikan dengan nilai ini.</WorkTableEfficiencyFactor.description>
+  
+  <!-- EN: work speed factor -->
+  <WorkTableWorkSpeedFactor.label>faktor kecepatan kerja</WorkTableWorkSpeedFactor.label>
+  <!-- EN: Work speed is multiplied by this value. -->
+  <WorkTableWorkSpeedFactor.description>Kecepatan kerja dikalikan dengan nilai ini.</WorkTableWorkSpeedFactor.description>
+  
+  <!-- EN: work to build -->
+  <WorkToBuild.label>progres membangun</WorkToBuild.label>
+  <!-- EN: The base amount of work it takes to build a structure, once all materials are gathered. -->
+  <WorkToBuild.description>Jumlah dasar pekerjaan yang diperlukan untuk membangun struktur, setelah semua bahan dikumpulkan.</WorkToBuild.description>
+  
+</LanguageData>

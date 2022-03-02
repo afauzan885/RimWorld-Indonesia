@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Armor - Blunt -->
+  <StuffPower_Armor_Blunt.label>Zirah - Tumpul</StuffPower_Armor_Blunt.label>
+  <!-- EN: Armor against blunt damage like club impacts, rock falls, and explosions. -->
+  <StuffPower_Armor_Blunt.description>Perlindungan terhadap kerusakan tumpul seperti pukulan pentungan, tertimpah batu, dan ledakan.</StuffPower_Armor_Blunt.description>
+  <!-- EN: Armor - Blunt (material factor) -->
+  <StuffPower_Armor_Blunt.labelForFullStatList>Zirah - Tumpul (faktor material)</StuffPower_Armor_Blunt.labelForFullStatList>
+  
+  <!-- EN: Armor - Heat -->
+  <StuffPower_Armor_Heat.label>Zirah - Panas</StuffPower_Armor_Heat.label>
+  <!-- EN: Armor against temperature-related damage like burns. -->
+  <StuffPower_Armor_Heat.description>Perlindungan terhadap kerusakan yang terkait oleh suhu seperti luka bakar.</StuffPower_Armor_Heat.description>
+  <!-- EN: Armor - Heat (material factor) -->
+  <StuffPower_Armor_Heat.labelForFullStatList>Zirah - Panas (faktor material)</StuffPower_Armor_Heat.labelForFullStatList>
+  
+  <!-- EN: Armor - Sharp -->
+  <StuffPower_Armor_Sharp.label>Zirah - Tajam</StuffPower_Armor_Sharp.label>
+  <!-- EN: Armor against sharp damage like bullets, knife stabs, and animal bites. -->
+  <StuffPower_Armor_Sharp.description>Perlindungan terhadap kerusakan tajam seperti peluru, tusukan, dan gigitan binatang.</StuffPower_Armor_Sharp.description>
+  <!-- EN: Armor - Sharp (material factor) -->
+  <StuffPower_Armor_Sharp.labelForFullStatList>Zirah - Tajam (faktor material)</StuffPower_Armor_Sharp.labelForFullStatList>
+  
+  <!-- EN: Insulation - Cold -->
+  <StuffPower_Insulation_Cold.label>Isolasi - Dingin</StuffPower_Insulation_Cold.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's minimum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Cold.description>Seberapa pengaruh pakaian yang terbuat dari bahan ini untuk meningkatkan suhu nyaman minimal pemakainya saat dipakai.</StuffPower_Insulation_Cold.description>
+  <!-- EN: Insulation - Cold (material factor) -->
+  <StuffPower_Insulation_Cold.labelForFullStatList>Isolasi - Dingin (faktor material)</StuffPower_Insulation_Cold.labelForFullStatList>
+  
+  <!-- EN: Insulation - Heat -->
+  <StuffPower_Insulation_Heat.label>Isolasi - Panas</StuffPower_Insulation_Heat.label>
+  <!-- EN: How much an apparel made of this material improves a wearer's maximum comfortable temperature when worn. -->
+  <StuffPower_Insulation_Heat.description>Seberapa pengaruh pakaian yang terbuat dari bahan ini untuk meningkatkan suhu nyaman maksimal pemakainya saat dipakai.</StuffPower_Insulation_Heat.description>
+  <!-- EN: Insulation - Heat (material factor) -->
+  <StuffPower_Insulation_Heat.labelForFullStatList>Isolasi - Panas (faktor material)</StuffPower_Insulation_Heat.labelForFullStatList>
+  
+</LanguageData>
