@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient soldier -->
+  <AncientSoldier.label>prajurit kuno</AncientSoldier.label>
+  <AncientSoldier.labelPlural>prajurit kuno</AncientSoldier.labelPlural>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>pengungsi luar angkasa</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>pengungsi luar angkasa</SpaceRefugee.labelPlural>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee_Clothed.label>pengungsi luar angkasa</SpaceRefugee_Clothed.label>
+  
+</LanguageData>

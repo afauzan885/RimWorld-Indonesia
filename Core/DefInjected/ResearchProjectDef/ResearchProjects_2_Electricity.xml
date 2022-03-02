@@ -1,0 +1,129 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: air conditioning -->
+  <AirConditioning.label>AC</AirConditioning.label>
+  <!-- EN: Build coolers to make people comfortable in hot weather, or to construct freezers for storing perishable goods. -->
+  <AirConditioning.description>Bangun pendingin untuk membuat orang merasa nyaman dalam cuaca panas atau ingin membuat lemari es untuk menyimpan barang yang mudah rusak.</AirConditioning.description>
+  
+  <!-- EN: autodoor -->
+  <Autodoors.label>pintu otomatis</Autodoors.label>
+  <!-- EN: Build autodoors which automatically open when someone approaches, without slowing anyone down. -->
+  <Autodoors.description>Bangun pintu otomatis yang terbuka secara otomatis saat seseorang mendekat, tanpa memperlambat laju siapapun.</Autodoors.description>
+  
+  <!-- EN: battery -->
+  <Batteries.label>baterai</Batteries.label>
+  <!-- EN: Build batteries for storing electricity. -->
+  <Batteries.description>Bangun baterai untuk menyimpan listrik.</Batteries.description>
+  
+  <!-- EN: biofuel refining -->
+  <BiofuelRefining.label>kilang bahan bakar bio</BiofuelRefining.label>
+  <!-- EN: Build biofuel refineries to make chemfuel from biological matter like wood or foodstuffs. -->
+  <BiofuelRefining.description>Bangun pengilangan bahan bakar bio untuk membuat bahan bakar kimia dari bahan organik seperti kayu atau bekas makanan.</BiofuelRefining.description>
+  
+  <!-- EN: blowback operation -->
+  <BlowbackOperation.label>operasi semburan kebelakang</BlowbackOperation.label>
+  <!-- EN: Craft low-power blowback-operated guns like autopistols and machine pistols. -->
+  <BlowbackOperation.description>Buat senjata api beroprasi semburan kebelakang bertenaga rendah seperti pistol otomatis dan pistol mesin.</BlowbackOperation.description>
+  
+  <!-- EN: colored lights -->
+  <ColoredLights.label>lampu berwarna</ColoredLights.label>
+  <!-- EN: Construct colored lights for decorative purposes. Cosmetic only. -->
+  <ColoredLights.description>Buatlah lampu berwarna untuk tujuan dekoratif. Hanya untuk keindahan.</ColoredLights.description>
+  
+  <!-- EN: electricity -->
+  <Electricity.label>listrik</Electricity.label>
+  <!-- EN: Harness the power of electricity for a hundred different tasks. -->
+  <Electricity.description>Memanfaatkan tenaga listrik untuk mengerjakan ratusan tugas yang berbeda.</Electricity.description>
+  
+  <!-- EN: firefoam -->
+  <Firefoam.label>busa pemadam</Firefoam.label>
+  <!-- EN: Construct firefoam poppers, automatic fire-safety devices which spread fire-retardant foam in response to encroaching flames. -->
+  <Firefoam.description>Buat alat pemadam api busa, perangkat pemadam api otomatis yang memproyeksikan busa pemadam sebagai respon terhadap api.</Firefoam.description>
+  
+  <!-- EN: flak armor -->
+  <FlakArmor.label>rompi antipeluru</FlakArmor.label>
+  <!-- EN: Craft clothing with metal armor sewn in to resist bullets and explosions. This weighty armor slows movement slightly. -->
+  <FlakArmor.description>Buat rompi antipeluru untuk menahan hentakan peluru atau ledakan. Berat zirah ini hanya sedikit mengurangi laju gerakan.</FlakArmor.description>
+  
+  <!-- EN: gas operation -->
+  <GasOperation.label>operasi gas</GasOperation.label>
+  <!-- EN: Craft high-power guns like chain shotguns, LMGs, and heavy SMGs. -->
+  <GasOperation.description>Buat senjata api bertenaga tinggi seperti shotgun, senapan mesin ringan, dan senapan mesin berat.</GasOperation.description>
+  
+  <!-- EN: geothermal power -->
+  <GeothermalPower.label>energi panas bumi</GeothermalPower.label>
+  <!-- EN: Build geothermal power plants on top of steam geysers, for uninterrupted power. -->
+  <GeothermalPower.description>Bangun pembangkit listrik tenaga panas bumi di atas geyser, untuk mendapatkan energi yang tak terbatas.</GeothermalPower.description>
+  
+  <!-- EN: gunsmithing -->
+  <Gunsmithing.label>pembuatan senjata</Gunsmithing.label>
+  <!-- EN: Craft simple manually-operated guns like revolvers, pump shotguns, bolt-action rifles, and incendiary launchers. -->
+  <Gunsmithing.description>Buat senjata api genggam sederhana seperti revolver, shotgun, dan pelontar pembakar.</Gunsmithing.description>
+  
+  <!-- EN: gun turrets -->
+  <GunTurrets.label>menara otomatis</GunTurrets.label>
+  <!-- EN: Produce simple automated gun turrets. -->
+  <GunTurrets.description>Memproduksi menara otomatis sederhana.</GunTurrets.description>
+  
+  <!-- EN: hydroponics -->
+  <Hydroponics.label>hidroponik</Hydroponics.label>
+  <!-- EN: Build hydroponics basins to rapidly grow crops indoors regardless of the terrain or weather outside. -->
+  <Hydroponics.description>Bangun tangki hidroponik untuk menumbuhkan tanaman di dalam ruangan dengan cepat, yang terisolasi dari medan atau cuaca luar.</Hydroponics.description>
+  
+  <!-- EN: IEDs -->
+  <IEDs.label>ranjau</IEDs.label>
+  <!-- EN: Build improvised traps from any kind of mortar shell. -->
+  <IEDs.description>Bangun jebakan darurat dari semua bom montir.</IEDs.description>
+  
+  <!-- EN: machining -->
+  <Machining.label>permesinan</Machining.label>
+  <!-- EN: Build machining tables to craft guns, grenades, flak armor, and to shred dead mechanoids for resources. -->
+  <Machining.description>Bangun bangku permesinan untuk membuat senjata api, granat, zirah antipeluru, atau untuk mendaur ulang sumber daya mechanoid yang mati.</Machining.description>
+  
+  <!-- EN: mortars -->
+  <Mortars.label>mortir</Mortars.label>
+  <!-- EN: Build mortars which can lob shells long distances - even over walls. -->
+  <Mortars.description>Bangun mortir yang dapat menjatuhkan bom dari jarak jauh, bahkan melewati tembok.</Mortars.description>
+  
+  <!-- EN: nutrient paste -->
+  <NutrientPaste.label>pasta nutrisi</NutrientPaste.label>
+  <!-- EN: Build nutrient paste dispensers which efficiently produce edible meals from raw nutritive feedstocks, while requiring no labor at all. -->
+  <NutrientPaste.description>Bangun dispenser pasta bergizi untuk memproduksi makanan yang dapat dimakan secara efisien dari bahan baku makanan. Tidak memerlukan tenaga kerja.</NutrientPaste.description>
+  
+  <!-- EN: packaged survival meal -->
+  <PackagedSurvivalMeal.label>paket bertahan hidup</PackagedSurvivalMeal.label>
+  <!-- EN: Produce packaged survival meals which never go bad. Great for traveling. -->
+  <PackagedSurvivalMeal.description>Memproduksi ransum bertahan hidup yang dikemas, makanan ini tidak akan pernah basi. Bagus untuk bepergian.</PackagedSurvivalMeal.description>
+  
+  <!-- EN: prosthetics -->
+  <Prosthetics.label>prostetik</Prosthetics.label>
+  <!-- EN: Build inexpensive prosthetic body parts to replace lost limbs. Requires a skilled doctor to attach. -->
+  <Prosthetics.description>Buat bagian tubuh palsu yang berbiaya rendah untuk menggantikan anggota tubuh yang hilang. Membutuhkan dokter yang berpengalaman untuk melakukan implan.</Prosthetics.description>
+  
+  <!-- EN: smokepop packs -->
+  <SmokepopBelt.label>tabir asap</SmokepopBelt.label>
+  <!-- EN: Build smokepop packs which allow the wearer to deploy a defensive smokescreen. -->
+  <SmokepopBelt.description>Bangun tabir asap yang memungkinkan pengguna terhindar dari asap.</SmokepopBelt.description>
+  
+  <!-- EN: solar panel -->
+  <SolarPanels.label>panel surya</SolarPanels.label>
+  <!-- EN: Build solar panels for electricity generation. -->
+  <SolarPanels.description>Bangun panel surya untuk pembangkit listrik.</SolarPanels.description>
+  
+  <!-- EN: sterile materials -->
+  <SterileMaterials.label>material steril</SterileMaterials.label>
+  <!-- EN: Construct sterile tiles to make cleanrooms for safer and more effective medical treatment, research, and cooking. -->
+  <SterileMaterials.description>Bangun ubin steril untuk menciptakan ruangan yang bersih, menjamin keamanan dan kemanjuran yang lebih baik dalam perawatan medis, penelitian, dan memasak.</SterileMaterials.description>
+  
+  <!-- EN: tube television -->
+  <TubeTelevision.label>televisi tabung</TubeTelevision.label>
+  <!-- EN: Produce tube televisions for recreational watching. -->
+  <TubeTelevision.description>Buat TV tabung untuk hiburan menonton.</TubeTelevision.description>
+  
+  <!-- EN: watermill generator -->
+  <WatermillGenerator.label>Pembangkit listrik tenaga air</WatermillGenerator.label>
+  <!-- EN: Build watermill generators on rivers to generate a steady supply of power. -->
+  <WatermillGenerator.description>Bangun pembangkit listrik tenaga air di sungai untuk menghasilkan pasokan daya yang konstan.</WatermillGenerator.description>
+  
+</LanguageData>

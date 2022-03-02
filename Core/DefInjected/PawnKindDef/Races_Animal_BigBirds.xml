@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cassowary -->
+  <Cassowary.label>kasuari</Cassowary.label>
+  <!-- EN: cassowaries -->
+  <Cassowary.labelPlural>kasuari</Cassowary.labelPlural>
+  <Cassowary.lifeStages.0.label>anak kasuari</Cassowary.lifeStages.0.label>
+  <Cassowary.lifeStages.1.label>kasuari muda</Cassowary.lifeStages.1.label>
+  <Cassowary.lifeStages.2.label>kasuari dewasa</Cassowary.lifeStages.2.label>
+  
+  <!-- EN: emu -->
+  <Emu.label>Emu</Emu.label>
+  <Emu.labelPlural>Emu</Emu.labelPlural>
+  <Emu.lifeStages.0.label>anak emu</Emu.lifeStages.0.label>
+  <Emu.lifeStages.1.label>emu muda</Emu.lifeStages.1.label>
+  <Emu.lifeStages.2.label>emu dewasa</Emu.lifeStages.2.label>
+  
+  <!-- EN: ostrich -->
+  <Ostrich.label>burung unta</Ostrich.label>
+  <!-- EN: ostriches -->
+  <Ostrich.labelPlural>burung unta</Ostrich.labelPlural>
+  <Ostrich.lifeStages.0.label>anak burung unta</Ostrich.lifeStages.0.label>
+  <Ostrich.lifeStages.1.label>burung unta muda</Ostrich.lifeStages.1.label>
+  <Ostrich.lifeStages.2.label>burung unta dewasa</Ostrich.lifeStages.2.label>
+
+</LanguageData>

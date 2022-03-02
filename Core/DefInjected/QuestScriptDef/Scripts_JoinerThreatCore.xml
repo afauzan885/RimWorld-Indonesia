@@ -1,0 +1,46 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A [joiner_age]-year-old [joiner_title] named [joiner_nameDef] is calling from nearby. [joiner_pronoun] is being chased by [enemyFaction_pawnsPlural] from [enemyFaction_name]!\n\n[joiner_pronoun] begs for safety and offers to join you at [map_definite].[joiner_relationInfo]\n\nIf you accept, you'll have to fight off the [enemyFaction_pawnsPluralDef] on [joiner_possessive] tail. The group of [enemyFaction_pawnsPlural] is composed of: \n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] is too frantic to offer more information.</li>
+  -->
+  <ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+    <li>questDescription->Seseorang yang bernama [joiner_nameDef], [joiner_title] berumur [joiner_age] menelepon anda dari dekat. [joiner_pronoun] sedang dikejar oleh [enemyFaction_pawnsPlural] dari [enemyFaction_name]!\n\n[joiner_pronoun] meminta bantuan di [map_definite] dan akan begabung dengan anda.[joiner_relationInfo]\n\nJika anda menemanya, anda harus melawan [enemyFaction_pawnsPluralDef] yang membututi [joiner_possessive]. Grup [enemyFaction_pawnsPlural] terdiri dari:\n\n[raid/raidPawnKinds]\n\n[joiner_nameDef] begitu panik, sehingga tidak memberikan informasi lebih lanjut.</li>
+    <!-- gender-specific -->
+    <li>ein_N_jaehriger(joiner_gender==Male)->[joiner_age] tahun</li>
+    <li>ein_N_jaehriger(joiner_gender==Female)->[joiner_age] tahun</li>
+  </ThreatReward_Raid_Joiner.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->Saving [runnerIndef]</li>
+    <li>questName->The Salvation of [runnerIndef]</li>
+    <li>questName->Helping [runnerIndef]</li>
+    <li>questName->Accepting [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] hunting [runnerIndef]</li>
+    <li>questName->[runnerIndef] on the Run</li>
+    <li>questName->[runnerIndef] Seeks a Home</li>
+    <li>questName->[runnerIndef] Chased by [enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef] and [enemyFaction_pawnsPlural]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerIndef->a Refugee</li>
+  -->
+  <ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+    <li>questName->Menyelamatkan [runnerIndef]</li>
+    <li>questName->keselamatan dari [runnerIndef]</li>
+    <li>questName->Menolong [runnerIndef]</li>
+    <li>questName->Menerima [runnerIndef]</li>
+    <li>questName->[enemyFaction_pawnsPlural] memburu [runnerIndef]</li>
+    <li>questName->[runnerIndef] saat berlari</li>
+    <li>questName->[runnerIndef] Mencari rumah</li>
+    <li>questName->[runnerIndef] Dikejar oleh [enemyFaction_pawnsPlural]</li>
+    <li>questName->[runnerIndef] dan [enemyFaction_pawnsPlural]</li>
+    <li>runnerIndef->[joiner_titleIndef]</li>
+    <li>runnerIndef->[joiner_nameIndef]</li>
+    <li>runnerIndef->seorang pengungsi</li>
+  </ThreatReward_Raid_Joiner.questNameRules.rulesStrings>
+  <!-- EN: {BASELABEL} chasing [../joiner_nameDef] -->
+  <ThreatReward_Raid_Joiner.LetterLabelCashing.value.slateRef>{BASELABEL} mengejar [../joiner_nameDef]</ThreatReward_Raid_Joiner.LetterLabelCashing.value.slateRef>
+  <!-- EN: {BASETEXT}\n\nThe [enemyFaction_pawnsPlural] have come to get [../joiner_nameDef]. -->
+  <ThreatReward_Raid_Joiner.LetterTextCashing.value.slateRef>{BASETEXT}\n\n[enemyFaction_pawnsPlural] datang untuk mendapatkan [../joiner_nameDef].</ThreatReward_Raid_Joiner.LetterTextCashing.value.slateRef>
+  
+</LanguageData>

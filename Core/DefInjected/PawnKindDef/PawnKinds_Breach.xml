@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: termite -->
+  <Mech_Termite_Breach.label>Rayap</Mech_Termite_Breach.label>
+  <Mech_Termite_Breach.labelPlural>Rayap</Mech_Termite_Breach.labelPlural>
+  
+  <!-- EN: breacher -->
+  <Tribal_Breacher.label>Pendobrak</Tribal_Breacher.label>
+  <Tribal_Breacher.labelFemale>Pendobrak</Tribal_Breacher.labelFemale>
+  <Tribal_Breacher.labelPlural>Pendobrak</Tribal_Breacher.labelPlural>
+  
+</LanguageData>

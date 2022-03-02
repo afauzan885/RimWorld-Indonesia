@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: advanced fabrication -->
+  <AdvancedFabrication.label>manufaktur lanjutan</AdvancedFabrication.label>
+  <!-- EN: Fabricate advanced components from standard components and other materials. -->
+  <AdvancedFabrication.description>Buat komponen tingkat lanjut dari komponen standar dan bahan lainnya.</AdvancedFabrication.description>
+  
+  <!-- EN: bionic replacements -->
+  <Bionics.label>bionik pengganti</Bionics.label>
+  <!-- EN: Build high-tech bionic body parts to replace lost limbs and eyes. Requires a skilled doctor to attach. -->
+  <Bionics.description>Buat bagian tubuh bionik berteknologi tinggi untuk menggantikan anggota tubuh dan mata yang hilang. Membutuhkan dokter ahli untuk memasangkannya.</Bionics.description>
+  
+  <!-- EN: pulse-charged munitions -->
+  <ChargedShot.label>amunisi bertenaga pulse</ChargedShot.label>
+  <!-- EN: Build weapons which fire pulse-charged munitions for extra damage. Note that these also require advanced components. -->
+  <ChargedShot.description>Bangun senjata yang menembakkan pulse untuk menghasilkan lebih banyak kerusakan. Perhatikan bahwa membuat ini memerlukan komponen lanjutan.</ChargedShot.description>
+  
+  <!-- EN: cryptosleep casket -->
+  <Cryptosleep.label>peti hibernasi</Cryptosleep.label>
+  <!-- EN: Construct cryptosleep caskets, which can put living beings in a state of indefinite suspended animation. -->
+  <Cryptosleep.description>Buat peti hibernasi yang dapat membuat makhluk hidup dalam keadaan mati suri tanpa batas.</Cryptosleep.description>
+  
+  <!-- EN: fabrication -->
+  <Fabrication.label>fabrikasi</Fabrication.label>
+  <!-- EN: Build fabrication benches, capable of high-tech projects ranging from component assembly to power armor construction. -->
+  <Fabrication.description>Bangun bangku fabrikasi yang mampu mengerjakan proyek berteknologi tinggi, mulai dari perakitan komponen hingga kontruksi zirah berat.</Fabrication.description>
+  <!-- EN: You now have the technology to build a fabrication bench - but it also requires some advanced components to get started. You can collect advanced components several ways:\n\n  -All outlander settlements sell advanced components. Send a caravan to buy some.\n  -Some visiting traders sell advanced components. Invite or wait for them.\n  -Some quests are rewarded with advanced components. -->
+  <Fabrication.discoveredLetterText>Anda sekarang memiliki teknologi untuk membuat bangku fabrikasi - tetapi juga membutuhkan beberapa komponen lanjutan untuk memulainya. Anda dapat mengumpulkan komponen lanjutan dengan beberapa cara:\n\n  -Semua pemukim asing menjual komponen lanjutan. Kirim karavan untuk membeli beberapa komponen.\n  -Beberapa pedagang yang berkunjung menjual komponen lanjutan. Undang atau tunggu mereka.\n -Beberapa misi dihargai dengan komponen lanjutan</Fabrication.discoveredLetterText>
+  <!-- EN: About: Getting advanced components -->
+  <Fabrication.discoveredLetterTitle>Tentang: Mendapatkan komponen lanjutan</Fabrication.discoveredLetterTitle>
+  
+  <!-- EN: multi-analyzer -->
+  <MultiAnalyzer.label>multi-analisis</MultiAnalyzer.label>
+  <!-- EN: Build multi-analyzers which increase research speed and allow higher-level research projects. -->
+  <MultiAnalyzer.description>Bangun multi-analisis yang meningkatkan kecepatan penelitian dan memungkinkan proyek penelitian tingkat tinggi.</MultiAnalyzer.description>
+  
+  <!-- EN: marine armor -->
+  <PoweredArmor.label>zirah berat</PoweredArmor.label>
+  <!-- EN: Build marine armor, a general-use powered armor suit used by high-tech shock troops. Note that these also require advanced components. -->
+  <PoweredArmor.description>Bangun baju zirah dan helm berat, zirah ini berteknologi tinggi yang digunakan oleh pasukan kejut. Perhatikan bahwa membuat zirah ini memerlukan komponen lanjutan.</PoweredArmor.description>
+  
+  <!-- EN: recon armor -->
+  <ReconArmor.label>zirah pengintai</ReconArmor.label>
+  <!-- EN: Craft recon armor, a light powered armor suit used by scout troops who need protection on the move. Note that these also require advanced components. -->
+  <ReconArmor.description>Buat zirah pengintai, zirah ini bertenaga ringan yang digunakan oleh pasukan pengintai yang membutuhkan perlindungan saat bepergian. Perhatikan bahwa membuat zirah ini memerlukan komponen lanjutan.</ReconArmor.description>
+  
+  <!-- EN: uranium slug turret -->
+  <SniperTurret.label>menara presisi</SniperTurret.label>
+  <!-- EN: Produce the armor-penetrating uranium slug turret. It fires uranium slugs which tear through plasteel like paper, but it's less effective at close range. -->
+  <SniperTurret.description>Memproduksi turret penembus pelindung uranium. Turret ini menembakkan amunisi dengan berkekuatan tinggi, bahkan baju zirah akan seperti kertas bila terhantam amunisinya, tetapi kurang efektif dalam jarak dekat.</SniperTurret.description>
+  
+  <!-- EN: vitals monitor -->
+  <VitalsMonitor.label>monitor vital</VitalsMonitor.label>
+  <!-- EN: Build vitals monitors which improve medical outcomes when placed next to hospital beds. -->
+  <VitalsMonitor.description>Bangun monitor vital yang meningkatkan hasil medis saat diletakkan disamping tempat tidur rumah sakit.</VitalsMonitor.description>
+  
+</LanguageData>

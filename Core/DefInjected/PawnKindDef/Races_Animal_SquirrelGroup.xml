@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: boomrat -->
+  <Boomrat.label>boomrat</Boomrat.label>
+  <Boomrat.labelPlural>boomrat</Boomrat.labelPlural>
+  <Boomrat.lifeStages.0.label>anak boomrat</Boomrat.lifeStages.0.label>
+  <Boomrat.lifeStages.0.label>boomrat muda</Boomrat.lifeStages.0.label>
+  
+  <!-- EN: iguana -->
+  <Iguana.label>iguana</Iguana.label>
+  <Iguana.labelPlural>iguana</Iguana.labelPlural>
+  <Iguana.lifeStages.0.label>anak iguana</Iguana.lifeStages.0.label>
+  <Iguana.lifeStages.0.labelPlural>anak iguana</Iguana.lifeStages.0.labelPlural>
+  
+  <!-- EN: raccoon -->
+  <Raccoon.label>rakun</Raccoon.label>
+  <Raccoon.labelPlural>rakun</Raccoon.labelPlural>
+  <Raccoon.lifeStages.0.label>anak rakun</Raccoon.lifeStages.0.label>
+  
+  <!-- EN: rat -->
+  <Rat.label>tikus</Rat.label>
+  <Rat.labelPlural>tikus</Rat.labelPlural>
+  <Rat.lifeStages.0.label>anak tikus</Rat.lifeStages.0.label>
+  
+  <!-- EN: squirrel -->
+  <Squirrel.label>tupai</Squirrel.label>
+  <Squirrel.labelPlural>tupai</Squirrel.labelPlural>
+  <Squirrel.lifeStages.0.label>anak tupai</Squirrel.lifeStages.0.label>
+  
+</LanguageData>

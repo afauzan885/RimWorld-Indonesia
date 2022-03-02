@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cook fine meal -->
+  <CookMealFine.label>masak makanan lezat</CookMealFine.label>
+  <!-- EN: Cook a somewhat complex meal from a combination of meat and plant ingredients. -->
+  <CookMealFine.description>Masak makanan yang agak rumit dari kombinasi bahan daging dan tumbuhan.</CookMealFine.description>
+  <!-- EN: Cooking fine meal. -->
+  <CookMealFine.jobString>Memasak makanan lezat.</CookMealFine.jobString>
+  
+  <!-- EN: cook carnivore fine meal -->
+  <CookMealFine_Meat.label>masak makanan lezat (daging)</CookMealFine_Meat.label>
+  <!-- EN: Cook a somewhat complex meal from meat ingredients. -->
+  <CookMealFine_Meat.description>Masak makanan yang agak rumit dari bahan daging.</CookMealFine_Meat.description>
+  <!-- EN: Cooking carnivore fine meal. -->
+  <CookMealFine_Meat.jobString>Memasak makanan lezat (daging).</CookMealFine_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal -->
+  <CookMealFine_Veg.label>masak makanan lezat (vegetarian)</CookMealFine_Veg.label>
+  <!-- EN: Cook a somewhat complex meal from plant ingredients. -->
+  <CookMealFine_Veg.description>Masak makanan yang agak rumit dari bahan tumbuhan.</CookMealFine_Veg.description>
+  <!-- EN: Cooking vegetarian fine meal. -->
+  <CookMealFine_Veg.jobString>Memasak makanan (vegetarian).</CookMealFine_Veg.jobString>
+  
+  <!-- EN: cook fine meal x4 -->
+  <CookMealFineBulk.label>masak 4x makanan lezat</CookMealFineBulk.label>
+  <!-- EN: Cook 4 somewhat complex meals from a combination of meat and plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. -->
+  <CookMealFineBulk.description>Masak 4 makanan yang agak rumit dari kombinasi bahan daging dan tumbuhan. Beberapa bahan terbuang untuk menciptakan makanan yang enak.</CookMealFineBulk.description>
+  <!-- EN: Cooking 4 fine meals. -->
+  <CookMealFineBulk.jobString>Memasak 4 makanan lezat.</CookMealFineBulk.jobString>
+  
+  <!-- EN: cook carnivore fine meal x4 -->
+  <CookMealFineBulk_Meat.label>masak 4x makanan lezat (daging)</CookMealFineBulk_Meat.label>
+  <!-- EN: Cook 4 somewhat complex meals from meat ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Meat.description>masak 4 makanan yang agak rumit dari bahan daging. Beberapa bahan terbuang untuk menciptakan pengalaman makanan yang baik. Memproduksi cita rasa yang bervariasi dengan daging saja, menimbulkan inefisiensi ekstra.</CookMealFineBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore fine meals. -->
+  <CookMealFineBulk_Meat.jobString>Memasak 4 masak makananen (daging).</CookMealFineBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian fine meal x4 -->
+  <CookMealFineBulk_Veg.label>masak 4x makanan lezat (vegetarian)</CookMealFineBulk_Veg.label>
+  <!-- EN: Cook 4 somewhat complex meals from plant ingredients. Some of the ingredients are wasted in order to create a good eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealFineBulk_Veg.description>Masak 4 makanan yang agak rumit dari bahan nabati. Beberapa bahan terbuang untuk menciptakan pengalaman makanan yang baik. Memproduksi rasa yang bervariasi dengan tanaman saja menimbulkan inefisiensi ekstra.</CookMealFineBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian fine meals. -->
+  <CookMealFineBulk_Veg.jobString>Memasak 4 makananen (vegetarian).</CookMealFineBulk_Veg.jobString>
+  
+  <!-- EN: cook lavish meal -->
+  <CookMealLavish.label>masak makanan mewah</CookMealLavish.label>
+  <!-- EN: Cook a very complex meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavish.description>Masak makanan yang sangat kompleks dari kombinasi bahan daging dan tumbuhan. Banyak bahan yang terbuang untuk menciptakan makanan terbaik.</CookMealLavish.description>
+  <!-- EN: Cooking lavish meal. -->
+  <CookMealLavish.jobString>Memasak makanan mewah.</CookMealLavish.jobString>
+  
+  <!-- EN: cook carnivore lavish meal -->
+  <CookMealLavish_Meat.label>masak makanan mewah (daging)</CookMealLavish_Meat.label>
+  <!-- EN: Cook a very complex meal from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavish_Meat.description>Masak makanan yang sangat kompleks dari bahan daging. banyak bahan yang terbuang untuk menciptakan pengalaman makanan yang terbaik. Memproduksi rasa yang bervariasi hanya menggunakan daging saja menimbulkan inefisiensi ekstra.</CookMealLavish_Meat.description>
+  <!-- EN: Cooking carnivore lavish meal. -->
+  <CookMealLavish_Meat.jobString>memasak makanan mewah (daging).</CookMealLavish_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal -->
+  <CookMealLavish_Veg.label>masak makanan mewah (vegetarian)</CookMealLavish_Veg.label>
+  <!-- EN: Cook a very complex meal from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavish_Veg.description>Masak makanan yang sangat kompleks dari bahan tumbuhan. Banyak bahan yang terbuang untuk menciptakan pengalaman makanan yang terbaik. Memproduksi rasa yang bervariasi hanya menggunakan bagian tumbuhan saja menimbulkan inefisiensi ekstra.</CookMealLavish_Veg.description>
+  <!-- EN: Cooking vegetarian lavish meal. -->
+  <CookMealLavish_Veg.jobString>memasak makanan mewah (vegetarian).</CookMealLavish_Veg.jobString>
+  
+  <!-- EN: cook lavish meal x4 -->
+  <CookMealLavishBulk.label>masak 4x makanan mewah </CookMealLavishBulk.label>
+  <!-- EN: Cook 4 very complex meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. -->
+  <CookMealLavishBulk.description>Masak 4 makanan yang sangat kompleks dari kombinasi daging dan tumbuhan. Banyak bahan yang terbuang untuk menciptkan makanan terbaik.</CookMealLavishBulk.description>
+  <!-- EN: Cooking 4 lavish meals. -->
+  <CookMealLavishBulk.jobString>memasak 4 makanan mewah.</CookMealLavishBulk.jobString>
+  
+  <!-- EN: cook carnivore lavish meal x4 -->
+  <CookMealLavishBulk_Meat.label>masak 4x makanan mewah (daging)</CookMealLavishBulk_Meat.label>
+  <!-- EN: Cook 4 very complex meals from meat ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with meat alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Meat.description>Masak 4 makanan yang sangat kompleks dari bahan daging. banyak bahan yang terbuang untuk menciptakan pengalaman makanan yang terbaik. Memproduksi rasa yang bervariasi hanya menggunakan daging saja menimbulkan inefisiensi ekstra.</CookMealLavishBulk_Meat.description>
+  <!-- EN: Cooking 4 carnivore lavish meals. -->
+  <CookMealLavishBulk_Meat.jobString>memasak 4 makanan mewah (daging).</CookMealLavishBulk_Meat.jobString>
+  
+  <!-- EN: cook vegetarian lavish meal x4 -->
+  <CookMealLavishBulk_Veg.label>masak 4x makanan mewah (vegetarian)</CookMealLavishBulk_Veg.label>
+  <!-- EN: Cook 4 very complex meals from plant ingredients. Much of the ingredients are wasted in order to create the best eating experience. Producing varied flavors with plants alone introduces extra inefficiencies. -->
+  <CookMealLavishBulk_Veg.description>Masak 4 makanan yang sangat kompleks dari bahan tumbuhan. Banyak bahan yang terbuang untuk menciptakan pengalaman makanan yang terbaik. Memproduksi rasa yang bervariasi hanya menggunakan bagian tumbuhan saja menimbulkan inefisiensi ekstra.</CookMealLavishBulk_Veg.description>
+  <!-- EN: Cooking 4 vegetarian lavish meals. -->
+  <CookMealLavishBulk_Veg.jobString>memasak 4 makanan mewah (vegetarian).</CookMealLavishBulk_Veg.jobString>
+  
+  <!-- EN: cook simple meal -->
+  <CookMealSimple.label>masak makanan sederhana</CookMealSimple.label>
+  <!-- EN: Cook a straightforward meal from one ingredient. -->
+  <CookMealSimple.description>Masak makanan sederhana dari satu bahan.</CookMealSimple.description>
+  <!-- EN: Cooking simple meal. -->
+  <CookMealSimple.jobString>memasak makanan sederhana.</CookMealSimple.jobString>
+  
+  <!-- EN: cook simple meal x4 -->
+  <CookMealSimpleBulk.label>masak x4 makanan sederhana</CookMealSimpleBulk.label>
+  <!-- EN: Cook 4 straightforward meals from one ingredient. -->
+  <CookMealSimpleBulk.description>Masak 4 makanan sederhana dari satu bahan.</CookMealSimpleBulk.description>
+  <!-- EN: Cooking 4 simple meals. -->
+  <CookMealSimpleBulk.jobString>memasak 4 makanan sederhana.</CookMealSimpleBulk.jobString>
+  
+  <!-- EN: cook packaged survival meal -->
+  <CookMealSurvival.label>masak paket makanan bertahan hidup</CookMealSurvival.label>
+  <!-- EN: Prepare a packaged survival meal from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvival.description>Siapkan paket makanan bertahan hidup dari kombinasi daging dan tumbuhan. Banyak bahan yang terbuang dalam proses pengawetan.</CookMealSurvival.description>
+  <!-- EN: Cooking survival meal. -->
+  <CookMealSurvival.jobString>memasak paket makanan bertahan hidup.</CookMealSurvival.jobString>
+  
+  <!-- EN: cook packaged survival meal x4 -->
+  <CookMealSurvivalBulk.label>masak 4x paket makanan bertahan hidup</CookMealSurvivalBulk.label>
+  <!-- EN: Prepare 4 packaged survival meals from a combination of meat and plant ingredients. Much of the ingredients are wasted in the preservation process. -->
+  <CookMealSurvivalBulk.description>Siapkan 4 paket makanan bertahan hidup dari kombinasi daging dan tumbuhan. Banyak bahan yang terbuang dalam proses pengawetan.</CookMealSurvivalBulk.description>
+  <!-- EN: Cooking 4 survival meals. -->
+  <CookMealSurvivalBulk.jobString>memasak 4 paket makanan bertahan hidup .</CookMealSurvivalBulk.jobString>
+  
+</LanguageData>

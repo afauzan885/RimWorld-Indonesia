@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beer brewing -->
+  <Brewing.label>produksi bir</Brewing.label>
+  <!-- EN: Build a brewery and fermenting vats to transform hops into tasty, tasty beer. -->
+  <Brewing.description>Bangun tempat pembuatan bir dan tangki fermentasi untuk mengolah hop menjadi bir yang enak.</Brewing.description>
+  
+  <!-- EN: carpet making -->
+  <CarpetMaking.label>pembuatan karpet</CarpetMaking.label>
+  <!-- EN: Weave beautiful carpets from cloth. -->
+  <CarpetMaking.description>Menenun karpet yang indah dari kain.</CarpetMaking.description>
+  
+  <!-- EN: cocoa -->
+  <Cocoa.label>cokelat</Cocoa.label>
+  <!-- EN: Sow cocoa trees to create your own delicious chocolate. Eating chocolate fulfills the need for recreation, and it's valuable on the market too. -->
+  <Cocoa.description>Tanam pohon cokelat untuk membuat cokelat yang lezat dengan tangan anda sendiri. Makan cokelat untuk memenuhi kebutuhan rekreasi dan juga berharga di pasaran.</Cocoa.description>
+  
+  <!-- EN: complex clothing -->
+  <ComplexClothing.label>pakaian kompleks</ComplexClothing.label>
+  <!-- EN: Tailor complicated garments like pants, dusters, and cowboy hats. -->
+  <ComplexClothing.description>Buat pakaian yang rumit seperti celana, jubah, dan topi koboi.</ComplexClothing.description>
+  
+  <!-- EN: complex furniture -->
+  <ComplexFurniture.label>furnitur kompleks</ComplexFurniture.label>
+  <!-- EN: Build complex furniture like beds, end tables, dining chairs, armchairs, dressers, tool cabinets, billiard tables, and poker tables, vents, sarcophagi, and more. -->
+  <ComplexFurniture.description>Bangun furnitur kompleks seperti tempat tidur, meja kecil, kursi meja, kursi berlengan, meja rias, kotak perkakas, meja biliar dan poker, ventilasi, sarkofagus, dan lainnya,.</ComplexFurniture.description>
+  
+  <!-- EN: devilstrand -->
+  <Devilstrand.label>tali setan</Devilstrand.label>
+  <!-- EN: Plant devilstrand, a slow-growing mushroom that yields an exceptionally tough, heat-resistant plant fiber. -->
+  <Devilstrand.description>Tanaman tali setan, jamur yang tumbuh lambat akan menghasilkan serat tanaman tahan panas yang sangat kuat. Maka dari itu serat ini disebut dengan tali setan.</Devilstrand.description>
+  
+  <!-- EN: drug production -->
+  <DrugProduction.label>produksi obat</DrugProduction.label>
+  <!-- EN: Build a drug lab for basic drug synthesis. Further research is required to make specific drugs. -->
+  <DrugProduction.description>Bangun laboratorium kimia untuk sintesis obat sederhana. Diperlukan lebih banyak penelitian untuk membuat obat tertentu.</DrugProduction.description>
+  
+  <!-- EN: go-juice production -->
+  <GoJuiceProduction.label>produksi go-juice</GoJuiceProduction.label>
+  <!-- EN: Produce go-juice, a synthetic combat-performance-enhancing drug which improves shooting, melee, and movement ability, and dulls pain. -->
+  <GoJuiceProduction.description>Memproduksi go-juice, obat peningkat performa bertempur secara instan yang meningkatkan kemampuan menembak, melee, dan gerakan, dan menghilangkan rasa sakit.</GoJuiceProduction.description>
+  
+  <!-- EN: greatbow -->
+  <Greatbow.label>busur besar</Greatbow.label>
+  <!-- EN: Craft greatbows for killing enemies at great range. -->
+  <Greatbow.description>Buat busur besar untuk membunuh musuh dari jarak jauh.</Greatbow.description>
+  
+  <!-- EN: long blades -->
+  <LongBlades.label>pedang panjang</LongBlades.label>
+  <!-- EN: Craft longswords and spears. -->
+  <LongBlades.description>Buat pedang panjang dan tombak panjang.</LongBlades.description>
+  
+  <!-- EN: passive cooler -->
+  <PassiveCooler.label>pendingin pasif</PassiveCooler.label>
+  <!-- EN: Make passive coolers, to cool indoor spaces without using electricity. -->
+  <PassiveCooler.description>Buat pendingin pasif, utnuk mendinginkan ruangan dalam ruangan tanpa menggunakan listrik.</PassiveCooler.description>
+  
+  <!-- EN: pemmican -->
+  <Pemmican.label>pemmican</Pemmican.label>
+  <!-- EN: Make pemmican, a preserved mixture of meat and plant matter that doesn't go bad for a long time. Great for traveling. -->
+  <Pemmican.description>Buat pemmican, campuran daging dan sayuran awet yang tidak akan basi dalam waktu yang lama. Bagus untuk bepergian.</Pemmican.description>
+  
+  <!-- EN: penoxycyline production -->
+  <PenoxycylineProduction.label>produksi penoksilin</PenoxycylineProduction.label>
+  <!-- EN: Produce penoxycyline, a disease prevention drug which blocks plague, malaria, and more before they start. -->
+  <PenoxycylineProduction.description>Memproduksi penoksilin, obat pencegah infeksi yang menghentikan wabah, malaria, dan lainnya sebelum penyakit itu datang.</PenoxycylineProduction.description>
+  
+  <!-- EN: plate armor -->
+  <PlateArmor.label>baju baja</PlateArmor.label>
+  <!-- EN: Smith suits of plate armor from metal or wood. This heavy armor noticeably slows movement, but protects very effectively. -->
+  <PlateArmor.description>Tempa pelat zirah dari logam atau kayu. Zirah berat sangat memperlambat gerakan, tetapi melindungi dengan sangat efektif.</PlateArmor.description>
+  
+  <!-- EN: psychite refining -->
+  <PsychiteRefining.label>pengilangan psikit</PsychiteRefining.label>
+  <!-- EN: Refine psychoid leaves into flake and yayo, different forms of the euphoric psychite drug. -->
+  <PsychiteRefining.description>Sempurnakan daun psikit di flakka dan yayo, berbagai jenis obat euforia.</PsychiteRefining.description>
+  
+  <!-- EN: psychoid brewing -->
+  <PsychoidBrewing.label>pembuatan psikoid</PsychoidBrewing.label>
+  <!-- EN: Prepare psychoid leaves into a mildly euphoria-inducing and addictive tea at the campfire or cooking stove. -->
+  <PsychoidBrewing.description>Siapkan daun psikoid di api unggun atau kompor untuk membuat teh yang menimbulkan euforia ringan dan kecanduan.</PsychoidBrewing.description>
+  
+  <!-- EN: recurve bow -->
+  <RecurveBow.label>busur recurve</RecurveBow.label>
+  <!-- EN: Build the recurve bow, an effective and inexpensive ranged weapon. -->
+  <RecurveBow.description>Bangun busur recurve, senjata tembak yang efektif dan ekonomis.</RecurveBow.description>
+  
+  <!-- EN: smithing -->
+  <Smithing.label>penempaan</Smithing.label>
+  <!-- EN: Build smithies for crafting metal weapons like knives, gladii, and maces. Work metal into clean, beautiful floor tiles. -->
+  <Smithing.description>Bangun tempa untuk menempa logam seperti pisau, gladius, dan palu gada. Kerjakan logam untuk membuat ubin bersih yang indah.</Smithing.description>
+  
+  <!-- EN: stonecutting -->
+  <Stonecutting.label>pemotong batu</Stonecutting.label>
+  <!-- EN: Cut rock chunks into stone blocks for use in construction. Build beautiful stone tile floors or ugly concrete walkways. -->
+  <Stonecutting.description>Potong batu menjadi balok yang dapat digunakan dalam kontruksi. Bangun ubin batu yang indah atau jalan beton yang jelek.</Stonecutting.description>
+  
+  <!-- EN: tree sowing -->
+  <TreeSowing.label>penanaman pohon</TreeSowing.label>
+  <!-- EN: Sow the local biome's natural trees in your fields. -->
+  <TreeSowing.description>Tanam phon alami dari bioma lokal di ladang anda.</TreeSowing.description>
+  
+  <!-- EN: wake-up production -->
+  <WakeUpProduction.label>produksi wake-up</WakeUpProduction.label>
+  <!-- EN: Synthesize wake-up, a work performance-enhancing drug which replaces the need for sleep. -->
+  <WakeUpProduction.description>Mensintesis wake-up, obat peningkat kinerja untuk menggantikan kebutuhan untuk tidur.</WakeUpProduction.description>
+  
+</LanguageData>

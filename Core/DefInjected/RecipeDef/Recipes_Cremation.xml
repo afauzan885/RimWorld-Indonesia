@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: burn apparel -->
+  <BurnApparel.label>bakar pakaian</BurnApparel.label>
+  <!-- EN: Burn unwanted apparel to completely destroy it. -->
+  <BurnApparel.description>Hancurkan pakaian yang tidak diinginkan.</BurnApparel.description>
+  <!-- EN: Burning apparel. -->
+  <BurnApparel.jobString>Membakar pakaian.</BurnApparel.jobString>
+  
+  <!-- EN: burn drugs -->
+  <BurnDrugs.label>bakar obat</BurnDrugs.label>
+  <!-- EN: Burn unwanted drugs to completely destroy them. -->
+  <BurnDrugs.description>Bakar obat yang tidak diinginkan.</BurnDrugs.description>
+  <!-- EN: Burning drugs. -->
+  <BurnDrugs.jobString>Membakar obat.</BurnDrugs.jobString>
+  
+  <!-- EN: burn weapon -->
+  <BurnWeapon.label>bakar senjata</BurnWeapon.label>
+  <!-- EN: Burn unwanted weapon to completely destroy it. -->
+  <BurnWeapon.description>Bakar senjata yang tidak diinginkan.</BurnWeapon.description>
+  <!-- EN: Burning weapon. -->
+  <BurnWeapon.jobString>Membakar senjata.</BurnWeapon.jobString>
+  
+  <!-- EN: cremate corpse -->
+  <CremateCorpse.label>kremasi mayat</CremateCorpse.label>
+  <!-- EN: Cremate a corpse to completely destroy it. -->
+  <CremateCorpse.description>Kremasi mayat untuk benar-benar menghancurkannya.</CremateCorpse.description>
+  <!-- EN: Cremating. -->
+  <CremateCorpse.jobString>Mengkremasi.</CremateCorpse.jobString>
+  
+</LanguageData>

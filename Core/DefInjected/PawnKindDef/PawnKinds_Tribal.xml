@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: archer -->
+  <Tribal_Archer.label>pemanah</Tribal_Archer.label>
+  <Tribal_Archer.labelPlural>pemanah</Tribal_Archer.labelPlural>
+  
+  <!-- EN: berserker -->
+  <Tribal_Berserker.label>pengamuk</Tribal_Berserker.label>
+  
+  <!-- EN: berserker chief -->
+  <Tribal_ChiefMelee.label>kepala pengamuk</Tribal_ChiefMelee.label>
+  
+  <!-- EN: archer chief -->
+  <Tribal_ChiefRanged.label>kepala pemanah</Tribal_ChiefRanged.label>
+  <Tribal_ChiefRanged.labelPlural>kepala pemanah</Tribal_ChiefRanged.labelPlural>
+  
+  <!-- EN: heavy archer -->
+  <Tribal_HeavyArcher.label>pemanah berat</Tribal_HeavyArcher.label>
+  
+  <!-- EN: hunter -->
+  <Tribal_Hunter.label>pemburu</Tribal_Hunter.label>
+  
+  <!-- EN: penitent -->
+  <Tribal_Penitent.label>dukun</Tribal_Penitent.label>
+  
+  <!-- EN: trader -->
+  <Tribal_Trader.label>pedagang</Tribal_Trader.label>
+  <Tribal_Trader.labelPlural>pedagang</Tribal_Trader.labelPlural>
+  
+  <!-- EN: warrior -->
+  <Tribal_Warrior.label>pejuang</Tribal_Warrior.label>
+  <Tribal_Warrior.labelPlural>pejuang</Tribal_Warrior.labelPlural>
+  
+</LanguageData>

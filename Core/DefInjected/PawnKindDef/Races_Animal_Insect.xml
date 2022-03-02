@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: megascarab -->
+  <Megascarab.label>kumbang raksasa</Megascarab.label>
+  <Megascarab.labelPlural>kumbang raksasa</Megascarab.labelPlural>
+  <Megascarab.lifeStages.0.label>anak kumbang raksasa</Megascarab.lifeStages.0.label>
+  <Megascarab.lifeStages.0.labelPlural>anak kumbang raksasa</Megascarab.lifeStages.0.labelPlural>
+  
+  <!-- EN: megaspider -->
+  <Megaspider.label>laba-laba raksasa</Megaspider.label>
+  <Megaspider.labelPlural>laba-laba raksasa</Megaspider.labelPlural>
+  <Megaspider.lifeStages.0.label>anak laba-laba raksasa</Megaspider.lifeStages.0.label>
+  <Megaspider.lifeStages.0.labelPlural>anak laba-laba raksasa</Megaspider.lifeStages.0.labelPlural>
+  
+  <!-- EN: spelopede -->
+  <Spelopede.label>kumbang hibrida</Spelopede.label>
+  <Spelopede.labelPlural>kumbang hibrida</Spelopede.labelPlural>
+  <Spelopede.lifeStages.0.label>anak kumbang hibrida</Spelopede.lifeStages.0.label>
+  <Spelopede.lifeStages.0.labelPlural>anak kumbang hibrida</Spelopede.lifeStages.0.labelPlural>
+  
+</LanguageData>

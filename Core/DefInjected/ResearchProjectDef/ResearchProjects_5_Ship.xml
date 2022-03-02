@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starflight basics -->
+  <ShipBasics.label>dasar-dasar penerbangan bintang</ShipBasics.label>
+  <!-- EN: Construct the structural and supportive elements of a starship. This is the first step in building a ship to leave this star system. -->
+  <ShipBasics.description>Bangun elemen struktural dan elemen pendukung pesawat ruang angkasa. Ini merupakan langkah awal dalam membangun kapal untuk meninggalkan sistem tata surya ini.</ShipBasics.description>
+  <!-- EN: Escaping from this planet - it would be freedom at last, and maybe a return home.\n\nBut also incredibly dangerous.\n\nMany desperate souls want off this planet. Ship reactors take 15 days to charge up. Once you begin that process, the ship reactor will emit an energy signature detectable from thousands of kilometers away. Raiders will flock to attack you in waves, with an intensity you've never seen. Mechanoids are also known to be attracted to such energy signatures for their own mysterious reasons.\n\nIt won't start until you activate your ship's reactor, but when it does, it'll be ferocious. You'll need to stockpile resources, weapons, and defenses for the onslaught if you hope to escape alive. -->
+  <ShipBasics.discoveredLetterText>Melarikan diri dari planet ini untuk mencari kebebasan yang berakhir dengan pulang.\n\nTapi juga sangat berbahaya.\n\nBanyak jiwa yang putus asa ingin meninggalkan planet ini. Reaktor kapal membutuhkan 15 hari untuk memuat. Setelah proses ini dimulai, reaktor kapal akan memancarkan energi yang dapat terdeteksi hingga ratusan kilometer. Perampok akan berkumpul untuk menyerang anda dalam intesitas yang belum pernah anda lihat sebelumnya. Mechanoid juga tertarik pada jalur energi ini karena alasan misterius\n\nMesin tidak akan mulai sampai anda mengaktifkan reaktor kapal anda. Anda perlu mengumpulkan sumber daya, senjata, dan pertahanan untuk bertahan dari serangan jika anda ingin melarikan diri hidup-hidup.</ShipBasics.discoveredLetterText>
+  <!-- EN: About: Launching the ship -->
+  <ShipBasics.discoveredLetterTitle>Tentang: Meluncurkan kapal</ShipBasics.discoveredLetterTitle>
+  
+  <!-- EN: machine persuasion -->
+  <ShipComputerCore.label>mesin persuasi</ShipComputerCore.label>
+  <!-- EN: Build a reward-signal system to persuade an existing persona core into serving as a ship's machine captain. Since people sleep during interstellar travel, a persona core is necessary to handle the complex decisions of a years-long starflight. -->
+  <ShipComputerCore.description>Bangun mesin sinyal hadiah untuk membangkitkan inti persona yang ada, agar bisa menjadi kapten mesin kapal. Karena orang-orang yang berada di dalam kapal akan tertidur selama perjalanan antarbintang, inti persona diperlukan untuk menangani keputusan kompleks dari penerbangan bintang selama bertahun-tahun.</ShipComputerCore.description>
+  
+  <!-- EN: vacuum cryptosleep casket -->
+  <ShipCryptosleep.label>vakum peti hibernasi</ShipCryptosleep.label>
+  <!-- EN: Construct hardened cryptosleep caskets tough enough to be exposed to vacuum, for transporting people on the years-long journey between stars. -->
+  <ShipCryptosleep.description>Buat peti hibernasi diperkuat agar kuat lepaskan ke ruang hampa, untuk membawa orang dalam perjalanan bertahun-tahun di antara bintang-bintang.</ShipCryptosleep.description>
+  
+  <!-- EN: Johnson-Tanaka drive -->
+  <ShipEngine.label>pengemudi Johnson-Takana</ShipEngine.label>
+  <!-- EN: Construct a Johnson-Tanaka drive for a ship. The JT drive can push you to other stars by leveraging quantum scale effects to beam momentum to distant stars. Of course, as with all starships, it still takes many years to get anywhere. -->
+  <ShipEngine.description>Buat pengemudi Johnson-Takana untuk sebuah kapal. Pengemudi JT dapat mendorong anda ke bintang lain dengan memanfaatkan efek jarak kuantum untuk menyalurkan momentum ke bintang yang jauh. Tentu saja, seperti halnya semua pesawat luar angkasa, masih butuh waktu bertahun-tahun untuk sampai kemana pun.</ShipEngine.description>
+  
+  <!-- EN: starship reactor -->
+  <ShipReactor.label>reaktor pesawat luar angkasa</ShipReactor.label>
+  <!-- EN: Build a long-duration nuclear reactor to power a starship. Note that reactors have a long startup process that will attract raiders. -->
+  <ShipReactor.description>Bangun reaktor nuklir jangka panjang untuk menggerakkan kapal luar angkasa. Perhatikan bahwa reaktor memiliki proses penyalaan yang lama, membuat perampok berdatangan.</ShipReactor.description>
+  
+  <!-- EN: starflight sensors -->
+  <ShipSensorCluster.label>sensor pesawat luar angkasa</ShipSensorCluster.label>
+  <!-- EN: Construct long-range sensors for a starship. These sensors are essential for navigation, communication, and threat avoidance. -->
+  <ShipSensorCluster.description>Buat sensor jarak jauh untuk kapal luar angkasa. Sensor ini penting untuk anavigasi, komunikasi, dan menghindari ancaman.</ShipSensorCluster.description>
+  
+</LanguageData>

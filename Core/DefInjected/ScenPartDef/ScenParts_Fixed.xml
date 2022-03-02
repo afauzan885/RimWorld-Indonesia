@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: starting people -->
+  <ConfigPage_ConfigureStartingPawns.label>memulai orang</ConfigPage_ConfigureStartingPawns.label>
+  
+  <!-- EN: Player faction -->
+  <PlayerFaction.label>faksi pemain</PlayerFaction.label>
+  
+  <!-- EN: arrival method -->
+  <PlayerPawnsArriveMethod.label>metode kedatangan</PlayerPawnsArriveMethod.label>
+  
+</LanguageData>

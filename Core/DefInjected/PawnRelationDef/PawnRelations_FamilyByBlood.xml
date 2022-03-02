@@ -1,0 +1,80 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: son -->
+  <Child.label>putra</Child.label>
+  <!-- EN: daughter -->
+  <Child.labelFemale>putri</Child.labelFemale>
+  
+  <!-- EN: cousin -->
+  <Cousin.label>sepupu</Cousin.label>
+  <Cousin.labelFemale>sepupu</Cousin.labelFemale>
+  
+  <!-- EN: cousin once removed -->
+  <CousinOnceRemoved.label>sepupu kedua</CousinOnceRemoved.label>
+  <CousinOnceRemoved.labelFemale>sepupu kedua</CousinOnceRemoved.labelFemale>
+  
+  <!-- EN: grandson -->
+  <Grandchild.label>cucu</Grandchild.label>
+  <!-- EN: granddaughter -->
+  <Grandchild.labelFemale>cucu</Grandchild.labelFemale>
+  
+  <!-- EN: grandnephew -->
+  <GrandnephewOrGrandniece.label>cicit laki-laki</GrandnephewOrGrandniece.label>
+  <!-- EN: grandniece -->
+  <GrandnephewOrGrandniece.labelFemale>cicit perempuan</GrandnephewOrGrandniece.labelFemale>
+  
+  <!-- EN: grandfather -->
+  <Grandparent.label>kakek</Grandparent.label>
+  <!-- EN: grandmother -->
+  <Grandparent.labelFemale>nenek</Grandparent.labelFemale>
+  
+  <!-- EN: granduncle -->
+  <GranduncleOrGrandaunt.label>kakeknya paman</GranduncleOrGrandaunt.label>
+  <!-- EN: grandaunt -->
+  <GranduncleOrGrandaunt.labelFemale>kakeknya bibi</GranduncleOrGrandaunt.labelFemale>
+  
+  <!-- EN: great grandson -->
+  <GreatGrandchild.label>cicit</GreatGrandchild.label>
+  <!-- EN: great granddaughter -->
+  <GreatGrandchild.labelFemale>cicit</GreatGrandchild.labelFemale>
+  
+  <!-- EN: great grandfather -->
+  <GreatGrandparent.label>kakek buyut</GreatGrandparent.label>
+  <!-- EN: great grandmother -->
+  <GreatGrandparent.labelFemale>nenek buyut</GreatGrandparent.labelFemale>
+  
+  <!-- EN: brother -->
+  <HalfSibling.label>abang</HalfSibling.label>
+  <!-- EN: sister -->
+  <HalfSibling.labelFemale>kakak</HalfSibling.labelFemale>
+  
+  <!-- EN: kin -->
+  <Kin.label>kerabat</Kin.label>
+  <Kin.labelFemale>kerabat</Kin.labelFemale>
+  
+  <!-- EN: nephew -->
+  <NephewOrNiece.label>keponakan </NephewOrNiece.label>
+  <!-- EN: niece -->
+  <NephewOrNiece.labelFemale>keponakan</NephewOrNiece.labelFemale>
+  
+  <!-- EN: father -->
+  <Parent.label>ayah</Parent.label>
+  <!-- EN: mother -->
+  <Parent.labelFemale>ibu</Parent.labelFemale>
+  
+  <!-- EN: second cousin -->
+  <SecondCousin.label>anak dari sepupu</SecondCousin.label>
+  <SecondCousin.labelFemale>anak dari sepupu</SecondCousin.labelFemale>
+  
+  <!-- EN: brother -->
+  <Sibling.label>abang</Sibling.label>
+  <!-- EN: sister -->
+  <Sibling.labelFemale>kakak</Sibling.labelFemale>
+  
+  <!-- EN: uncle -->
+  <UncleOrAunt.label>paman</UncleOrAunt.label>
+  <!-- EN: aunt -->
+  <UncleOrAunt.labelFemale>bibi</UncleOrAunt.labelFemale>
+  
+</LanguageData>

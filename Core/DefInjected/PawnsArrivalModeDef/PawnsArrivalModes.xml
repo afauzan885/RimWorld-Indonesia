@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: A group of {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textEnemy>Rombongan {0} dari {1} telah jatuh tepat diatas anda!</CenterDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have dropped in right on top of you! -->
+  <CenterDrop.textFriendly>Rombongan teman {0} dari {1} telah jatuh tepat diatas anda!</CenterDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods right on top of you. -->
+  <CenterDrop.textWillArrive>{0_pawnsPluralDef} akan tiba di pod transportasi tepat diatas anda.</CenterDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textEnemy>Rombongan {0} dari {1} telah tiba di pod transportasi di dekat sini.</EdgeDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDrop.textFriendly>Rombongan orang ramah {0} dari {1} telah tiba di pod transportasi di dekat sini.</EdgeDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <EdgeDrop.textWillArrive>{0_pawnsPluralDef} akan tiba di pod transportasi.</EdgeDrop.textWillArrive>
+  
+  <!-- EN: Several separate groups of {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textEnemy>Beberapa grup yang terpisah {0} dari {1} telah tiba di pod pengangkutan di dekat sini.</EdgeDropGroups.textEnemy>
+  <!-- EN: Several separate groups of friendly {0} from {1} have arrived in transport pods nearby. -->
+  <EdgeDropGroups.textFriendly>Beberapa rombongan teman {0} dari {1} yang terpisah telah tiba di pod pengangkutan di dekat sini.</EdgeDropGroups.textFriendly>
+  <!-- EN: Several separate groups of {0_pawnsPluralDef} will arrive in transport pods. -->
+  <EdgeDropGroups.textWillArrive>Beberapa grup terpisah dari {0_pawnsPluralDef} akan tiba di pod transportasi.</EdgeDropGroups.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textEnemy>Rombongan {0} dari {1} telah tiba di dekat sini.</EdgeWalkIn.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived nearby. -->
+  <EdgeWalkIn.textFriendly>Rombongan teman {0} dari {1} telah tiba di dekat sini.</EdgeWalkIn.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot. -->
+  <EdgeWalkIn.textWillArrive>{0_pawnsPluralDef} akan tiba dengan berjalan kaki.</EdgeWalkIn.textWillArrive>
+  
+  <!-- EN: {0} from {1} have arrived nearby, approaching from multiple angles. -->
+  <EdgeWalkInGroups.textEnemy>{0} dari {1} telah tiba di dekat sini, mendekati dari berbagai sudut.</EdgeWalkInGroups.textEnemy>
+  <!-- EN: Friendly {0} from {1} have arrived nearby, approaching from multiple angles. -->
+  <EdgeWalkInGroups.textFriendly>Beberapa rombongan ramah {0} dari {1} telah tiba di daerah tersebut.</EdgeWalkInGroups.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive on foot, approaching from several angles at once. -->
+  <EdgeWalkInGroups.textWillArrive>{0_pawnsPluralDef} akan datang dengan berjalan kaki, mendekati dari berbagai sudut secara bersamaan.</EdgeWalkInGroups.textWillArrive>
+  
+  <!-- EN: A cluster of {0} have landed in drop pods nearby. -->
+  <MechClusterDrop.textEnemy>Sekelompok {0} mendarat di dekat sini.</MechClusterDrop.textEnemy>
+  <!-- EN: The mech cluster will arrive in drop pods. -->
+  <MechClusterDrop.textWillArrive>Kluster mekanik akan datang dengan pod transportasi.</MechClusterDrop.textWillArrive>
+  
+  <!-- EN: A group of {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textEnemy>Rombongan {0} dari {1} tiba dengan transport pod. Kapsul mereka rusak dan mendarat di seluruh area!</RandomDrop.textEnemy>
+  <!-- EN: A group of friendly {0} from {1} have arrived in transport pods. Their pods went haywire and are landing scattered all over the area! -->
+  <RandomDrop.textFriendly>Rombongan teman {0} dari {1} tiba di transport pod. Kapsul mereka rusak dan mendarat di seluruh area!</RandomDrop.textFriendly>
+  <!-- EN: {0_pawnsPluralDef} will arrive in transport pods. -->
+  <RandomDrop.textWillArrive>{0_pawnsPluralDef} tiba dengan transportasi pod.</RandomDrop.textWillArrive>
+  
+</LanguageData>

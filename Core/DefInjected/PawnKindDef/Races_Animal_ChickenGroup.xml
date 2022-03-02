@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chicken -->
+  <Chicken.label>ayam</Chicken.label>
+  <!-- EN: hen -->
+  <Chicken.labelFemale>ayam betina</Chicken.labelFemale>
+  <!-- EN: rooster -->
+  <Chicken.labelMale>ayam jantan</Chicken.labelMale>
+  <Chicken.labelPlural>ayam</Chicken.labelPlural>
+  <!-- EN: chick -->
+  <Chicken.lifeStages.chick.label>anak ayam</Chicken.lifeStages.chick.label>
+  <Chicken.lifeStages.cockerel.labelFemale>anak ayam betina</Chicken.lifeStages.cockerel.labelFemale>
+  <!-- EN: cockerel -->
+  <Chicken.lifeStages.cockerel.labelMale>ayam muda</Chicken.lifeStages.cockerel.labelMale>
+  <Chicken.lifeStages.2.labelFemale>ayam betina dewasa</Chicken.lifeStages.2.labelFemale>
+  <Chicken.lifeStages.2.labelMale>ayam jantan dewasa</Chicken.lifeStages.2.labelMale>
+  
+  <!-- EN: duck -->
+  <Duck.label>bebek</Duck.label>
+  <Duck.labelMale>bebek jantan</Duck.labelMale>
+  <Duck.labelPlural>bebek</Duck.labelPlural>
+  <!-- EN: duckling -->
+  <Duck.lifeStages.duckling.label>anak bebek</Duck.lifeStages.duckling.label>
+  <Duck.lifeStages.duckling.labelPlural>anak bebek</Duck.lifeStages.duckling.labelPlural>
+  
+  <!-- EN: goose -->
+  <Goose.label>angsa</Goose.label>
+  <Goose.labelMale>angsa jantan</Goose.labelMale>
+  <Goose.labelMalePlural>angsa jantan</Goose.labelMalePlural>
+  <!-- EN: geese -->
+  <Goose.labelPlural>angsa betina</Goose.labelPlural>
+  <Goose.lifeStages.0.label>angsa betina</Goose.lifeStages.0.label>
+  <Goose.lifeStages.0.labelPlural>angsa betina</Goose.lifeStages.0.labelPlural>
+  
+  <!-- EN: turkey -->
+  <Turkey.label>ayam kalkun</Turkey.label>
+  <Turkey.labelPlural>ayam kalkun</Turkey.labelPlural>
+  <Turkey.lifeStages.0.label>anak kalkun</Turkey.lifeStages.0.label>
+  <Turkey.lifeStages.0.labelPlural>anak kalkun</Turkey.lifeStages.0.labelPlural>
+  
+</LanguageData>

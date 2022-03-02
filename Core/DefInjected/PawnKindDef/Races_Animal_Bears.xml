@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: grizzly bear -->
+  <Bear_Grizzly.label>beruang grizzly</Bear_Grizzly.label>
+  <Bear_Grizzly.labelPlural>beruang grizzly</Bear_Grizzly.labelPlural>
+  <Bear_Grizzly.lifeStages.0.label>anak beruang grizzly</Bear_Grizzly.lifeStages.0.label>
+  <Bear_Grizzly.lifeStages.0.labelPlural>anak beruang grizzly</Bear_Grizzly.lifeStages.0.labelPlural>
+  
+  <!-- EN: polar bear -->
+  <Bear_Polar.label>beruang kutub</Bear_Polar.label>
+  <Bear_Polar.labelPlural>beruang kutub</Bear_Polar.labelPlural>
+  <Bear_Polar.lifeStages.0.label>anak beruang kutub</Bear_Polar.lifeStages.0.label>
+  <Bear_Polar.lifeStages.0.labelPlural>anak beruang kutub</Bear_Polar.lifeStages.0.labelPlural>
+  
+</LanguageData>

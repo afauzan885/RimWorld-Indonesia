@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist -->
+  <Colonist.label>koloni</Colonist.label>
+  <Colonist.labelPlural>koloni</Colonist.labelPlural>
+  
+  <!-- EN: member -->
+  <Tribesperson.label>anggota</Tribesperson.label>
+  <Tribesperson.labelPlural>anggota</Tribesperson.labelPlural>
+  
+</LanguageData>

@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anesthetize -->
+  <Anesthetize.label>bius</Anesthetize.label>
+  <!-- EN: Render a creature unconscious by administering general anesthetic. -->
+  <Anesthetize.description>Membuat makhluk tak sadarkan diri dengan memberikan obat bius umum.</Anesthetize.description>
+  <!-- EN: Anesthetizing. -->
+  <Anesthetize.jobString>Membius.</Anesthetize.jobString>
+  
+  <!-- EN: euthanize by cut -->
+  <Euthanize.label>euthanasia dengan di potong</Euthanize.label>
+  <!-- EN: Euthanize a creature by cutting. -->
+  <Euthanize.description>Euthanasia makhluk dengan cara di potong.</Euthanize.description>
+  <!-- EN: Euthanizing by cutting. -->
+  <Euthanize.jobString>Mengethanasia dengan di potong.</Euthanize.jobString>
+  
+  <!-- EN: remove part -->
+  <RemoveBodyPart.label>copot bagian</RemoveBodyPart.label>
+  <!-- EN: Remove a body part. -->
+  <RemoveBodyPart.description>Copot bagian tubuh.</RemoveBodyPart.description>
+  <!-- EN: Removing body part. -->
+  <RemoveBodyPart.jobString>Mencopot bagian tubuh.</RemoveBodyPart.jobString>
+  
+</LanguageData>

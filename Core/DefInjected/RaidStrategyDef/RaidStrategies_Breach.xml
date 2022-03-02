@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way. -->
+  <ImmediateAttackBreaching.arrivalTextEnemy>Mereka segera menyerang.\n\nPara penjarah berniat menembus tembok anda. Mereka akan menentukan jalan mereka sendiri ke koloni anda dan menghancurkan apa pun yang menghalangi jalan mereka.</ImmediateAttackBreaching.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreaching.arrivalTextFriendly>Mereka bergerak untuk membantu anda.</ImmediateAttackBreaching.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreaching.letterLabelEnemy>Penjarah</ImmediateAttackBreaching.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreaching.letterLabelFriendly>Sekutu</ImmediateAttackBreaching.letterLabelFriendly>
+  
+  <!-- EN: They are attacking immediately.\n\nThese raiders intend to breach your walls. They'll determine their own path into your colony and destroy anything in their way.\n\nWatch out - they appear to be unusually clever with their tactics. They'll avoid your turrets' fields of fire and notice some of your traps. -->
+  <ImmediateAttackBreachingSmart.arrivalTextEnemy>Mereka segera menyerang.\n\nPara penjarah berniat menembus tembok anda. Mereka akan menentukan jalan mereka sendiri ke koloni anda dan menghancurkan apa pun yang menghalangi jalan mereka .\n\nHati-hati - Tampaknya mereka sangat pintar dengan taktiknya. Mereka akan menghindari baku tembak dengan menara anda dan melihat beberaa jebakan anda.</ImmediateAttackBreachingSmart.arrivalTextEnemy>
+  <!-- EN: They are moving in to help you immediately. -->
+  <ImmediateAttackBreachingSmart.arrivalTextFriendly>Mereka bergerak untuk membantu anda.</ImmediateAttackBreachingSmart.arrivalTextFriendly>
+  <!-- EN: Raid -->
+  <ImmediateAttackBreachingSmart.letterLabelEnemy>Penjarah</ImmediateAttackBreachingSmart.letterLabelEnemy>
+  <!-- EN: Friendlies -->
+  <ImmediateAttackBreachingSmart.letterLabelFriendly>Sekutu</ImmediateAttackBreachingSmart.letterLabelFriendly>
+  
+</LanguageData>

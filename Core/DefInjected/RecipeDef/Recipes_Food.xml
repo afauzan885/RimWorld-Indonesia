@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: make kibble -->
+  <Make_Kibble.label>buat pakan hewan</Make_Kibble.label>
+  <!-- EN: Make animal kibble by combining raw meat and plants. -->
+  <Make_Kibble.description>Baut pakan hewan dengan menggabungkan daging mentah dan tanaman.</Make_Kibble.description>
+  <!-- EN: Making kibble. -->
+  <Make_Kibble.jobString>Membuat pakan hewan.</Make_Kibble.jobString>
+  
+  <!-- EN: make pemmican -->
+  <Make_Pemmican.label>buat pemmican</Make_Pemmican.label>
+  <!-- EN: Make pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
+  <Make_Pemmican.description>Buat pemmican, kombinasi dari daging dan tanaman yang diawetkan. Rasanya biasa saja, tetapi dapat bertahan lama tanpa pendinginan.</Make_Pemmican.description>
+  <!-- EN: Making pemmican. -->
+  <Make_Pemmican.jobString>Membuat pemmican.</Make_Pemmican.jobString>
+  
+  <!-- EN: make pemmican x4 -->
+  <Make_PemmicanBulk.label>buat pemmican 4x</Make_PemmicanBulk.label>
+  <!-- EN: Make bulk pemmican, a preserved combination of meat and plant food. It doesn't taste amazing, but lasts a long time without refrigeration. -->
+  <Make_PemmicanBulk.description>Buat 4 pemmican, kombinasi dari daging dan tanaman yang diawetkan. Rasanya biasa saja, tetapi dapat bertahan lama tanpa pendinginan.</Make_PemmicanBulk.description>
+  <!-- EN: Making bulk pemmican. -->
+  <Make_PemmicanBulk.jobString>Membuat pemmican massal.</Make_PemmicanBulk.jobString>
+  
+</LanguageData>

@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cure scaria -->
+  <CureScaria.label>sembuhkan scaria</CureScaria.label>
+  <!-- EN: This special medical operation cures scaria. -->
+  <CureScaria.description>Operasi medis khusus ini menyembuhkan scaria.</CureScaria.description>
+  <!-- EN: Curing scaria. -->
+  <CureScaria.jobString>Menyembuhkan scaria.</CureScaria.jobString>
+  <!-- EN: {0} has successfully cured {1}'s scaria. -->
+  <CureScaria.successfullyRemovedHediffMessage>{0} telah berhasil menyembuhkan scaria {1}.</CureScaria.successfullyRemovedHediffMessage>
+  
+  <!-- EN: sterilize -->
+  <Sterilize.label>sterilkan</Sterilize.label>
+  <!-- EN: Sterilize a creature so it can no longer reproduce. -->
+  <Sterilize.description>Mensterilkan makhluk sehingga tidak bisa lagi bereproduksi.</Sterilize.description>
+  <!-- EN: sterilizing TargetA. -->
+  <Sterilize.jobString>disterilkan TargetA.</Sterilize.jobString>
+  <!-- EN: {0} has successfully sterilized {1}. -->
+  <Sterilize.successfullyRemovedHediffMessage>{0} telah berhasil mensterilkan {1}.</Sterilize.successfullyRemovedHediffMessage>
+  
+</LanguageData>

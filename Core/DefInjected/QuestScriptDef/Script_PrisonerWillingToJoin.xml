@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription->A prisoner being held by [siteFaction_name] has managed to steal a radio and call you!\n\n[prisoner_nameDef] is being held at a camp near [map_definite][underArmedGuard]. Rescue [prisoner_objective], and [prisoner_pronoun] will join your colony. [prisoner_pronoun] is a [prisoner_age]-year-old [prisoner_title]. [prisoner_pronoun] says that [allSitePartsDescriptionsExceptFirst][formerColonistInfo][prisonerFullRelationInfo]\n\nIf you miss this opportunity, you may never hear from [prisoner_nameDef] again.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)-> under armed guard</li>
+    <li>underArmedGuard-></li>
+  -->
+  <OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+    <li>questDescription->Seorang tahanan dari faksi [siteFaction_name] berhasil mencuri radio dan menelepon anda!.\n\n[prisoner_nameDef] ditahan di sebuah kamp terdekat [underArmedGuard]. Jika anda menyelamatkan [prisoner_objective], [prisoner_pronoun] akan bergabung dengan koloni anda. [prisoner_pronoun] adalah [a_n_jaehriger][prisoner_title]. [prisoner_pronoun] mengatakan di sana [allSitePartsDescriptionsExceptFirst][formerColonitsInfo][prisonerFullRelationInfo]\n\nJika anda melewatkan kesempatan ini, mungkin anda tidak akan pernah mendengar kabar dari [prisoner_nameDef] lagi.</li>
+    <li>formerColonistInfo(priority=1)->\n\n[prisoner_formerlyColonistInfo]</li>
+    <li>formerColonistInfo-></li>
+    <li>underArmedGuard(allowViolentQuests==true,priority=1)->oleh penjaga bersenjata</li>
+    <li>underArmedGuard-></li>
+    <!-- gender-specific -->
+    <li>ein_N_jaehriger(prisoner_gender==Male)->[prisoner_age]-tahun</li>
+    <li>ein_N_jaehriger(prisoner_gender==Female)->[prisoner_age]-tahun</li>
+  </OpportunitySite_PrisonerWillingToJoin.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName->[prisoner_nameDef]'s Salvation</li>
+    <li>questName->[prisoner_nameDef]'s Rescue</li>
+    <li>questName->[prisoner_nameDef]'s Breakout</li>
+    <li>questName->Rescuing [prisoner_nameDef]</li>
+    <li>questName->Saving [prisoner_nameDef]</li>
+    <li>questName->Breaking [prisoner_nameDef] Out</li>
+  -->
+  <OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+    <li>questName->Bantuan untuk [prisoner_nameDef]</li>
+    <li>questName->Penyelamatan [prisoner_nameDef]</li>
+    <li>questName->Misi penyelamatan untuk [prisoner_nameDef]</li>
+    <li>questName->Selamatkan [prisoner_nameDef]</li>
+    <li>questName->Bantu [prisoner_nameDef] keluar</li>
+  </OpportunitySite_PrisonerWillingToJoin.questNameRules.rulesStrings>
+  
+</LanguageData>

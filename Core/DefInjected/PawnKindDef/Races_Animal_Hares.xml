@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: hare -->
+  <Hare.label>Kelinci</Hare.label>
+  <Hare.labelPlural>kelinci</Hare.labelPlural>
+  <Hare.lifeStages.0.label>anak kelinci</Hare.lifeStages.0.label>
+  <Hare.lifeStages.0.labelPlural>anak kelinci</Hare.lifeStages.0.labelPlural>
+  
+  
+  <!-- EN: snowhare -->
+ <Snowhare.label>kelinci salju</Snowhare.label>
+  <Snowhare.labelPlural>kelinci salju</Snowhare.labelPlural>
+  <Snowhare.lifeStages.0.label>anak kelinci salju</Snowhare.lifeStages.0.label>
+  <Snowhare.lifeStages.0.labelPlural>anak kelinci salju</Snowhare.lifeStages.0.labelPlural>
+  
+  
+</LanguageData>

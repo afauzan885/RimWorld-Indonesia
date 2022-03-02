@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: one only -->
+  <SpouseCount_Female_MaxOne.label>hanya satu</SpouseCount_Female_MaxOne.label>
+  <!-- EN: Women may have one spouse only. -->
+  <SpouseCount_Female_MaxOne.description>Wanita hanya boleh memiliki satu pasangan.</SpouseCount_Female_MaxOne.description>
+  
+  <!-- EN: one only -->
+  <SpouseCount_Male_MaxOne.label>hanya satu</SpouseCount_Male_MaxOne.label>
+  <!-- EN: Men may have one spouse only. -->
+  <SpouseCount_Male_MaxOne.description>Pria hanya boleh memiliki satu pasangan.</SpouseCount_Male_MaxOne.description>
+  
+</LanguageData>

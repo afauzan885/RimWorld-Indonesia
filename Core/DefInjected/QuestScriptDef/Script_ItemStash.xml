@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN:
+    <li>questDescription(askerIsNull==true)->We've intercepted messages about a collection of valuable items worth [itemStashContentsValue] not far from [map_definite]. The collection consists of:\n\n[itemStashContents]\n\nIt seems that [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] of [asker_faction_name], has informed us of a collection of valuable items worth [itemStashContentsValue] not far from us. The collection consists of:\n\n[itemStashContents]\n\n[asker_label] says that [allSitePartsDescriptionsExceptFirst]</li>
+  -->
+  <OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+    <li>questDescription(askerIsNull==true)->Kami mencegat pesan radio rahasia tentang koleksi barang berharga senilai [itemStashContentsValue] tidak jauh dari [map_definite]. Koleksi terdiri dari:\n\n[itemStashContents]\n\nTampaknya [allSitePartsDescriptionsExceptFirst]</li>
+    <li>questDescription(asker_factionLeader==True)->[asker_nameDef], [asker_faction_leaderTitle] dari [asker_faction_name], telah mengonfirmasikan kepada kami bahwa barang-barang berharga dengan nilai total [itemStashContentsValue] disimpan dekat kami. Koleksinya terdiri dari:\n\n[itemStashContents]\n\n[asker_label] mengatakan bahwa ada [allSitePartsDescriptionsExceptFirst]</li>
+  </OpportunitySite_ItemStash.questDescriptionRules.rulesStrings>
+  <!-- EN:
+    <li>questName(priority=1)->[asker_nameDef]'s [stash] of [treasure]</li>
+    <li>questName->[stash] of [treasure]</li>
+    <li>stash->Stash</li>
+    <li>stash->Cache</li>
+    <li>stash->Collection</li>
+    <li>stash->Shack</li>
+    <li>treasure->Treasure</li>
+    <li>treasure->Valuables</li>
+    <li>treasure->Fortune</li>
+    <li>treasure->Goodies</li>
+    <li>treasure->Supplies</li>
+  -->
+  <OpportunitySite_ItemStash.questNameRules.rulesStrings>
+    <li>questName(priority=1)->[stash] dari [asker_nameDef]</li>
+    <li>questName->[stash] dengan [treasure]</li>
+    <li>stash->Menyimpan</li>
+    <li>stash->Cahce</li>
+    <li>stash->Koleksi</li>
+    <li>stash->Gubuk</li>
+    <li>treasure->harta karun</li>
+    <li>treasure->barang berharga</li>
+    <li>treasure->harta benda</li>
+    <li>treasure->barang bagus</li>
+    <li>treasure->persediaan</li>
+  </OpportunitySite_ItemStash.questNameRules.rulesStrings>
+  <!-- EN: Quest expired: [resolvedQuestName] -->
+  <OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>Misi berakhir: [resolvedQuestName]</OpportunitySite_ItemStash.LetterLabelQuestExpired.slateRef>
+  <!-- EN: Intercepted communications indicate the item stash has been claimed by others. The quest [resolvedQuestName] has expired. -->
+  <OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>Komunikasi yang disadap menunjukkan bahwa simpanan item telah diklaim oleh orang lain. Misi '[resolvedQuestName]' telah berakhir.</OpportunitySite_ItemStash.LetterTextQuestExpired.slateRef>
+  
+</LanguageData>
