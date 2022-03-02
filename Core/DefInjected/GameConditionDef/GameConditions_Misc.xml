@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>aurora</Aurora.label>
+  <!-- EN: An aurora is lighting up the sky. The breathtaking display will boost the mood of anyone outside to see it. -->
+  <Aurora.description>Aurora menerangi langit. Pemandangan yang mempesona bagi siapapun melihatnya.</Aurora.description>
+  <!-- EN: The aurora is ending. -->
+  <Aurora.endMessage>aurora sudah berakhir.</Aurora.endMessage>
+  <!-- EN: A beautiful aurora is lighting up the sky.\n\nThe undulating colors will boost the mood of anyone outside to see them, and make the night brighter. -->
+  <Aurora.letterText>Aurora yang indah menerangi langit.\n\nDengan campuran warna yang bergelombang, siapapun yang melihatnya akan terpesona dengan keindahannya dan membuat malam menjadi lebih cerah.</Aurora.letterText>
+  
+  <!-- EN: climate cycle -->
+  <ClimateCycle.label>siklus iklim</ClimateCycle.label>
+  <!-- EN: A multi-year climate cycle due to an elliptical orbit. -->
+  <ClimateCycle.description>Siklus iklim terjadi setiap tahun karena orbit planet yang elips.</ClimateCycle.description>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>dingin menusuk</ColdSnap.label>
+  <!-- EN: An unusual cold snap is freezing the region. -->
+  <ColdSnap.description>Cuaca dingin yang tidak biasa membekukan wilayah itu.</ColdSnap.description>
+  <!-- EN: a front of cold air will cool the area around [map_definite] for [gameConditionDuration_duration], harming crops and any person or animal without adequate protection -->
+  <ColdSnap.descriptionFuture>Udara dingin akan mendinginkan area [map_difinite] dalam waktu [gameConditionDuration_duration], cuaca seperti ini akan merusak tanaman dan setiap orang atau hewan yang tidak menggunakan pakaian yang memadai</ColdSnap.descriptionFuture>
+  <!-- EN: The cold snap is over. -->
+  <ColdSnap.endMessage>dingin menusuk telah berakhir.</ColdSnap.endMessage>
+  <!-- EN: An unusual cold snap has set in.\n\nCold snaps can quickly kill by hypothermia. Be sure to build a heated space to survive, wear appropriate apparel, and try to harvest crops before they freeze and die. -->
+  <ColdSnap.letterText>Cuaca dingin yang ekstrim sedang terjadi.\n\nUdara yang begitu dingin menyebabkan terserang hipotermia dengan cepat. Pastikan untuk membuat ruangan yang cukup panas untuk bertahan hidup, atau kenakan pakaian yang sesuai untuk menahan dinginnya udara, dan panen tanaman kamu sebelum rusak karena membeku.</ColdSnap.letterText>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>gerhana</Eclipse.label>
+  <!-- EN: An eclipse is shadowing the surface. It will be dark, even during the daytime. -->
+  <Eclipse.description>Gerhana menyebabkan permukaan planet tertutupi sebagian sinar matahari, maka dari itu siang akan berubah menjadi gelap.</Eclipse.description>
+  <!-- EN: The eclipse is ending. -->
+  <Eclipse.endMessage>gerhana telah berakhir.</Eclipse.endMessage>
+  <!-- EN: One of the moons of this planet has orbited in front of the sun. An eclipse has begun. -->
+  <Eclipse.letterText>Salah satu bulan di planet ini kebetulan lewat didepan cahaya matahari, Sehingga cahaya tidak sampai ke permukaan. Gerhana sedang terjadi.</Eclipse.letterText>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>badai petir</Flashstorm.label>
+  <!-- EN: A freak localized storm is blasting a small area with repeated lightning strikes. -->
+  <Flashstorm.description>Badai petir yang aneh menyambar area kecil dengan sambaran petir berulang kali .</Flashstorm.description>
+  <!-- EN: The flashstorm is over. -->
+  <Flashstorm.endMessage>Badai petir telah berakhir.</Flashstorm.endMessage>
+  <!-- EN: A freak localized flashstorm is striking a small area with lightning. This can cause massive fires. -->
+  <Flashstorm.letterText>Badai petir yang aneh menyambar area kecil dengan sambaran petir, sambaran ini menyebabkan kebakaran besar.</Flashstorm.letterText>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>gelombang panas</HeatWave.label>
+  <!-- EN: An extreme wave of heat is baking the area. -->
+  <HeatWave.description>Gelombang panas yang ekstrim sedang memanggang area ini.</HeatWave.description>
+  <!-- EN: a heat wave will bake the area around [map_definite] for [gameConditionDuration_duration], harming crops and possibly killing people or animals in uncooled areas -->
+  <HeatWave.descriptionFuture>gelombang panas akan memanggang area [map_definite] dalam waktu [gameConditionDuration_duration], cuaca seperti ini akan merusak tanaman dan membunuh setiap orang atau hewan di daerah ini yang tidak didinginkan</HeatWave.descriptionFuture>
+  <!-- EN: The heat wave is over. -->
+  <HeatWave.endMessage>gelombang panas telah berakhir.</HeatWave.endMessage>
+  <!-- EN: An unusual heat wave has begun.\n\nHeat waves can induce deadly heatstroke. Stay cool by building either a passive or electric cooler, or by getting deep underground where the rocks are naturally cool. -->
+  <HeatWave.letterText>Gelombang panas yang ekstrim sedang dimulai.\n\nGelombang panas menyebabkan sengatan panas yang mematikan. Jangan panik dan tetap tenang dengan membangun pendingin pasif atau pendingin listrik (AC), atau juga bisa pergi jauh kebawah tanah dimana bebatuannya sejuk secara alami.</HeatWave.letterText>
+  
+  <!-- EN: planetkiller -->
+  <Planetkiller.label>penghancur planet</Planetkiller.label>
+  <!-- EN: An interstellar planetkiller weapon is approaching this planet. It will smash the planet apart like a rifle bullet hitting an egg, annihilating all life. -->
+  <Planetkiller.description>Senjata penghancur planet antarbintang menghancurkan planet ini bagaikan telur yang ditembak oleh senapan, memusnahkan semua unsur kehidupan.</Planetkiller.description>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>drone psikis</PsychicDrone.label>
+  <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, driving people towards insanity. -->
+  <PsychicDrone.description>Sebuah archotech jauh memancarkan sinyal psikis melalui penguat orbital, membuat semua orang menjadi gila.</PsychicDrone.description>
+  <!-- EN: a [psychicDroneLevel] psychic drone will buzz the area around [map_definite] for [gameConditionDuration_duration], pushing all people of the [psychicDroneGender] gender towards insanity -->
+  <PsychicDrone.descriptionFuture>drone dengan level psikis [psychicDroneLevel] akan berdengung diarea [gameConditionDuration_duration] dalam waktu [map_definite], membuat semua orang yang bergender [psychicDroneGender] menjadi gila</PsychicDrone.descriptionFuture>
+  <!-- EN: The psychic drone is ending. -->
+  <PsychicDrone.endMessage>Drone psikis telah berakhir.</PsychicDrone.endMessage>
+  <!-- EN: Every {0} colonist feels a wave of anxiety and anger!\n\nSome distant engine of hatred is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit worse.\n\nThe drone level is {1}. -->
+  <PsychicDrone.letterText>Setiap {0} koloni yang merasakan gelombang kecemasan dan kemarahan!\n\nAda beberapa mesin kebencian dari jauh sedang bergerak. Mesin ini memproyeksikan drone psikis ke situs ini melalui penguat orbital, dan di setel hanya untuk mempengaruhi {0}. Selama beberapai, beberapa orang suasana hati mereka akan menjadi lebih buruk.\n\n Level drone adalah {1}.</PsychicDrone.letterText>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>penenang psikis</PsychicSoothe.label>
+  <!-- EN: A distant archotech is emitting psychic signals through an orbital amplifier, calming people and stabilizing their minds. -->
+  <PsychicSoothe.description>Sebuah archotech yang jauh memancarkan sinyal psikis melalui penguat orbital, sinyal ini menenangkan orang dan menstabilkan pikiran mereka.</PsychicSoothe.description>
+  <!-- EN: The psychic soothe is ending. -->
+  <PsychicSoothe.endMessage>penenang psikis telah berakhir.</PsychicSoothe.endMessage>
+  <!-- EN: Every {0} colonist smiles with contentment!\n\nSome distant engine of happiness is stirring. It is projecting a psychic drone onto this site through an orbital amplifier, tuned to only affect {0}s. For a few days, some people's mood will be quite a bit better. -->
+  <PsychicSoothe.letterText>Setap {0} koloni tersenyum bahagia!\n\nAda beberapa mesin kebahagiaan dari jauh sedang memancarkan sinyal. Mesin ini memproyeksikan drone psikis ke situs ini melalui penguat orbital, dan hanya disetel untuk mempengaruhi {0}. Dalam beberapa hari, beberapa orang akan memiliki suasana hati yang baik.</PsychicSoothe.letterText>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>suar matahari</SolarFlare.label>
+  <!-- EN: A solar flare is blasting the planet. The electromagnetic interference will prevent most electrical devices from working. -->
+  <SolarFlare.description>Suar matahari mengahantam planet ini. Gangguan elektromagnetik akan menyebabkan sebagian besar perangkat listrik mati total.</SolarFlare.description>
+  <!-- EN: The solar flare is ending. -->
+  <SolarFlare.endMessage>suar matahari telah berakhir.</SolarFlare.endMessage>
+  <!-- EN: A solar flare has begun.\n\nThe intense radiation will shut down all electrical devices.\n\nIt should pass in about a day. -->
+  <SolarFlare.letterText>Suar matahari sedang terjadi.\n\nRadiasinya yang intens akan mematikan semua perangkat listrik.\n\nBisa terjadi hingga beberapa hari.</SolarFlare.letterText>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>debu beracun</ToxicFallout.label>
+  <!-- EN: A plume of toxic dust from some distant source is slowly settling over this entire region. Any living thing not under a roof will be slowly poisoned, and items left outside will corrode. -->
+  <ToxicFallout.description>Gumpala debu beracun bersumber dari jauh perlahan-lahan mengendap di seluruh wilayah ini. Semua mahluk hidup yang tidak berada didalam ruangan beratap akan keracunan, dan berang-barang yang tertinggal diluar akan rusak karena korosi.</ToxicFallout.description>
+  <!-- EN: a cloud of toxic fallout will blanket the area around [map_definite] for [gameConditionDuration_duration], killing outdoor plant and animal life -->
+  <ToxicFallout.descriptionFuture>awan beracun akan menyelimuti daerah sekitar [map_definite] dalam waktu [gameConditionDuration_duration], membunuh tumbuhan dan kehidupan hewan di alam bebas</ToxicFallout.descriptionFuture>
+  <!-- EN: The worst of the toxic fallout has settled. -->
+  <ToxicFallout.endMessage>Dampak terburuk debu beracun menjadi permanen di tempat ini.</ToxicFallout.endMessage>
+  <!-- EN: A distant chemical fire has released a plume of poison over this entire region.\n\nAny person or creature not under a roof will be slowly sickened by the toxic dust settling out of the atmosphere.\n\nIt will last for anywhere between a few days to over a quadrum. -->
+  <ToxicFallout.letterText>Kebakaran kimia dari jauh melepakan segumpal racun ke seluruh wilayah ini.\n\nSetiap orang atau makhluk hidup yang tidak berada didalam ruangan beratap akan perlahan-lahan sakit oleh debu beracun yang mengendap di atmosfer.\n\nBencana ini bisa berlangsung dalam beberapa hari hingga lebih dari satu kuadrum lamanya.</ToxicFallout.letterText>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>musim dingin vulkanik</VolcanicWinter.label>
+  <!-- EN: Some distant volcano or fire is choking the atmosphere with ash, significantly reducing the amount of light which reaches the surface. Temperatures will be colder and plants will grow slower. -->
+  <VolcanicWinter.description>Beberapa gunung berapi yang jauh melepaskan wudus gembel (abu vulkanik) ke atas atmosfer dalam jumlah yang besar, hal ini menyebabkan cahaya matahari tidak dapat menembus kepulan debu di atmosfer dan menyebabkan suhu menjadi dingin dan tanaman menjadi lambat tumbuhnya.</VolcanicWinter.description>
+  <!-- EN: a layer of ash will be desposited in the upper atmosphere, reducing sunlight around [map_definite] for [gameConditionDuration_duration], seriously harming the local ecosystem -->
+  <VolcanicWinter.descriptionFuture>Lapisan abu akan bertebaran diatmosfer, dampaknya akan mengurangi sinar matahari di sekitar [map_definite] dalam waktu [gameConditionDuration_duration], dapat menyulitkan kehidupan ekosistem lokal</VolcanicWinter.descriptionFuture>
+  <!-- EN: Most of the ash has settled. -->
+  <VolcanicWinter.endMessage>sebagian besar abu menjadi permanen di tempat ini.</VolcanicWinter.endMessage>
+  <!-- EN: Some distant volcano or fire has begun spewing massive quantities of ash into the atmosphere.\n\nAsh in the atmosphere will obscure the sun. Temperatures will drop and plants will suffer for lack of sunlight. It could pass in a few weeks, or it might last many quadrums. -->
+  <VolcanicWinter.letterText>Beberapa gunung berapi memuntahkan wudus gembel (abu vulkanik) dalam jumlah yang besar jauh ke atas atmosfer.\n\nAbu vulkanik di atmosfer akan menghalagi sinar matahari. Suhu menjadi turun dan fotosintesis tanaman tidak optimal karena kurangnya sinar matahari, kejadian ini bisa terjadi hingga beberapa minggu, atau mungkin beberapa kuadrum lamanya.</VolcanicWinter.letterText>
+  
+</LanguageData>

@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: dirt -->
+  <DirtInEyes.label>kotor</DirtInEyes.label>
+  <!-- EN: Dirt in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <DirtInEyes.description>Kotoran di mata, mengaburkan penglihatan tetapi dapat dibersihkan dalam waktu singkat.</DirtInEyes.description>
+  <!-- EN: blind -->
+  <DirtInEyes.battleStateLabel>buta</DirtInEyes.battleStateLabel>
+  <!-- EN: dirt -->
+  <DirtInEyes.labelNoun>kotor</DirtInEyes.labelNoun>
+  
+  <!-- EN: gravel -->
+  <GravelInEyes.label>kerikil</GravelInEyes.label>
+  <!-- EN: Gravel in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <GravelInEyes.description>Kerikil di mata. Mengaburkan penglihatan tetapi dapat dibersihkan dalam waktu singkat.</GravelInEyes.description>
+  <!-- EN: blind -->
+  <GravelInEyes.battleStateLabel>buta</GravelInEyes.battleStateLabel>
+  <!-- EN: gravel -->
+  <GravelInEyes.labelNoun>kerikil</GravelInEyes.labelNoun>
+  
+  <!-- EN: mud -->
+  <MudInEyes.label>lumpur</MudInEyes.label>
+  <!-- EN: Mud in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <MudInEyes.description>Lumpur di mata, mengaburkan penglihatan tetapi dapat dibersihkan dalam waktu singkat.</MudInEyes.description>
+  <!-- EN: blind -->
+  <MudInEyes.battleStateLabel>buta</MudInEyes.battleStateLabel>
+  <!-- EN: mud -->
+  <MudInEyes.labelNoun>lumpur</MudInEyes.labelNoun>
+  
+  <!-- EN: sand -->
+  <SandInEyes.label>pasir</SandInEyes.label>
+  <!-- EN: Sand in the eyes. It impairs vision, but can be cleared within a few moments. -->
+  <SandInEyes.description>pasir di mata, mengaburkan penglihatan tetapi dapat dibersihkan dalam waktu singkat.</SandInEyes.description>
+  <!-- EN: blind -->
+  <SandInEyes.battleStateLabel>buta</SandInEyes.battleStateLabel>
+  <!-- EN: sand -->
+  <SandInEyes.labelNoun>pasir</SandInEyes.labelNoun>
+  
+  <!-- EN: water -->
+  <WaterInEyes.label>air</WaterInEyes.label>
+  <!-- EN: Water in the eyes. It impairs vision, but can be cleared in a few moments. -->
+  <WaterInEyes.description>Air di mata, mengaburkan penglihatan tetapi dapat dibersihkan dalam waktu singkat.</WaterInEyes.description>
+  <!-- EN: blind -->
+  <WaterInEyes.battleStateLabel>buta</WaterInEyes.battleStateLabel>
+  <!-- EN: water -->
+  <WaterInEyes.labelNoun>air</WaterInEyes.labelNoun>
+  
+</LanguageData>

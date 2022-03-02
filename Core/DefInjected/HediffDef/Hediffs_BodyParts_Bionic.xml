@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: bionic arm -->
+  <BionicArm.label>lengan bionik</BionicArm.label>
+  <!-- EN: An installed bionic arm. -->
+  <BionicArm.description>lengan bionik terpasang.</BionicArm.description>
+  <!-- EN: fist -->
+  <BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>tinju</BionicArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a bionic arm -->
+  <BionicArm.labelNoun>lengan bionik</BionicArm.labelNoun>
+  
+  <!-- EN: bionic ear -->
+  <BionicEar.label>telinga bionik</BionicEar.label>
+  <!-- EN: An installed bionic ear. -->
+  <BionicEar.description>lengan bionik terpasang.</BionicEar.description>
+  <!-- EN: a bionic ear -->
+  <BionicEar.labelNoun>telinga bionik</BionicEar.labelNoun>
+  
+  <!-- EN: bionic eye -->
+  <BionicEye.label>mata bionik</BionicEye.label>
+  <!-- EN: An installed bionic eye. -->
+  <BionicEye.description>mata bionik terpasang.</BionicEye.description>
+  <!-- EN: a bionic eye -->
+  <BionicEye.labelNoun>mata bionik</BionicEye.labelNoun>
+  
+  <!-- EN: bionic heart -->
+  <BionicHeart.label>jantung bionuk</BionicHeart.label>
+  <!-- EN: An installed bionic heart. -->
+  <BionicHeart.description>jantung bionik terpasang.</BionicHeart.description>
+  <!-- EN: a bionic heart -->
+  <BionicHeart.labelNoun>jantung bionik</BionicHeart.labelNoun>
+  
+  <!-- EN: bionic leg -->
+  <BionicLeg.label>kaki bionik</BionicLeg.label>
+  <!-- EN: An installed bionic leg. -->
+  <BionicLeg.description>kaki bionik terpasang.</BionicLeg.description>
+  <!-- EN: a bionic leg -->
+  <BionicLeg.labelNoun>kaki bionik</BionicLeg.labelNoun>
+  
+  <!-- EN: bionic spine -->
+  <BionicSpine.label>tulang belakang bionik</BionicSpine.label>
+  <!-- EN: An installed bionic spine. -->
+  <BionicSpine.description>tulang bionik terpasang.</BionicSpine.description>
+  <!-- EN: a bionic spine -->
+  <BionicSpine.labelNoun>tulang belakang bionik</BionicSpine.labelNoun>
+  
+  <!-- EN: bionic stomach -->
+  <BionicStomach.label>perut bionik</BionicStomach.label>
+  <!-- EN: An installed bionic stomach. -->
+  <BionicStomach.description>perut bionik terpasang.</BionicStomach.description>
+  <!-- EN: a bionic stomach -->
+  <BionicStomach.labelNoun>perut bionik</BionicStomach.labelNoun>
+
+  <!-- EN: bionic tongue -->
+  <BionicTongue.label>lidah bionik</BionicTongue.label>
+  <!-- EN: An installed bionic tongue. -->
+  <BionicTongue.description>Lidah bionik terpasangs.</BionicTongue.description>
+  <!-- EN: a bionic tongue -->
+  <BionicTongue.labelNoun>lidah bionik</BionicTongue.labelNoun>
+  
+  <!-- EN: death acidifier -->
+  <DeathAcidifier.label>acidifier</DeathAcidifier.label>
+  <!-- EN: An installed death acidifier. -->
+  <DeathAcidifier.description>acidifier terpasang.</DeathAcidifier.description>
+  <!-- EN: a death acidifier -->
+  <DeathAcidifier.labelNoun>acidifier</DeathAcidifier.labelNoun>
+  
+</LanguageData>

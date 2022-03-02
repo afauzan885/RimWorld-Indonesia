@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- EN: alzheimer's -->
+  <Alzheimers.label>alzheimer</Alzheimers.label>
+  <!-- EN: A brain disease usually associated with aging. Alzheimer's disease causes progressive degradation in the ability to think and remember. Patients are known to forget close relatives and sometimes wander around in confusion. -->
+  <Alzheimers.description>Penyakit otak yang biasanya dikaitkan dengan penuaan. Penyakit Alzheimer menyebabkan penurunan progresif dalam kemampuan berpikir dan mengingat. Pasien diketahui lupa dengan kerabat dekatnya dan terkadang berkeliaran dalam keadaan bingung.</Alzheimers.description>
+  <Alzheimers.labelNoun>alzheimer</Alzheimers.labelNoun>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-0.label>tidak terlihat</Alzheimers.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Alzheimers.stages.minor-1.label>kecil</Alzheimers.stages.minor-1.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-0.label>besar</Alzheimers.stages.major-0.label>
+  <!-- EN: major -->
+  <Alzheimers.stages.major-1.label>serius</Alzheimers.stages.major-1.label>
+  
+  <!-- EN: asthma -->
+  <Asthma.label>asma</Asthma.label>
+  <!-- EN: A long-term inflammatory disease of the airways in the lungs. It requires regular tending to prevent symptoms. -->
+  <Asthma.description>Penyakit inflamasi jangka panjang pada saluran pernafasan di paru-paru. Membutuhkan perawatan teratur untuk mencegah gejalanya.</Asthma.description>
+  <Asthma.labelNoun>asma</Asthma.labelNoun>
+  <!-- EN: minor -->
+  <Asthma.stages.minor.label>ringan</Asthma.stages.minor.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-0.label>sedang</Asthma.stages.major-0.label>
+  <!-- EN: major -->
+  <Asthma.stages.major-1.label>berat</Asthma.stages.major-1.label>
+  
+  <!-- EN: bad back -->
+  <BadBack.label>sakit punggung</BadBack.label>
+  <!-- EN: Degradation in the spinal column and surrounding musculature. This makes it hard to move and bend smoothly. -->
+  <BadBack.description>Gangguan pada tulang belakang dan otot disekitarnya. Membuatnya sulit untuk membungkuk dan bergerak.</BadBack.description>
+  <!-- EN: a bad back -->
+  <BadBack.labelNoun>sakit punggung</BadBack.labelNoun>
+  
+  <!-- EN: blindness -->
+  <Blindness.label>buta</Blindness.label>
+  <!-- EN: Total inability to see. -->
+  <Blindness.description>Tidak dapat melihat Total.</Blindness.description>
+  <Blindness.labelNoun>buta</Blindness.labelNoun>
+  
+  <!-- EN: carcinoma -->
+  <Carcinoma.label>tumor</Carcinoma.label>
+  <!-- EN: A lump of cancerous tissue. Without treatment, the carcinoma will grow over time, causing worsening symptoms and eventually killing the patient.\n\nA skilled doctor can excise the carcinoma. An unskilled doctor may be able to simply amputate the body part which contains the carcinoma. -->
+  <Carcinoma.description>Benjolan jaringan kanker. Tanpa pengobatan, tumor akan tumbuh seiring waktu, menyebabkan gejala buruk dan akhirnya membunuh korban.\n\nDokter yang ahli dapat mengeluarkan tumor, sedangkan dokter yang tidak ahli kemungkinan besar akan mengamputasi bagian tubuh yang mengandung tumor.</Carcinoma.description>
+  <!-- EN: a carcinoma -->
+  <Carcinoma.labelNoun>tumor</Carcinoma.labelNoun>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-0.label>tidak terlihat</Carcinoma.stages.minor-0.label>
+  <!-- EN: minor -->
+  <Carcinoma.stages.minor-1.label>kecil</Carcinoma.stages.minor-1.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-0.label>besar</Carcinoma.stages.major-0.label>
+  <!-- EN: major -->
+  <Carcinoma.stages.major-1.label>serius</Carcinoma.stages.major-1.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-0.label>parah</Carcinoma.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Carcinoma.stages.extreme-1.label>ekstrim</Carcinoma.stages.extreme-1.label>
+  
+  <!-- EN: cataract -->
+  <Cataract.label>katarak</Cataract.label>
+  <!-- EN: Milky-looking opacity in the eye. Cataracts impair vision. -->
+  <Cataract.description>Katarak akan tampak seperti susu di mata. Katarak menggangu penglihatan.</Cataract.description>
+  <!-- EN: a cataract -->
+  <Cataract.labelNoun>katarak</Cataract.labelNoun>
+  
+  <!-- EN: dementia -->
+  <Dementia.label>pikun</Dementia.label>
+  <!-- EN: Neural degradation which causes deficits in the ability to think and remember. Dementia has various causes including aging, specific illnesses, and toxins. -->
+  <Dementia.description>Degradasi saraf yang menyebabkan berkurangnya kemampuan berpikir dan mengingat. Pikun disebabkan oleh penuaan, penyakit tertentu, dan racun.</Dementia.description>
+  <Dementia.labelNoun>pikun</Dementia.labelNoun>
+  
+  <!-- EN: frail -->
+  <Frail.label>lumpuh layu</Frail.label>
+  <!-- EN: Generalized loss of muscle and bone density. -->
+  <Frail.description>Hilangnya kemampuan otot dan kepadatan tulang secara umum.</Frail.description>
+  <!-- EN: frailty -->
+  <Frail.labelNoun>lumpuh layu</Frail.labelNoun>
+  
+  <!-- EN: hearing loss -->
+  <HearingLoss.label>pekak (budek)</HearingLoss.label>
+  <!-- EN: Inability to hear quiet sounds due to degradation of hair cells in the cochlea. -->
+  <HearingLoss.description>Ketidakmampuan untuk mendengar suara pelan karena Degradasi sel rambut di koklea.</HearingLoss.description>
+  <HearingLoss.labelNoun>pekak (budek)</HearingLoss.labelNoun>
+  
+  <!-- EN: artery blockage -->
+  <HeartArteryBlockage.label>penyumbatan arteri</HeartArteryBlockage.label>
+  <!-- EN: A blockage in one of the critical arteries in the heart. Heart artery blockages randomly induce heart attacks. -->
+  <HeartArteryBlockage.description>Penyumbatan salah satu arteri di jantung. Penyumbatan arteri jantung ini menyebabkan serangan jantung.</HeartArteryBlockage.description>
+  <!-- EN: an artery blockage -->
+  <HeartArteryBlockage.labelNoun>penyumbatan arteri</HeartArteryBlockage.labelNoun>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-0.label>tidak terlihat</HeartArteryBlockage.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HeartArteryBlockage.stages.minor-1.label>kecil</HeartArteryBlockage.stages.minor-1.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-0.label>sedang</HeartArteryBlockage.stages.major-0.label>
+  <!-- EN: major -->
+  <HeartArteryBlockage.stages.major-1.label>besar</HeartArteryBlockage.stages.major-1.label>
+  <!-- EN: extreme -->
+  <HeartArteryBlockage.stages.extreme.label>ekstrim</HeartArteryBlockage.stages.extreme.label>
+
+</LanguageData>

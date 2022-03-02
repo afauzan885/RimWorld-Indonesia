@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- EN: flu -->
+  <Animal_Flu.label>flu</Animal_Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. This strain is adapted for infecting non-human species. -->
+  <Animal_Flu.description>Penyakit menular yang disebabkan oleh virus influenza. Strain ini diadaptasi untuk menginfeksi spesies makhluk lain selain manusia.</Animal_Flu.description>
+  <Animal_Flu.labelNoun>flu</Animal_Flu.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Flu.stages.minor.label>ringan</Animal_Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Flu.stages.major.label>berat</Animal_Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Flu.stages.extreme.label>ekstrem</Animal_Flu.stages.extreme.label>
+  
+  <!-- EN: plague -->
+  <Animal_Plague.label>wabah</Animal_Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. This strain is adapted to infecting non-human species. -->
+  <Animal_Plague.description>Penyakit menular yang disebabkan oleh bakteri. Strain ini diadaptasi untuk menginfeksi spesies makhluk selain manusia.</Animal_Plague.description>
+  <Animal_Plague.labelNoun>wabah</Animal_Plague.labelNoun>
+  <!-- EN: minor -->
+  <Animal_Plague.stages.minor.label>ringan</Animal_Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Animal_Plague.stages.major.label>sedang</Animal_Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-0.label>berat</Animal_Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Animal_Plague.stages.extreme-1.label>ekstrem</Animal_Plague.stages.extreme-1.label>
+  
+  <!-- EN: fibrous mechanites -->
+  <FibrousMechanites.label>nanovirus mekanik</FibrousMechanites.label>
+  <!-- EN: Semi-coherent mechanites which develop fibrous links in muscle tissue. They enhance the victim's strength, but also cause intense pain. These are probably a mutated strain of strength-enhancing mechanites. -->
+  <FibrousMechanites.description>Mekanik semi-kohoren yang menguatkan ikatan fibrosa di jaringan otot. Mereka meningkatkan kekuatan korban, tetapi menyebabkan rasa sakit yang hebat. Ini merupakan jenis mutasi dari mekanisme peningkatan kekuatan</FibrousMechanites.description>
+  <!-- EN: mild pain -->
+  <FibrousMechanites.stages.mild_pain.label>nyeri ringan</FibrousMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <FibrousMechanites.stages.intense_pain.label>sakit parah</FibrousMechanites.stages.intense_pain.label>
+  
+  <!-- EN: flu -->
+  <Flu.label>flu</Flu.label>
+  <!-- EN: An infectious disease caused by the influenza virus. -->
+  <Flu.description>Penyakit menular yang disebabkan oleh virus influenza.</Flu.description>
+  <Flu.labelNoun>flu</Flu.labelNoun>
+  <!-- EN: minor -->
+  <Flu.stages.minor.label>ringan</Flu.stages.minor.label>
+  <!-- EN: major -->
+  <Flu.stages.major.label>berat</Flu.stages.major.label>
+  <!-- EN: extreme -->
+  <Flu.stages.extreme.label>ekstrem</Flu.stages.extreme.label>
+  
+  <!-- EN: gut worms -->
+  <GutWorms.label>cacing usus</GutWorms.label>
+  <!-- EN: Parasitic worms in the gut. They cause vomiting. They also consume the victim's food, which increases hunger. -->
+  <GutWorms.description>Cacing parasit di usus, korban mengalami muntah. cacing ini menyerap nutrisi dari inangnya yang menyebabkan korban menjadi lebih cepat lapar.</GutWorms.description>
+  <GutWorms.labelNoun>cacing usus</GutWorms.labelNoun>
+  
+  <!-- EN: malaria -->
+  <Malaria.label>malaria</Malaria.label>
+  <!-- EN: An infectious disease caused by a mosquito-borne parasite. -->
+  <Malaria.description>Penyakit menular yang disebabkan oleh parasit yang dikeluarkan oleh nyamuk.</Malaria.description>
+  <!-- EN: minor -->
+  <Malaria.stages.minor.label>ringan</Malaria.stages.minor.label>
+  <!-- EN: major -->
+  <Malaria.stages.major.label>berat</Malaria.stages.major.label>
+  <!-- EN: extreme -->
+  <Malaria.stages.extreme.label>ekstrem</Malaria.stages.extreme.label>
+  
+  <!-- EN: muscle parasites -->
+  <MuscleParasites.label>cacing otot</MuscleParasites.label>
+  <!-- EN: Parasitic creatures in the muscles. These cause weakness and a lack of coordination. -->
+  <MuscleParasites.description>Cacing parasit di otot ini menyebabkan lemah otot dan berkurangnya kemampuan koordinasi.</MuscleParasites.description>
+  <MuscleParasites.stages.0.label>cacing otot</MuscleParasites.stages.0.label>
+  
+  <!-- EN: plague -->
+  <Plague.label>wabah</Plague.label>
+  <!-- EN: An infectious disease caused by bacteria. -->
+  <Plague.description>Penyakit menular yang disebabkan oleh bakteri.</Plague.description>
+  <Plague.labelNoun>wabah</Plague.labelNoun>
+  <!-- EN: minor -->
+  <Plague.stages.minor.label>kecil</Plague.stages.minor.label>
+  <!-- EN: major -->
+  <Plague.stages.major.label>sedang</Plague.stages.major.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-0.label>berat</Plague.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <Plague.stages.extreme-1.label>ekstrem</Plague.stages.extreme-1.label>
+  
+  <!-- EN: sensory mechanites -->
+  <SensoryMechanites.label>sensor mekanik</SensoryMechanites.label>
+  <!-- EN: Semi-coherent mechanites which reside in the nervous system. They enhance the victim's senses, but also cause intense pain. These are probably a mutated strain of sense-enhancing mechanites. -->
+  <SensoryMechanites.description>mekanisme semi-kohoren yang berada di sistem saraf, meningkatkan indera pemakai, tetapi juga menyebabkan rasa sakit yang hebat. Mungkin jenis mutasi dari mekanisme peningkatan indera.</SensoryMechanites.description>
+  <!-- EN: mild pain -->
+  <SensoryMechanites.stages.mild_pain.label>nyeri ringan</SensoryMechanites.stages.mild_pain.label>
+  <!-- EN: intense pain -->
+  <SensoryMechanites.stages.intense_pain.label>sakit hebat</SensoryMechanites.stages.intense_pain.label>
+  
+  <!-- EN: sleeping sickness -->
+  <SleepingSickness.label>penyakit tidur</SleepingSickness.label>
+  <!-- EN: An infectious disease caused by an insect-borne parasite. Sleeping sickness is not as deadly as some other diseases, but progresses slowly. The body takes a long time to clear the infection. -->
+  <SleepingSickness.description>Penyakit menular yang disebabkan oleh parasit yang ditularkan oleh serangga. Penyakit tidur tidak mematikan seperti beberpa penyakit lainnya, tetapi berkembang secara perlahan. Tubuh membutuhkan waktu yang lama untuk membersihkan infeksi.</SleepingSickness.description>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-0.label>tidak terlihat</SleepingSickness.stages.minor-0.label>
+  <!-- EN: minor -->
+  <SleepingSickness.stages.minor-1.label>ringan</SleepingSickness.stages.minor-1.label>
+  <!-- EN: major -->
+  <SleepingSickness.stages.major.label>sedang</SleepingSickness.stages.major.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-0.label>berat</SleepingSickness.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <SleepingSickness.stages.extreme-1.label>ekstrem</SleepingSickness.stages.extreme-1.label>
+  
+  <!-- EN: infection -->
+  <WoundInfection.label>infeksi</WoundInfection.label>
+  <!-- EN: Bacterial infection in a wound. Without treatment, the bacteria will multiply, killing local tissue, and eventually causing blood poisoning and death.\n\nThrough aeons of human warfare, infections have often taken more lives than the wounds themselves. -->
+  <WoundInfection.description>Infeksi bakteri pada luka. Tanpa pengobatan, bakteri akan berkembang biak, membunuh jaringan lokal, menyebabkan keracunan darah dan kematian.\n\nSelama ribuan tahun perang manusia, infeksi sering merenggut banyak nyawa daripada luka itu sendiri.</WoundInfection.description>
+  <!-- EN: an infection -->
+  <WoundInfection.labelNoun>terinfeksi</WoundInfection.labelNoun>
+  <!-- EN: minor -->
+  <WoundInfection.stages.minor.label>ringan</WoundInfection.stages.minor.label>
+  <!-- EN: major -->
+  <WoundInfection.stages.major.label>sedang</WoundInfection.stages.major.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-0.label>berat</WoundInfection.stages.extreme-0.label>
+  <!-- EN: extreme -->
+  <WoundInfection.stages.extreme-1.label>ekstrem</WoundInfection.stages.extreme-1.label>
+
+</LanguageData>

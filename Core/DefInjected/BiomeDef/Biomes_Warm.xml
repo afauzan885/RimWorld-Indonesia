@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: tropical rainforest -->
+  <TropicalRainforest.label>hutan hujan tropis</TropicalRainforest.label>
+  <!-- EN: A thick, moist jungle, buzzing with animal life and infested with disease. Despite its visual beauty, this is a very dangerous biome. Choking overgrowth, aggressive animals, and constant sickness are why some explorers call this the "green hell". -->
+  <TropicalRainforest.description>Hutan yang lebat dan lembab, penuh dengan kehidupan binatang dan penuh penyakit. Terlepas dari keindahan panorama alamnya, bioma ini sangat berbahaya. Pertumbuhan yang sangat lebat, hewan yang agresif, dan penyakit yang menyerang kapan saja menjadi alasan bagi beberaoa penjelajah menyebutnya sebagai "green hell (neraka hijau)".</TropicalRainforest.description>
+
+  <!-- EN: tropical swamp -->
+  <TropicalSwamp.label>rawa tropis</TropicalSwamp.label>
+  <!-- EN: A plant-choked, steamy swamp seething with parasites and pathogens. Much of the land is too marshy to build on. Difficult movement, aggressive animals, and rampant disease make living here a nightmare. -->
+  <TropicalSwamp.description>Rawa yang dipenuhi tumbuhan dan beruap yang dipenuhi parasit dan patogen. Sebagian besar tanah yang berawa terlalu lemah untuk dibangun Bangunan. Pergerakan yang sulit, hewan yang agresif, dan penyakit yang merajalela membuat hidup disini menjadi mimpi buruk (nightmare).</TropicalSwamp.description>
+
+</LanguageData>

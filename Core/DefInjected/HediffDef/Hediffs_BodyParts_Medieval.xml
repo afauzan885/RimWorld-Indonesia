@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: denture -->
+  <Denture.label>gigi palsu</Denture.label>
+  <!-- EN: An installed denture. -->
+  <Denture.description>gigi palsu dipasang.</Denture.description>
+  <!-- EN: a denture -->
+  <Denture.labelNoun>gigi palsu</Denture.labelNoun>
+  
+  <!-- EN: peg leg -->
+  <PegLeg.label>batang kaki kayu</PegLeg.label>
+  <!-- EN: An installed peg leg. -->
+  <PegLeg.description>batang kaki kayu dipasang.</PegLeg.description>
+  <!-- EN: a peg leg -->
+  <PegLeg.labelNoun>batang kaki kayu</PegLeg.labelNoun>
+  
+  <!-- EN: wooden foot -->
+  <WoodenFoot.label>pergelangan kaki kayu</WoodenFoot.label>
+  <!-- EN: An installed wooden foot. -->
+  <WoodenFoot.description>Pergelangan kaki kayu terpasang.</WoodenFoot.description>
+  <!-- EN: a wooden foot -->
+  <WoodenFoot.labelNoun>pergelangan kaki kayu</WoodenFoot.labelNoun>
+  
+  <!-- EN: wooden hand -->
+  <WoodenHand.label>tangan kayu</WoodenHand.label>
+  <!-- EN: An installed wooden hand. -->
+  <WoodenHand.description>Tangan kayu terpasang.</WoodenHand.description>
+  <!-- EN: a wooden hand -->
+  <WoodenHand.labelNoun>tangan kayu</WoodenHand.labelNoun>
+  
+</LanguageData>

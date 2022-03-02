@@ -1,0 +1,85 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: artificial brain -->
+  <ArtificialBrain.label>otak buatan</ArtificialBrain.label>
+  
+  <!-- EN: blade -->
+  <Blade.label>pedang</Blade.label>
+  
+  <!-- EN: fluid reprocessor -->
+  <FluidReprocessor.label>cairan prosesor</FluidReprocessor.label>
+  
+  <!-- EN: sound sensor -->
+  <HearingSensor.label>sensor suara</HearingSensor.label>
+  
+  <!-- EN: arm -->
+  <MechanicalArm.label>lengan</MechanicalArm.label>
+  
+  <!-- EN: fifth body ring -->
+  <MechanicalCentipedeBodyFifthRing.label>cincin tubuh kelima</MechanicalCentipedeBodyFifthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFifthRing.labelShort>cincin tubuh</MechanicalCentipedeBodyFifthRing.labelShort>
+  
+  <!-- EN: first body ring -->
+  <MechanicalCentipedeBodyFirstRing.label>cincin tubuh pertama</MechanicalCentipedeBodyFirstRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFirstRing.labelShort>cincin tubuh</MechanicalCentipedeBodyFirstRing.labelShort>
+  
+  <!-- EN: fourth body ring -->
+  <MechanicalCentipedeBodyFourthRing.label>cincin tubuh keempat</MechanicalCentipedeBodyFourthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyFourthRing.labelShort>cincin tubuh</MechanicalCentipedeBodyFourthRing.labelShort>
+  
+  <!-- EN: second body ring -->
+  <MechanicalCentipedeBodySecondRing.label>cincin tubuh kedua</MechanicalCentipedeBodySecondRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySecondRing.labelShort>cincin tubuh</MechanicalCentipedeBodySecondRing.labelShort>
+  
+  <!-- EN: sixth body ring -->
+  <MechanicalCentipedeBodySixthRing.label>cincin tubuh keenam</MechanicalCentipedeBodySixthRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodySixthRing.labelShort>cincin tubuh</MechanicalCentipedeBodySixthRing.labelShort>
+  
+  <!-- EN: third body ring -->
+  <MechanicalCentipedeBodyThirdRing.label>cincin tubuh ketiga</MechanicalCentipedeBodyThirdRing.label>
+  <!-- EN: body ring -->
+  <MechanicalCentipedeBodyThirdRing.labelShort>cincin tubuh</MechanicalCentipedeBodyThirdRing.labelShort>
+  
+  <!-- EN: finger -->
+  <MechanicalFinger.label>jari</MechanicalFinger.label>
+  
+  <!-- EN: foot -->
+  <MechanicalFoot.label>pergelangan kaki</MechanicalFoot.label>
+  
+  <!-- EN: hand -->
+  <MechanicalHand.label>tangan</MechanicalHand.label>
+  
+  <!-- EN: head -->
+  <MechanicalHead.label>kepala</MechanicalHead.label>
+  
+  <!-- EN: leg -->
+  <MechanicalLeg.label>kaki</MechanicalLeg.label>
+  
+  <!-- EN: neck -->
+  <MechanicalNeck.label>leher</MechanicalNeck.label>
+  
+  <!-- EN: shoulder -->
+  <MechanicalShoulder.label>bahu</MechanicalShoulder.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThorax.label>dada</MechanicalThorax.label>
+  
+  <!-- EN: thorax -->
+  <MechanicalThoraxCanManipulate.label>dada</MechanicalThoraxCanManipulate.label>
+  
+  <!-- EN: reactor -->
+  <Reactor.label>reaktor</Reactor.label>
+  
+  <!-- EN: visual sensor -->
+  <SightSensor.label>sensor visual</SightSensor.label>
+  
+  <!-- EN: chemical analyzer -->
+  <SmellSensor.label>penganalisis kimia</SmellSensor.label>
+  
+</LanguageData>

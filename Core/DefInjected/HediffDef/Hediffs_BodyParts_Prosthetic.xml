@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: cochlear implant -->
+  <CochlearImplant.label>implan koklea</CochlearImplant.label>
+  <!-- EN: An installed cochlear implant. -->
+  <CochlearImplant.description>implan koklea terpasang.</CochlearImplant.description>
+  <!-- EN: a cochlear implant -->
+  <CochlearImplant.labelNoun>implan koklea</CochlearImplant.labelNoun>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>implan kegembiraan</Joywire.label>
+  <!-- EN: An installed joywire implant. -->
+  <Joywire.description>implan tuas gembira terpasang.</Joywire.description>
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>tuas gembira</Joywire.labelNoun>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>penghilang rasa sakit</Painstopper.label>
+  <!-- EN: An installed painstopper implant. -->
+  <Painstopper.description>implan penghilang rasa sakit terpasang.</Painstopper.description>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>penghilang rasa sakit</Painstopper.labelNoun>
+  
+  <!-- EN: power claw -->
+  <PowerClaw.label>cakar tenaga</PowerClaw.label>
+  <!-- EN: An installed power claw. -->
+  <PowerClaw.description>cakar tenaga terpasang.</PowerClaw.description>
+  <!-- EN: claw -->
+  <PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>cakar</PowerClaw.comps.HediffComp_VerbGiver.tools.claw.label>
+  <!-- EN: a power claw -->
+  <PowerClaw.labelNoun>cakar tenaga</PowerClaw.labelNoun>
+  
+  <!-- EN: prosthetic arm -->
+  <SimpleProstheticArm.label>lengan prostetik</SimpleProstheticArm.label>
+  <!-- EN: An installed prosthetic arm. -->
+  <SimpleProstheticArm.description>lengan prostetik terpasang.</SimpleProstheticArm.description>
+  <!-- EN: fist -->
+  <SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>tinju</SimpleProstheticArm.comps.HediffComp_VerbGiver.tools.fist.label>
+  <!-- EN: a prosthetic arm -->
+  <SimpleProstheticArm.labelNoun>lengan prostetik</SimpleProstheticArm.labelNoun>
+  
+  <!-- EN: prosthetic heart -->
+  <SimpleProstheticHeart.label>jantung prostetik</SimpleProstheticHeart.label>
+  <!-- EN: An installed prosthetic heart. -->
+  <SimpleProstheticHeart.description>lengan prostetik terpasang.</SimpleProstheticHeart.description>
+  <!-- EN: a prosthetic heart -->
+  <SimpleProstheticHeart.labelNoun>lengan prostetik</SimpleProstheticHeart.labelNoun>
+  
+  <!-- EN: prosthetic leg -->
+  <SimpleProstheticLeg.label>kaki prostetik</SimpleProstheticLeg.label>
+  <!-- EN: An installed prosthetic leg. -->
+  <SimpleProstheticLeg.description>kaki prostetik terpasang.</SimpleProstheticLeg.description>
+  <!-- EN: a prosthetic leg -->
+  <SimpleProstheticLeg.labelNoun>kaki prostetik</SimpleProstheticLeg.labelNoun>
+  
+</LanguageData>

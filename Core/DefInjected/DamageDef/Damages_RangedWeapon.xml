@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: arrow -->
+  <Arrow.label>anak panah</Arrow.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <Arrow.deathMessage>{0} mati tertembak anak panah.</Arrow.deathMessage>
+  
+  <!-- EN: arrow -->
+  <ArrowHighVelocity.label>anak panah</ArrowHighVelocity.label>
+  <!-- EN: {0} has been shot to death by an arrow. -->
+  <ArrowHighVelocity.deathMessage>{0} mati tertembak anak panah.</ArrowHighVelocity.deathMessage>
+  
+  <!-- EN: bullet -->
+  <Bullet.label>peluru</Bullet.label>
+  <!-- EN: {0} has been shot to death. -->
+  <Bullet.deathMessage>{0} mati tertembak peluru.</Bullet.deathMessage>
+  
+  <!-- EN: stab -->
+  <RangedStab.label>tusuk</RangedStab.label>
+  <!-- EN: {0} has been stabbed to death. -->
+  <RangedStab.deathMessage>{0} mati tertusuk.</RangedStab.deathMessage>
+  
+</LanguageData>

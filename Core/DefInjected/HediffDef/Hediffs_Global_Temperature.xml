@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+  
+  <!-- EN: heatstroke -->
+  <Heatstroke.label>sengatan panas</Heatstroke.label>
+  <!-- EN: A generalized disruption to body functioning caused by excessive exposure to heat and sun. The victim becomes dizzy, weak, and confused. Recovery is quick once in a cool area, but if heat exposure continues, heat stroke gets worse until death. -->
+  <Heatstroke.description>Gangguan umum pada fungsi tubuh yang disebabkan oleh paparan panas dan sinar matahari yang berlebihan. Penderita menjadi pusing, lemas, dan bingung. Pemulihan menjadi cepat terjadi ditempat yang sejuk, tetapi jika paparan terus berlanjjut, sengatan paas bisa menjadi parah dan menyebakan kematian.</Heatstroke.description>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-0.label>gatal-gatal</Heatstroke.stages.initial-0.label>
+  <!-- EN: initial -->
+  <Heatstroke.stages.initial-1.label>sedikit</Heatstroke.stages.initial-1.label>
+  <!-- EN: minor -->
+  <Heatstroke.stages.minor.label>kecil</Heatstroke.stages.minor.label>
+  <!-- EN: serious -->
+  <Heatstroke.stages.serious.label>serius</Heatstroke.stages.serious.label>
+  <!-- EN: extreme -->
+  <Heatstroke.stages.extreme.label>ekstrem</Heatstroke.stages.extreme.label>
+  
+  <!-- EN: hypothermia -->
+  <Hypothermia.label>hipotermiia</Hypothermia.label>
+  <!-- EN: Dangerously low core body temperature. Unless re-warmed, hypothermia gets worse and ends in death. Recovery is quick once the victim is re-warmed. Avoid hypothermia by wearing warm clothes in cold environments. -->
+  <Hypothermia.description>Suhu inti tubuh menjadi sangat rendah, Kecuali dihangatkan kembali. Hiportemia bisa menjadi parah dan menyebabkan kematian, agar pemulihannya cepat, penderita harus segera dihangatkan kembali. Hindari hiportemia dengan mengenakan pakaian hangat di lingkungan yang dingin.</Hypothermia.description>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-0.label>seperti gemetar</Hypothermia.stages.shivering-0.label>
+  <!-- EN: shivering -->
+  <Hypothermia.stages.shivering-1.label>gemetar</Hypothermia.stages.shivering-1.label>
+  <!-- EN: minor -->
+  <Hypothermia.stages.minor.label>sedikit</Hypothermia.stages.minor.label>
+  <!-- EN: serious -->
+  <Hypothermia.stages.serious.label>serius</Hypothermia.stages.serious.label>
+  <!-- EN: extreme -->
+  <Hypothermia.stages.extreme.label>ekstrem</Hypothermia.stages.extreme.label>
+  
+  <!-- EN: hypothermic slowdown -->
+  <HypothermicSlowdown.label>perlambatan hiportemia</HypothermicSlowdown.label>
+  <!-- EN: A special biological state used by some creatures to survive extreme cold. Instead of trying to stay warm, the creature's body chemistry adapts to prevent internal freezing despite very low temperature. Bodily functions are slowed and capacities are reduced, but the cold does no permanent damage. Some biologists call it a wakeful form of hibernation. -->
+  <HypothermicSlowdown.description>Keadaan biologis khusus yang digunakan oleh beberapa makhluk untuk bertahan hidup dalam cuaca yang sangat dingin. Alih-alih berusaha untuk tetap hangat, zat kimia pada dalam tubuh makhluk tersebut beradatasi untuk mencegah pembekuan internal meski di suhu yang sangat rendah. Fungsi tubuh diperlambat dan kapasitas berkurang, tetapi suhu dingin tidak merusak secara permanen. Beberapa ahli biologi menyebutnya sebagai bentuk hibernasi yang terjaga.</HypothermicSlowdown.description>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-0.label>pingsan</HypothermicSlowdown.stages.minor-0.label>
+  <!-- EN: minor -->
+  <HypothermicSlowdown.stages.minor-1.label>kecil</HypothermicSlowdown.stages.minor-1.label>
+  <!-- EN: moderate -->
+  <HypothermicSlowdown.stages.moderate.label>sedang</HypothermicSlowdown.stages.moderate.label>
+  <!-- EN: serious -->
+  <HypothermicSlowdown.stages.serious.label>serius</HypothermicSlowdown.stages.serious.label>
+  <!-- EN: extreme -->
+  <HypothermicSlowdown.stages.extreme.label>ekstrem</HypothermicSlowdown.stages.extreme.label>
+
+</LanguageData>

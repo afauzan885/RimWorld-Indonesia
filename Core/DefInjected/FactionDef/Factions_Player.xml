@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: New Arrivals -->
+  <PlayerColony.label>Pendatang baru</PlayerColony.label>
+  <!-- EN: A colony of recently-arrived off-worlders. -->
+  <PlayerColony.description>Koloni orang dunia luar yang baru tiba.</PlayerColony.description>
+  <!-- EN: colonist -->
+  <PlayerColony.pawnSingular>koloni</PlayerColony.pawnSingular>
+  <!-- EN: colonists -->
+  <PlayerColony.pawnsPlural>koloni</PlayerColony.pawnsPlural>
+  
+  <!-- EN: New Tribe -->
+  <PlayerTribe.label>Suku baru</PlayerTribe.label>
+  <!-- EN: A small tribe. -->
+  <PlayerTribe.description>Suku kecil.</PlayerTribe.description>
+  <!-- EN: tribesman -->
+  <PlayerTribe.pawnSingular>pejuang suku</PlayerTribe.pawnSingular>
+  <!-- EN: tribespeople -->
+  <PlayerTribe.pawnsPlural>penduduk suku</PlayerTribe.pawnsPlural>
+
+</LanguageData>

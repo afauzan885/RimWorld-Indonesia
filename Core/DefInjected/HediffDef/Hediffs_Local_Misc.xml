@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: chemical damage -->
+  <ChemicalDamageModerate.label>kerusakan kimia</ChemicalDamageModerate.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageModerate.description>Kerusakan kimia di tingkat sel.</ChemicalDamageModerate.description>
+  
+  <!-- EN: chemical damage -->
+  <ChemicalDamageSevere.label>kerusakan kimia</ChemicalDamageSevere.label>
+  <!-- EN: Chemical damage at the cellular level. -->
+  <ChemicalDamageSevere.description>Kerusakan kimia di tingkat sel.</ChemicalDamageSevere.description>
+  
+  <!-- EN: cirrhosis -->
+  <Cirrhosis.label>sirosis</Cirrhosis.label>
+  <!-- EN: A degenerative liver disease caused by excessive alcohol consumption. -->
+  <Cirrhosis.description>Penyakit hati degeneratif yang disebabkan oleh konsumsi alkohol yang berlebihan.</Cirrhosis.description>
+  
+  <!-- EN: resurrection psychosis -->
+  <ResurrectionPsychosis.label>psikotis kebangkitan</ResurrectionPsychosis.label>
+  <!-- EN: Chaotic thought patterns caused by the decoherence of resurrection mechanites. Resurrection psychosis progresses and eventually causes total psychosis and death.\n\nResurrected people require mechanites to rebuild their bodily functions at the cellular level. Mechanites always have a chance to lose coherence, and if they do, they wreak havoc in the central nervous system. The older the corpse, the more mechanite action is required to resurrect it, and the greater the chance of eventual decoherence. -->
+  <ResurrectionPsychosis.description>Pola pikir kacau yang disebabkan oleh dekoherensi mekanisme kebangkitan. Psikosis kebangkitan berkembang dan menyebabkan psikosis total yang berujung kematian.\n\nOrang yang di bangkitkan membutuhkan mekanisme untuk membangun kembali fungsi tubuh mereka di tingkat sel. Para mekanik selalu memiliki peluang untuk kehilangan koherensi, dan jika itu terjadi, mereka akan terkena malapetaka di sistem saraf pusat. Semakin tua mayatnya, semakin banyak tindakan mekanisme yang diperlukan untuk menghidupkan kembali, dan semakin besar peluang terjadinya dekoherensi.</ResurrectionPsychosis.description>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-0.label>tidak terlihat</ResurrectionPsychosis.stages.early-0.label>
+  <!-- EN: early -->
+  <ResurrectionPsychosis.stages.early-1.label>permulaan</ResurrectionPsychosis.stages.early-1.label>
+  <!-- EN: moderate -->
+  <ResurrectionPsychosis.stages.moderate.label>menengah</ResurrectionPsychosis.stages.moderate.label>
+  <!-- EN: advanced -->
+  <ResurrectionPsychosis.stages.advanced.label>lanjutan</ResurrectionPsychosis.stages.advanced.label>
+  <!-- EN: severe -->
+  <ResurrectionPsychosis.stages.severe.label>parah</ResurrectionPsychosis.stages.severe.label>
+  <!-- EN: total -->
+  <ResurrectionPsychosis.stages.total.label>total</ResurrectionPsychosis.stages.total.label>
+  <!-- EN: catatonic -->
+  <ResurrectionPsychosis.stages.catatonic.label>katatonik</ResurrectionPsychosis.stages.catatonic.label>
+  
+  <!-- EN: scaria -->
+  <Scaria.label>scaria</Scaria.label>
+  <!-- EN: A disease which causes affected creatures to enter berserk rages. A creature with scaria can be cured through a special medical operation, but it must be downed first. If not treated, scaria kills its host about five days after infection. The disease poisons the flesh and rots the skin, so creatures killed with scaria have a chance of rotting upon death so they cannot be butchered for meat or leather. -->
+  <Scaria.description>Penyakit yang menyebabkan makhluk yang mengidapnya akan mengamuk. Makhluk yang mengidap scaria dapat disembuhkan melalui operasi medis khusus, namun harus ditenggelamkan terlebih dahulu. Jika tidak di obati, scaria membunuh inangnya sekitar lima hari setelah terinfeksi. Penyakit ini meracuni daging dan membusuk pada kulit, sehingga makhluk yang terbunuh oleh scaria berpeluang langsung busuk setelah mati, sehingga tidak dapat disembelih untuk diambil daging atau kulitnya.</Scaria.description>
+
+  <!-- EN: sterilized -->
+  <Sterilized.label>disterilkan</Sterilized.label>
+  <!-- EN: This creature's reproductive system has been permanently shut down. -->
+  <Sterilized.description>Sistem reproduksi makhluk ini telah dinonaktifkan secara permanen.</Sterilized.description>
+  
+  <!-- EN: trauma savant -->
+  <TraumaSavant.label>efek trauma</TraumaSavant.label>
+  <!-- EN: An exceptional condition caused by trauma to the brain. The brain, in the face of injury, has developed extreme abilities in some areas, while losing the ability to speak. -->
+  <TraumaSavant.description>Kondisi luar biasa yang disebabkan oleh trauma pada otak. Otak saat mengalami cedera, mengembangkan kemampuan ekstrim di beberapa area, sementara kemampuan berbicara hilang dengan sendirinya.</TraumaSavant.description>
+  <!-- EN: trauma -->
+  <TraumaSavant.labelNoun>trauma</TraumaSavant.labelNoun>
+  
+</LanguageData>

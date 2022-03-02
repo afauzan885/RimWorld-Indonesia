@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: execution cut -->
+  <ExecutionCut.label>eksekusi potong</ExecutionCut.label>
+  <!-- EN: {0} has been executed by cutting. -->
+  <ExecutionCut.deathMessage>{0} dilakukan dengan pemotongan.</ExecutionCut.deathMessage>
+  
+  <!-- EN: surgical cut -->
+  <SurgicalCut.label>luka bedah</SurgicalCut.label>
+  <!-- EN: {0} has died during surgery. -->
+  <SurgicalCut.deathMessage>{0} meniggal selama operasi.</SurgicalCut.deathMessage>
+  
+</LanguageData>

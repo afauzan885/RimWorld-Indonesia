@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: high on flake -->
+  <FlakeHigh.label>kecanduan flakka</FlakeHigh.label>
+  <!-- EN: Active flake in the bloodstream. Generates a euphoric, debilitating high. -->
+  <FlakeHigh.description>Flakka aktif di dalam aliran darah. Menyebabkan euforia, dan melemahkan semangat.</FlakeHigh.description>
+  <!-- EN: a flake high -->
+  <FlakeHigh.labelNoun>kecanduan flakka </FlakeHigh.labelNoun>
+  
+</LanguageData>
