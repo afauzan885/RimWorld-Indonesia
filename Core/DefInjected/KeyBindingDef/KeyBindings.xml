@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accept -->
+  <Accept.label>terima</Accept.label>
+  
+  <!-- EN: cancel -->
+  <Cancel.label>batal</Cancel.label>
+  
+  <!-- EN: draft -->
+  <Command_ColonistDraft.label>konsep</Command_ColonistDraft.label>
+  
+  <!-- EN: toggle forbidden -->
+  <Command_ItemForbid.label>ubah larangan</Command_ItemForbid.label>
+  
+  <!-- EN: toggle power -->
+  <Command_TogglePower.label>ubah daya</Command_TogglePower.label>
+  
+  <!-- EN: cancel -->
+  <Designator_Cancel.label>batal</Designator_Cancel.label>
+  
+  <!-- EN: deconstruct -->
+  <Designator_Deconstruct.label>hancurkan</Designator_Deconstruct.label>
+  
+  <!-- EN: rotate left -->
+  <Designator_RotateLeft.label>putar ke kiri</Designator_RotateLeft.label>
+  
+  <!-- EN: rotate right -->
+  <Designator_RotateRight.label>putar ke kanan</Designator_RotateRight.label>
+  
+  <!-- EN: change selected debug action -->
+  <Dev_ChangeSelectedDebugAction.label>ubah tindakan debug yang dipilih</Dev_ChangeSelectedDebugAction.label>
+  
+  <!-- EN: tick once -->
+  <Dev_TickOnce.label>centang sekali</Dev_TickOnce.label>
+  
+  <!-- EN: toggle debug actions menu -->
+  <Dev_ToggleDebugActionsMenu.label>ubah menu tindakan debug</Dev_ToggleDebugActionsMenu.label>
+  
+  <!-- EN: toggle debug inspector -->
+  <Dev_ToggleDebugInspector.label>ubah inspektur debug</Dev_ToggleDebugInspector.label>
+  
+  <!-- EN: toggle debug log -->
+  <Dev_ToggleDebugLog.label>ubah log debug</Dev_ToggleDebugLog.label>
+  
+  <!-- EN: toggle debug log menu -->
+  <Dev_ToggleDebugLogMenu.label>ubah menu log debug</Dev_ToggleDebugLogMenu.label>
+  
+  <!-- EN: toggle debug settings menu -->
+  <Dev_ToggleDebugSettingsMenu.label>ubah menu pengaturan debug</Dev_ToggleDebugSettingsMenu.label>
+  
+  <!-- EN: toggle god mode -->
+  <Dev_ToggleGodMode.label>ubah mode tuhan</Dev_ToggleGodMode.label>
+  
+  <!-- EN: dolly down -->
+  <MapDolly_Down.label>dolly kebawah</MapDolly_Down.label>
+  
+  <!-- EN: dolly left -->
+  <MapDolly_Left.label>dolly kekiri</MapDolly_Left.label>
+  
+  <!-- EN: dolly right -->
+  <MapDolly_Right.label>dolly kekanan</MapDolly_Right.label>
+  
+  <!-- EN: dolly up -->
+  <MapDolly_Up.label>dolly keatas</MapDolly_Up.label>
+  
+  <!-- EN: zoom in -->
+  <MapZoom_In.label>perbesar</MapZoom_In.label>
+  
+  <!-- EN: zoom out -->
+  <MapZoom_Out.label>perkecil</MapZoom_Out.label>
+  
+  <!-- EN: Misc 1 -->
+  <Misc1.label>lainnya 1</Misc1.label>
+  
+  <!-- EN: Misc 10 -->
+  <Misc10.label>lainnya 10</Misc10.label>
+  
+  <!-- EN: Misc 11 -->
+  <Misc11.label>lainnya 11</Misc11.label>
+  
+  <!-- EN: Misc 12 -->
+  <Misc12.label>lainnya 12</Misc12.label>
+  
+  <!-- EN: Misc 2 -->
+  <Misc2.label>lainnya 2</Misc2.label>
+  
+  <!-- EN: Misc 3 -->
+  <Misc3.label>lainnya 3</Misc3.label>
+  
+  <!-- EN: Misc 4 -->
+  <Misc4.label>lainnya 4</Misc4.label>
+  
+  <!-- EN: Misc 5 -->
+  <Misc5.label>lainnya 5</Misc5.label>
+  
+  <!-- EN: Misc 6 -->
+  <Misc6.label>lainnya 6</Misc6.label>
+  
+  <!-- EN: Misc 7 -->
+  <Misc7.label>lainnya 7</Misc7.label>
+  
+  <!-- EN: Misc 8 -->
+  <Misc8.label>lainnya 8</Misc8.label>
+  
+  <!-- EN: Misc 9 -->
+  <Misc9.label>lainnya 9</Misc9.label>
+  
+  <!-- EN: increment 100x -->
+  <ModifierIncrement_100x.label>kenaikan 100x</ModifierIncrement_100x.label>
+  
+  <!-- EN: increment 10x -->
+  <ModifierIncrement_10x.label>kenaikan 10x</ModifierIncrement_10x.label>
+  
+  <!-- EN: next colonist -->
+  <NextColonist.label>koloni selanjutnya</NextColonist.label>
+  
+  <!-- EN: previous colonist -->
+  <PreviousColonist.label>koloni sebelumnya</PreviousColonist.label>
+  
+  <!-- EN: queue order -->
+  <QueueOrder.label>antrian pesanan</QueueOrder.label>
+  
+  <!-- EN: select next in cell -->
+  <SelectNextInCell.label>pilih berikutnya di sel</SelectNextInCell.label>
+  
+  <!-- EN: take screenshot -->
+  <TakeScreenshot.label>ambil tangkap layar</TakeScreenshot.label>
+  
+  <!-- EN: game speed: Fast -->
+  <TimeSpeed_Fast.label>laju permainan: cepat</TimeSpeed_Fast.label>
+  
+  <!-- EN: game speed: Normal -->
+  <TimeSpeed_Normal.label>laju permainan: Normal</TimeSpeed_Normal.label>
+  
+  <!-- EN: game speed: Super fast -->
+  <TimeSpeed_Superfast.label>laju permainan: sangat cepat</TimeSpeed_Superfast.label>
+  
+  <!-- EN: game speed: Ultra fast (debug) -->
+  <TimeSpeed_Ultrafast.label>laju permainan: turbo (debug)</TimeSpeed_Ultrafast.label>
+  
+  <!-- EN: toggle beauty display -->
+  <ToggleBeautyDisplay.label>ubah tampilan keindahan</ToggleBeautyDisplay.label>
+  
+  <!-- EN: pause/resume game -->
+  <TogglePause.label>jeda/lanjutkan game</TogglePause.label>
+  
+  <!-- EN: toggle room stats display -->
+  <ToggleRoomStatsDisplay.label>ubah tampilan statistik ruangan</ToggleRoomStatsDisplay.label>
+  
+  <!-- EN: toggle screenshot mode -->
+  <ToggleScreenshotMode.label>ubah mode tangkap layar</ToggleScreenshotMode.label>
+  
+</LanguageData>

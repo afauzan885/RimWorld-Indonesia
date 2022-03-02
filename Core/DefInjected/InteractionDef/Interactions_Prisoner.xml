@@ -1,0 +1,125 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: try to get to know -->
+  <BuildRapport.label>mencoba berkenalan</BuildRapport.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] about [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] described [subject] to [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] encouraged [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] offered a chance for [RECIPIENT_nameDef] to [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] expressed interest in [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] about [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->told a story about</li>
+    <li>toldastoryabout->told a funny story about</li>
+    <li>toldastoryabout->told a heartfelt story about</li>
+    <li>toldastoryabout->told an old story about</li>
+    <li>toldastoryabout->told a family story about</li>
+    <li>toldastoryabout->told a childhood story about</li>
+    <li>toldastoryabout->mentioned an anecdote about</li>
+    <li>talkabout->talk about</li>
+    <li>talkabout->discuss</li>
+    <li>talkabout->have a discussion about</li>
+    <li>talkabout->ask about</li>
+    <li>talkabout->think about</li>
+    <li>talkabout->find common ground around</li>
+    <li>subject->the colony</li>
+    <li>subject->the community</li>
+    <li>subject->joining the colony</li>
+    <li>subject->changing teams</li>
+    <li>subject->finding friends</li>
+    <li>subject->meeting new people</li>
+    <li>subject->reconsidering [RECIPIENT_possessive] ideas</li>
+    <li>subject->rethinking [RECIPIENT_possessive] loyalties</li>
+    <li>subject->health</li>
+    <li>subject->the future</li>
+    <li>subject->letting go</li>
+    <li>subject(p=4)->[ConceptPositive]</li>
+    <li>subject(p=2)->[INITIATOR_possessive] [PersonalCharacteristic]</li>
+    <li>subject(p=8)->[TalkTopicLight]</li>
+  -->
+  <BuildRapport.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [toldastoryabout] [subject] ke [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] diberitahu [RECIPIENT_nameDef] tentang [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] menjelaskan [subject] ke [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] didorong [RECIPIENT_nameDef] ke [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] menawarkan kesempatan untuk [RECIPIENT_nameDef] ke [talkabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] menunjukkan minat [RECIPIENT_nameDef] [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] bertanya [RECIPIENT_nameDef] tentang [RECIPIENT_possessive] [PersonalCharacteristic].</li>
+    <li>toldastoryabout(p=2)->menceritakan sebuah kisah tentang</li>
+    <li>toldastoryabout->kisah lucu</li>
+    <li>toldastoryabout->kisah menyayat hati tentang</li>
+    <li>toldastoryabout->sebuah kisah lama</li>
+    <li>toldastoryabout->menceritakan sejarah keluarga</li>
+    <li>toldastoryabout->cerita masa kecil</li>
+    <li>toldastoryabout->menyebutkan anekdot tentang</li>
+    <li>talkabout->berbicara tentang</li>
+    <li>talkabout->berdiskusi</li>
+    <li>talkabout->memiliki agumen</li>
+    <li>talkabout->bertanya tentang</li>
+    <li>talkabout->katakan apa yang dia pikirkan</li>
+    <li>talkabout->temukan titik temu</li>
+    <li>subjectFem->koloni</li>
+    <li>subjectFem->komitas</li>
+    <li>subjectNeu->bergabung dengan koloni</li>
+    <li>subjectMas->ganti tim</li>
+    <li>subjectMas->mencari teman</li>
+    <li>subjectNeu->bertemu orang baru</li>
+    <li>subjectMas->pertimbangan kembali ide-ide mereka</li>
+    <li>subjectMas->pikirkan kembali loyalitas [RECIPIENT_possessive]</li>
+    <li>subjectFem->kesehatan</li>
+    <li>subjectMas->masa depan</li>
+    <li>subjectMas->melepaskan</li>
+    <li>subjectFem(p=4)->[ConceptPositiveSingularFem]</li>
+    <li>subjectNeu(p=4)->[ConceptPositiveSingularNeu]</li>
+    <li>subjectMas(p=2)->memiliki [PersonalCharacteristicSingularMas]</li>
+    <li>subjectFem(p=2)->memiliki [PersonalCharacteristicSingularFem]</li>
+  </BuildRapport.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: recruit attempt -->
+  <RecruitAttempt.label>upaya merekrut</RecruitAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] asked [RECIPIENT_nameDef] to join.</li>
+    <li>r_logentry->[INITIATOR_nameDef] promised [goodthing] to [RECIPIENT_nameDef], and asked [RECIPIENT_objective] to join.</li>
+    <li>goodthing(p=15)->[ConceptPositive]</li>
+    <li>goodthing->free, fresh [Vegetable]s</li>
+  -->
+  <RecruitAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] dia bertanya [RECIPIENT_nameDef] untuk bergabung.</li>
+    <li>r_logentry->[INITIATOR_nameDef] berjanji [RECIPIENT_nameDef] dari [goodthingMas], meminta [RECIPIENT_objective] untuk bergabung.</li>
+    <li>r_logentry->[INITIATOR_nameDef] berjanji [RECIPIENT_nameDef] dari [goodthingFem], meminta [RECIPIENT_objective] untuk bergabung.</li>
+    <li>r_logentry->[INITIATOR_nameDef] berjanji [RECIPIENT_nameDef] dari [goodthingNeu], meminta [RECIPIENT_objective] untuk bergabung.</li>
+    <li>goodthingFem(p=15)->[ConceptPositivePluralFem]</li>
+    <li>goodthingNeu(p=15)->[ConceptPositivePluralNeu]</li>
+    <li>goodthingMas->[VegetablePluralMas] segar, gratis [Vegetable]</li>
+  </RecruitAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: spark jailbreak -->
+  <SparkJailbreak.label>upaya pembobolan</SparkJailbreak.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] spoke about the joy of [freedom], and offered a means of escape.</li>
+    <li>r_logentry->[INITIATOR_nameDef] talked about how beautiful the [TerrainFeature] is, and offered freedom.</li>
+    <li>r_logentry->[INITIATOR_nameDef] demonstrated a means of escape to [RECIPIENT_nameDef], and promised [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] told [RECIPIENT_nameDef] that security is lax, and encouraged escape.</li>
+    <li>freedom->freedom</li>
+    <li>freedom->opportunity</li>
+    <li>freedom->home</li>
+    <li>freedom->self-determination</li>
+  -->
+  <SparkJailbreak.logRulesInitiator.rulesStrings>
+     <li>r_logentry->[INITIATOR_nameDef] berbicara tentang kegembiran [freedom], dan menawarkan jalur pelarian.</li>
+    <li>r_logentry->[INITIATOR_nameDef] berbicara tentang betapa indahnya [TerrainFeature] dan menawarkan kebebasan.</li>
+    <li>r_logentry->[INITIATOR_nameDef] mendemonstrasikan cara melarikan diri ke [RECIPIENT_nameDef], dan berjanji [freedom].</li>
+    <li>r_logentry->[INITIATOR_nameDef] memberitahu [RECIPIENT_nameDef] penjagaanya lemah, dan mendorong kabur.</li>
+    <li>freedomArt->kebebasan</li>
+    <li>freedomArt->kesempatan</li>
+    <li>freedomArt->rumah</li>
+    <li>freedomArt->menentukan nasib sendiri</li>
+    <li>freedom->kebebasan</li>
+    <li>freedom->kesempatan</li>
+    <li>freedom->rumah</li>
+    <li>freedom->menentukan nasib sendiri</li>
+  </SparkJailbreak.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

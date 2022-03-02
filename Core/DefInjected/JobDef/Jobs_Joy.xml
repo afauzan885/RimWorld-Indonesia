@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: building snowman. -->
+  <BuildSnowman.reportString>membuat manusia salju.</BuildSnowman.reportString>
+  
+  <!-- EN: going for a walk. -->
+  <GoForWalk.reportString>pergi jalan-jalan.</GoForWalk.reportString>
+  
+  <!-- EN: meditating. -->
+  <Meditate.reportString>meditasi.</Meditate.reportString>
+  
+  <!-- EN: playing billiards. -->
+  <Play_Billiards.reportString>bermain biliar.</Play_Billiards.reportString>
+  
+  <!-- EN: playing chess. -->
+  <Play_Chess.reportString>bermain catur.</Play_Chess.reportString>
+  
+  <!-- EN: playing the game of Ur. -->
+  <Play_GameOfUr.reportString>memainkan permainan Ur.</Play_GameOfUr.reportString>
+  
+  <!-- EN: playing hoopstone. -->
+  <Play_Hoopstone.reportString>memainkan sepatu kuda.</Play_Hoopstone.reportString>
+  
+  <!-- EN: playing horseshoes. -->
+  <Play_Horseshoes.reportString>memainkan tapal kuda.</Play_Horseshoes.reportString>
+
+  <!-- EN: playing TargetA. -->
+  <Play_MusicalInstrument.reportString>memainkan TargetA.</Play_MusicalInstrument.reportString>
+  
+  <!-- EN: playing poker. -->
+  <Play_Poker.reportString>bermain poker.</Play_Poker.reportString>
+  
+  <!-- EN: praying. -->
+  <Pray.reportString>berdoa.</Pray.reportString>
+  
+  <!-- EN: skygazing. -->
+  <Skygaze.reportString>menatap langit.</Skygaze.reportString>
+  
+  <!-- EN: relaxing socially. -->
+  <SocialRelax.reportString>bersantai secara sosial.</SocialRelax.reportString>
+  
+  <!-- EN: using telescope. -->
+  <UseTelescope.reportString>menggunakan teleskop.</UseTelescope.reportString>
+  
+  <!-- EN: viewing art. -->
+  <ViewArt.reportString>melihat seni.</ViewArt.reportString>
+  
+  <!-- EN: visiting grave. -->
+  <VisitGrave.reportString>mengunjungi kuburan.</VisitGrave.reportString>
+  
+  <!-- EN: cheering up patient TargetA. -->
+  <VisitSickPawn.reportString>menghibur pasien TargetA.</VisitSickPawn.reportString>
+  
+  <!-- EN: watching television. -->
+  <WatchTelevision.reportString>menonton televisi.</WatchTelevision.reportString>
+  
+</LanguageData>

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: keeping name -->
+  <GotMarried_KeptName.label>simpan nama</GotMarried_KeptName.label>
+  
+  <!-- EN: taking man's name -->
+  <GotMarried_TookMansName.label>mengambil nama pria</GotMarried_TookMansName.label>
+  
+  <!-- EN: taking woman's name -->
+  <GotMarried_TookWomansName.label>mengambil nama wanita</GotMarried_TookWomansName.label>
+  
+</LanguageData>

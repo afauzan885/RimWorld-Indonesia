@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: accepted deserter -->
+  <AcceptedDeserter.label>pembelot diterima</AcceptedDeserter.label>
+  
+  <!-- EN: failed to keep guests happy -->
+  <FailedToKeepLodgersHappy.label>gagal membuat tamu senang</FailedToKeepLodgersHappy.label>
+  
+  <!-- EN: member missed shuttle -->
+  <MemberMissedShuttle.label>anggota ketinggalan pesawat ulang-alik</MemberMissedShuttle.label>
+  
+  <!-- EN: monument construction expired -->
+  <MonumentConstructionExpired.label>konstruksi monumen berakhir</MonumentConstructionExpired.label>
+  
+  <!-- EN: monument construction abandoned -->
+  <MonumentConstructionMapRemoved.label>konstruksi monumen ditinggalkan</MonumentConstructionMapRemoved.label>
+  
+  <!-- EN: destroyed monument -->
+  <MonumentDestroyed.label>menghancurkan monumen</MonumentDestroyed.label>
+  
+  <!-- EN: quest completed -->
+  <QuestGoodwillReward.label>misi selesai</QuestGoodwillReward.label>
+  
+  <!-- EN: member arrested -->
+  <QuestPawnArrested.label>anggota ditangkap</QuestPawnArrested.label>
+  
+  <!-- EN: member lost at colony -->
+  <QuestPawnLost.label>anggota hilang di koloni</QuestPawnLost.label>
+  
+  <!-- EN: enslaved lent prisoner -->
+  <QuestPrisonerEnslaved.label>tahanan pinjaman diperbudak</QuestPrisonerEnslaved.label>
+  
+  <!-- EN: recruited lent prisoner -->
+  <QuestPrisonerRecruited.label>tahanan pinjaman direkrut</QuestPrisonerRecruited.label>
+  
+  <!-- EN: shuttle commander missed shuttle -->
+  <ShuttleCommanderMissedShuttle.label>komandan pesawat ulang-alik ketinggalan pesawat</ShuttleCommanderMissedShuttle.label>
+  
+  <!-- EN: shuttle guards missed shuttle -->
+  <ShuttleGuardsMissedShuttle.label>penjaga pesawat ulang-alik ketinggalan pesawat</ShuttleGuardsMissedShuttle.label>
+  
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blood filtration -->
+  <BloodFiltration.label>penyaringan darah</BloodFiltration.label>
+  <!-- EN: fluid reprocessing -->
+  <BloodFiltration.labelMechanoids>rekondisi cairan</BloodFiltration.labelMechanoids>
+  
+  <!-- EN: blood pumping -->
+  <BloodPumping.label>memompa darah</BloodPumping.label>
+  <!-- EN: power generation -->
+  <BloodPumping.labelMechanoids>pembangkit listrik</BloodPumping.labelMechanoids>
+  
+  <!-- EN: breathing -->
+  <Breathing.label>bernafas</Breathing.label>
+  
+  <!-- EN: consciousness -->
+  <Consciousness.label>kesadaran</Consciousness.label>
+  <!-- EN: Data processing -->
+  <Consciousness.labelMechanoids>Pengolah data</Consciousness.labelMechanoids>
+  
+  <!-- EN: eating -->
+  <Eating.label>makan</Eating.label>
+  
+  <!-- EN: hearing -->
+  <Hearing.label>mendengar</Hearing.label>
+  
+  <!-- EN: manipulation -->
+  <Manipulation.label>manipulasi</Manipulation.label>
+  
+  <!-- EN: metabolism -->
+  <Metabolism.label>metabolisme</Metabolism.label>
+  
+  <!-- EN: moving -->
+  <Moving.label>bergerak</Moving.label>
+  
+  <!-- EN: sight -->
+  <Sight.label>melihat</Sight.label>
+  
+  <!-- EN: talking -->
+  <Talking.label>berbicara</Talking.label>
+  <!-- EN: Communication -->
+  <Talking.labelMechanoids>Komunikasi</Talking.labelMechanoids>
+  
+</LanguageData>

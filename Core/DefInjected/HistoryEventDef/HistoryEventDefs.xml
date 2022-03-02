@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: administered drug -->
+  <AdministeredDrug.label>obat diberikan</AdministeredDrug.label>
+  
+  <!-- EN: administered hard drug -->
+  <AdministeredHardDrug.label>obat keras diberikan</AdministeredHardDrug.label>
+  
+  <!-- EN: administered recreational drug -->
+  <AdministeredRecreationalDrug.label>obat rekreasi diberikan</AdministeredRecreationalDrug.label>
+  
+  <!-- EN: ate human meat -->
+  <AteHumanMeat.label>makan daging manusia</AteHumanMeat.label>
+  
+  <!-- EN: cut tree -->
+  <CutTree.label>poton pohon</CutTree.label>
+  
+  <!-- EN: used drug -->
+  <IngestedDrug.label>menggunakan obat</IngestedDrug.label>
+  
+  <!-- EN: used hard drug -->
+  <IngestedHardDrug.label>menggunakan obat keras</IngestedHardDrug.label>
+  
+  <!-- EN: used recreational drug -->
+  <IngestedRecreationalDrug.label>menggunakan obat rekreasi</IngestedRecreationalDrug.label>
+  
+  <!-- EN: installed prosthetic -->
+  <InstalledProsthetic.label>memasang protestik</InstalledProsthetic.label>
+  
+  <!-- EN: mined -->
+  <Mined.label>menambang</Mined.label>
+  
+  <!-- EN: researching -->
+  <Researching.label>meneliti</Researching.label>
+  
+  <!-- EN: sowed food plant -->
+  <SowedHumanFoodPlant.label>menabur tanaman pangan</SowedHumanFoodPlant.label>
+  
+  <!-- EN: sowed plant -->
+  <SowedPlant.label>menabur tanaman</SowedPlant.label>
+  
+</LanguageData>

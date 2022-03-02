@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: pavimenti tab -->
+  <Architect_Floors.label>tab lantai</Architect_Floors.label>
+  <!-- EN: Key bindings for the "Pavimenti" section of the Architect menu -->
+  <Architect_Floors.description>Tombol pengikatan untuk bagian "Lantai" dari menu arsitek</Architect_Floors.description>
+  
+  <!-- EN: mobilio tab -->
+  <Architect_Furniture.label>tab furnitur</Architect_Furniture.label>
+  <!-- EN: Key bindings for the "Mobilio" section of the Architect menu -->
+  <Architect_Furniture.description>Tombol pengikatan untuk bagian "Furnitur" dari menu arsitek</Architect_Furniture.description>
+  
+  <!-- EN: svago tab -->
+  <Architect_Joy.label>tab rekreasi</Architect_Joy.label>
+  <!-- EN: Key bindings for the "Svago" section of the Architect menu -->
+  <Architect_Joy.description>Tombol pengikatan untuk bagian "Rekreasi" dari menu arsitek</Architect_Joy.description>
+  
+  <!-- EN: varie tab -->
+  <Architect_Misc.label>tab lainnya</Architect_Misc.label>
+  <!-- EN: Key bindings for the "Varie" section of the Architect menu -->
+  <Architect_Misc.description>Tombol pengikatan untuk bagian "lainnya" dari menu arsitek</Architect_Misc.description>
+  
+  <!-- EN: ordini tab -->
+  <Architect_Orders.label>tab order</Architect_Orders.label>
+  <!-- EN: Key bindings for the "Ordini" section of the Architect menu -->
+  <Architect_Orders.description>Tombol pengikatan untuk bagian "Order" dari menu arsitek</Architect_Orders.description>
+  
+  <!-- EN: energia tab -->
+  <Architect_Power.label>tab daya</Architect_Power.label>
+  <!-- EN: Key bindings for the "Energia" section of the Architect menu -->
+  <Architect_Power.description>Tombol pengikat untuk bagian "Daya" dari menu arsitek</Architect_Power.description>
+  
+  <!-- EN: produzione tab -->
+  <Architect_Production.label>tab produksi</Architect_Production.label>
+  <!-- EN: Key bindings for the "Produzione" section of the Architect menu -->
+  <Architect_Production.description>Tombol pengikat untuk bagian "Produksi" dari menu arsitek</Architect_Production.description>
+  
+  <!-- EN: difese tab -->
+  <Architect_Security.label>tab pertahanan</Architect_Security.label>
+  <!-- EN: Key bindings for the "Difese" section of the Architect menu -->
+  <Architect_Security.description>Tombol pengikat untuk bagian "Pertahanan" dari menu arsitek</Architect_Security.description>
+  
+  <!-- EN: astronave tab -->
+  <Architect_Ship.label>tab kapal</Architect_Ship.label>
+  <!-- EN: Key bindings for the "Astronave" section of the Architect menu -->
+  <Architect_Ship.description>Tombol pengikat untuk bagian "Kapal/pesawat" dari menu arsitek</Architect_Ship.description>
+  
+  <!-- EN: strutture tab -->
+  <Architect_Structure.label>tab struktur</Architect_Structure.label>
+  <!-- EN: Key bindings for the "Strutture" section of the Architect menu -->
+  <Architect_Structure.description>Tombol pengikat untuk bagian "Struktur" dari menu arsitek</Architect_Structure.description>
+  
+  <!-- EN: temperatura tab -->
+  <Architect_Temperature.label>tab suhu</Architect_Temperature.label>
+  <!-- EN: Key bindings for the "Temperatura" section of the Architect menu -->
+  <Architect_Temperature.description>Tombol pengikat untuk bagian "Suhu" dari menu arsitek</Architect_Temperature.description>
+  
+  <!-- EN: zona tab -->
+  <Architect_Zone.label>tab zona</Architect_Zone.label>
+  <!-- EN: Key bindings for the "Zona" section of the Architect menu -->
+  <Architect_Zone.description>Tombol pengikat untuk bagian "Zona" dari menu arsitek</Architect_Zone.description>
+  
+</LanguageData>

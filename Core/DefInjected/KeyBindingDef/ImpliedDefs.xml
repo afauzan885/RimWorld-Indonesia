@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Toggle animali tab -->
+  <MainTab_Animals.label>ubah tab hewan</MainTab_Animals.label>
+  
+  <!-- EN: Toggle architetto tab -->
+  <MainTab_Architect.label>ubah tab arsitek</MainTab_Architect.label>
+  
+  <!-- EN: Toggle assegnazioni tab -->
+  <MainTab_Assign.label>ubah tab tugas</MainTab_Assign.label>
+  
+  <!-- EN: Toggle storia tab -->
+  <MainTab_History.label>ubah tab sejarah</MainTab_History.label>
+  
+  <!-- EN: Toggle ricerca tab -->
+  <MainTab_Research.label>ubah tab misi</MainTab_Research.label>
+
+  <!-- EN: Toggle Forschung tab -->
+  <MainTab_Research.label>ubah tab riset</MainTab_Research.label>
+  
+  <!-- EN: Toggle schedula tab -->
+  <MainTab_Restrict.label>ubah tab pembatas</MainTab_Restrict.label>
+  
+  <!-- EN: Toggle fauna tab -->
+  <MainTab_Wildlife.label>ubah tab margasatwa</MainTab_Wildlife.label>
+  
+  <!-- EN: Toggle lavoro tab -->
+  <MainTab_Work.label>ubah tab kerja</MainTab_Work.label>
+  
+  <!-- EN: Toggle mondo tab -->
+  <MainTab_World.label>ubah tab dunia</MainTab_World.label>
+  
+</LanguageData>

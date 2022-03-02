@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: aurora -->
+  <Aurora.label>aurora</Aurora.label>
+  <!-- EN: Aurora -->
+  <Aurora.letterLabel>Aurora</Aurora.letterLabel>
+  
+  <!-- EN: eclipse -->
+  <Eclipse.label>gerhana</Eclipse.label>
+  <!-- EN: Eclipse -->
+  <Eclipse.letterLabel>Gerhana</Eclipse.letterLabel>
+  
+  <!-- EN: solar flare -->
+  <SolarFlare.label>suar matahari</SolarFlare.label>
+  <!-- EN: Solar flare -->
+  <SolarFlare.letterLabel>Suar matahari</SolarFlare.letterLabel>
+  
+</LanguageData>

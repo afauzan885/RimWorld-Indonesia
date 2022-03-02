@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: mass animal insanity -->
+  <AnimalInsanityMass.label>sekelompok hewan gila</AnimalInsanityMass.label>
+  
+  <!-- EN: single animal insanity -->
+  <AnimalInsanitySingle.label>seekor hewan gila</AnimalInsanitySingle.label>
+  
+  <!-- EN: deep drill infestation -->
+  <DeepDrillInfestation.label>serangga bor dalam</DeepDrillInfestation.label>
+  <!-- EN: Too deep: Infestation -->
+  <DeepDrillInfestation.letterLabel>Terlalu dalam: serangga</DeepDrillInfestation.letterLabel>
+  <!-- EN: Vibrations from your deep drills have angered some underground insects. Now they're tunneling upwards to seek revenge!\n\nBeware - the insects have been angered and will try to destroy your base. -->
+  <DeepDrillInfestation.letterText>Getaran dari bor dalam anda telah membuat marah beberapa seragga bawah tanah. Sekarang mereka membangun terowongan untuk membalas dendam!\n\Waspadalah - seragga telah marah dan akan mencoba menghancurkan markas anda.</DeepDrillInfestation.letterText>
+  
+  <!-- EN: ship part crash (defoliator) -->
+  <DefoliatorShipPartCrash.label>kecelakaan bagian kapal (defoliator)</DefoliatorShipPartCrash.label>
+  <!-- EN: Defoliator ship -->
+  <DefoliatorShipPartCrash.letterLabel>Kapal defoliator</DefoliatorShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nIts mysterious influence will kill all plants in an expanding circle around itself.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <DefoliatorShipPartCrash.letterText>Sebuah kapal tua berukuran besar jatuh di dekat sini.\n\nPengaruh misterius akan membunuh semua tanaman dalam lingkaran yang melebar disekelilingnya.\n\nhancurkan secepat mungkin. Namun berhati-hatilah - mungkin kapal itu mempunyai pertahanan diri sendiri.</DefoliatorShipPartCrash.letterText>
+  
+  <!-- EN: infestation -->
+  <Infestation.label>seragga</Infestation.label>
+  <!-- EN: Infestation -->
+  <Infestation.letterLabel>Serangga</Infestation.letterLabel>
+  <!-- EN: Giant insects are tunneling towards you! They will break through in a few seconds and plant hives.\n\nThe hives will spawn more insects and more hives.\n\nIf you don't want the insects to infest the whole area, destroy the hives. But beware - the bugs will defend their home. -->
+  <Infestation.letterText>Serangga raksasa menerobos tanah ke arah anda! mereka akan menerobos dalam beberapa detik dan membuat sarang.\n\nSarang akan menelurkan lebih banyak serangga dan lebih banyak sarang.\n\nJika anda tidak ingin serangga memasuki area anda, hancurkan sarangnya. Namun berhati-hatilah - serangga akan mempertahankan sarang mereka.</Infestation.letterText>
+  
+  <!-- EN: manhunter pack -->
+  <ManhunterPack.label>kawanan pemburu manusia</ManhunterPack.label>
+  
+  <!-- EN: mech cluster -->
+  <MechCluster.label>kluster mekanik</MechCluster.label>
+  <!-- EN: Mechanoid cluster -->
+  <MechCluster.letterLabel>kluster mechanoid</MechCluster.letterLabel>
+  <!-- EN: A mechanoid combat cluster is landing nearby. The cluster will be initially dormant, so you can take time to decide how to attack it.\n\nIt may remain dormant until disturbed, or it may have a timer or proximity activators.\n\nEven dormant mech clusters aren't harmless. A dormant cluster may assemble mechanoid attackers from time to time, or have some broader negative effect that must be dealt with eventually. -->
+  <MechCluster.letterText>Sebauh kluster tempur mechanoid mendarat di dekat sini. Pada awalnya kluster tidak akan aktif, jadi anda mempunyai waktu untuk merencanakan cara menyerangnya.\n\nIni mungkin tidak akan aktif sampai ada yang menggangunya, atau mungkin memiliki timer atau aktivator kedekatan.\n\nKluster mechanoid tidur tidak berbahaya, terkadang kluster mekanik ini dapat memanggil mechanoid lainnya atau mebuat efek negatif yang perlu ditangani.</MechCluster.letterText>
+  
+  <!-- EN: ship part crash (psychic) -->
+  <PsychicEmanatorShipPartCrash.label>kecelakaan bagian kapal (psikis)</PsychicEmanatorShipPartCrash.label>
+  <!-- EN: Psychic ship -->
+  <PsychicEmanatorShipPartCrash.letterLabel>Kapal psikis</PsychicEmanatorShipPartCrash.letterLabel>
+  <!-- EN: A large piece of an ancient ship has crashed nearby.\n\nYour colonists can feel it in the back of their mind, exhorting unspeakable acts. It must have an onboard machine persona with psychic projection ability. And this persona is not friendly.\n\nDestroy it as soon as possible. But beware - it will probably defend itself. -->
+  <PsychicEmanatorShipPartCrash.letterText>Sebuah kapal tua berukuran besar jatuh di dekat sini.\n\nKoloni anda dapat merasakan di dalam pikirannya ada sesuatu ucapan yang tidak jelas asalnya, kemampuan mempengaruhi itu hanya ada pada mesin onboard dengan kemampuan proyeksi psikis.\n\nHancurkan secepat mungkin. Namun berhati-hatilah - mungkin kapal itu mempunyai pertahanan diri sendiri.</PsychicEmanatorShipPartCrash.letterText>
+  
+  <!-- EN: enemy raid -->
+  <RaidEnemy.label>serangan musuh</RaidEnemy.label>
+  
+</LanguageData>

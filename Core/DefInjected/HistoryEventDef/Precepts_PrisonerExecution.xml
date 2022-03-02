@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: executed colonist -->
+  <ExecutedColonist.label>koloni dieksekusi</ExecutedColonist.label>
+  
+  <!-- EN: executed guest -->
+  <ExecutedGuest.label>tamu dieksekusi</ExecutedGuest.label>
+  
+  <!-- EN: executed prisoner -->
+  <ExecutedPrisoner.label>tahanan dieksekusi</ExecutedPrisoner.label>
+  
+  <!-- EN: executed guilty prisoner -->
+  <ExecutedPrisonerGuilty.label>tahanan bersalah dieksekusi</ExecutedPrisonerGuilty.label>
+  
+  <!-- EN: executed innocent prisoner -->
+  <ExecutedPrisonerInnocent.label>tahanan tidak bersalah dieksekusi</ExecutedPrisonerInnocent.label>
+  
+</LanguageData>

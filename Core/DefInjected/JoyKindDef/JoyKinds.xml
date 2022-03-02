@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chemical consumption -->
+  <Chemical.label>mengkonsumsi kimia</Chemical.label>
+  
+  <!-- EN: cerebral play -->
+  <Gaming_Cerebral.label>bermain logika</Gaming_Cerebral.label>
+  
+  <!-- EN: dexterity play -->
+  <Gaming_Dexterity.label>bermain ketangkasan</Gaming_Dexterity.label>
+  
+  <!-- EN: food consumption -->
+  <Gluttonous.label>mengkonsumsi makanan</Gluttonous.label>
+
+  <!-- EN: music -->
+  <HighCulture.label>Musik</HighCulture.label>
+  
+  <!-- EN: solitary relaxation -->
+  <Meditative.label>relaksasi soliter</Meditative.label>
+  
+  <!-- EN: social interaction -->
+  <Social.label>interaksi sosial</Social.label>
+  
+  <!-- EN: telescope study -->
+  <Telescope.label>studi teleskop</Telescope.label>
+  
+  <!-- EN: television watching -->
+  <Television.label>menonton televisi</Television.label>
+  
+</LanguageData>

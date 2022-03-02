@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: attacked building -->
+  <AttackedBuilding.label>bangunan terserang</AttackedBuilding.label>
+  
+  <!-- EN: debug event -->
+  <DebugGoodwill.label>acara debug</DebugGoodwill.label>
+  
+  <!-- EN: laborers missed shuttle -->
+  <LaborersMissedShuttle.label>pekerja ketinggalan pesawat ulang-alik</LaborersMissedShuttle.label>
+  
+  <!-- EN: tendency to move toward natural goodwill -->
+  <ReachNaturalGoodwill.label>kecenderungan untuk bergerak ke arah niat baik alami</ReachNaturalGoodwill.label>
+  
+  <!-- EN: ritual done -->
+  <RitualDone.label>ritual selesai</RitualDone.label>
+  
+  <!-- EN: shuttle destroyed -->
+  <ShuttleDestroyed.label>pesawat ulang-alik hancur</ShuttleDestroyed.label>
+  
+  <!-- EN: used forbidden thing -->
+  <UsedForbiddenThing.label>digunakan untuk hal yang tersembunyi</UsedForbiddenThing.label>
+  
+  <!-- EN: used harmful ability -->
+  <UsedHarmfulAbility.label>menggunakan kemampuan berbahaya</UsedHarmfulAbility.label>
+  
+</LanguageData>

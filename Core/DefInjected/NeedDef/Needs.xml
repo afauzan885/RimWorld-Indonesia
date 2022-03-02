@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: beauty -->
+  <Beauty.label>keindahan</Beauty.label>
+  <!-- EN: Beauty reflects how visually pleasing a person has found their surroundings recently. Beautiful things like art improve beauty when viewed, while ugly things like filth and rough stone surfaces reduce it. -->
+  <Beauty.description>Keindahan mencerminkan betapa menyenangkan secara visual dalam menemukan lingkungannya baru-baru ini. Hal-hal indah seperti seni dapat meningkatkan keindahan bila dilihat, sementara benda-benda jelek seperti kotoran dan permukaan batu yang kasar akan mengurangi keindahaan tersebut.</Beauty.description>
+  
+  <!-- EN: comfort -->
+  <Comfort.label>kenyamanan</Comfort.label>
+  <!-- EN: Comfort is gained by sitting in or sleeping on comfortable furniture. It is acquired while laying in bed, sitting in a chair while working, or other times. -->
+  <Comfort.description>kenyamanan diperoleh dengan duduk atau tidur diatas furnitur yang nyaman. Itu diperoleh saat berbaring di kasur, duduk dikursi saat bekerja, atau waktu lainnya.</Comfort.description>
+  
+  <!-- EN: chemical -->
+  <DrugDesire.label>kimia</DrugDesire.label>
+  <!-- EN: Chemical expresses the desire to ingest drugs. When above a certain level it will create good mood, but when below a certain level it will create increasingly bad mood. -->
+  <DrugDesire.description>Bahan kimia mengekspresikan keinginan untuk mengkonsumsi obat. Saat kadar kimia diatas tingkat tertentu, akan menciptakan suasana hati yang baik. Namun saat dibawah tingkat tertentu akan membuat suasana hati semakin buruk.</DrugDesire.description>
+  
+  <!-- EN: food -->
+  <Food.label>makanan</Food.label>
+  <!-- EN: Food is the amount of nutrition a creature has consumed recently. If it is at zero, a creature will become increasingly malnourished and eventually die. -->
+  <Food.description>Makanan adalah jumlah nutrisi yang dikonsumsi makhluk belakangan ini. Jika angkanya mencapai nol, makhluk tersebut akan kekurangan gizi dan akhirnya mati.</Food.description>
+
+  <!-- EN: indoors -->
+  <Indoors.label>dalam ruangan</Indoors.label>
+  <!-- EN: Indoors expresses the need to be within walls and under a roof. It is harmed by spending time in outdoor areas or not under roofs. To raise this need past 50%, a person must be under an overhead mountain, not just a normal roof. -->
+  <Indoors.description>'Di dalam' mengungkapkan kebutuhan untuk berada di dalam suaru ruangan yang tertutup oleh dinding dan di bawah atap. Nilainya berkurang jika berada di luar ruangan atau tidak di bawah atap. Untuk membawa nilai ini di atas 50%, atapnya harus berupa langit-langit gunung, bukan hanya atap biasa.</Indoors.description>
+  
+  <!-- EN: recreation -->
+  <Joy.label>rekreasi</Joy.label>
+  <!-- EN: Recreation is the need to have fun. Repeating the same kind of activity makes it less fun, so variety is necessary. -->
+  <Joy.description>Rekreasi merupakan kebutuhan dalam bersenang-senang. Menggunakan objek rekreasi yang sama dalam jangka waktu yang lama membuat koloni menjadi bosan, jadi variasi rekreasi juga diperlukan.</Joy.description>
+  
+  <!-- EN: mood -->
+  <Mood.label>suasana hati</Mood.label>
+  <!-- EN: Mood represents how happy or stressed someone is. If mood gets too low, the person may suffer a mental break. Depending on how low his mood is, someone who has a mental break may have a minor breaks like hiding in his room for a day, or a major break like going on a murder spree. -->
+  <Mood.description>Suasana hati atau mood mewakili seberapa bahagia atau stres seseorang. Jika suasana hati terlalu rendah, orang tersebut mungkin akan mengalami gangguan mental. Tergantung seberapa rendah suasana hatinya, seseorang yang memiliki gangguan mental mungkin akan terguncang kesehatan mentalnya seperti bersembunyi di ruangan selama seharian, atau pembantaian besar-besaran.</Mood.description>
+  
+  <!-- EN: outdoors -->
+  <Outdoors.label>luar ruangan</Outdoors.label>
+  <!-- EN: Outdoors expresses the need not to be cooped up inside. It is harmed by long periods inside, especially underground. It improves when someone spends time under the sky, especially outdoors. It's not about the size of the rooms, but the need to be outside from time to time. Lack of outdoors time is a significant challenge for people who dwell in underground bases. -->
+  <Outdoors.description>Luar ruangan mengutarakan kebutuhan untuk tidak terkurung di dalam. Kebutuhan ini dikurangi oleh waktu yang lama didalam, terutama bagian bawah tanah. Kebutuhan ini meningkatkan ketika seseorang menghabiskan waktu di bawah langit, terutama di luar ruangan. Ini bukan definisi seberapa besarnya ukuran ruangan tersebut, tetapi kebutuhan untuk berada di luar ruangan yang alami dalam waktu ke waktu. Kurangnya waktu diluar ruangan merupakan tantangan yang paling signifikan bagi orang-orang yang tinggal di basis bawah tanah.</Outdoors.description>
+  
+  <!-- EN: rest -->
+  <Rest.label>istirahat</Rest.label>
+  <!-- EN: Rest is how much sleep a creature has gotten recently. If it is at zero, a creature will eventually fall asleep on the spot. -->
+  <Rest.description>Istirahat adalah jumlah tidur yang didapat oleh makhluk ini. Jika angkanya nol, makhluk tersebut akan jatuh tertidur di suatu tempat.</Rest.description>
+  
+  <!-- EN: room size -->
+  <RoomSize.label>ukuran ruangan</RoomSize.label>
+  
+</LanguageData>

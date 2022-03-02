@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>
+
+  <!-- EN: colonist mood -->
+  <ColonistMood.label>nuasa hati koloni</ColonistMood.label>
+  
+  <!-- EN: debug -->
+  <Debug.label>debug</Debug.label>
+  
+  <!-- EN: population -->
+  <Population.label>populasi</Population.label>
+  
+  <!-- EN: wealth -->
+  <Wealth.label>kekayaan</Wealth.label>
+    
+</LanguageData>

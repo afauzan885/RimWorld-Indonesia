@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: manhunter -->
+  <Manhunter.label>pemburu manusia</Manhunter.label>
+  <!-- EN: Maddened: Manhunter -->
+  <Manhunter.baseInspectLine>Gila: Pemburu manusia</Manhunter.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <Manhunter.beginLetter>{0} telah menjadi pemburu manusia.</Manhunter.beginLetter>
+  <!-- EN: {0} manhunting bloodlust has come to an end. -->
+  <Manhunter.recoveryMessage>pemburuan darah manusia telah berakhir.</Manhunter.recoveryMessage>
+  
+  <!-- EN: manhunter -->
+  <ManhunterPermanent.label>Pemburu manusia</ManhunterPermanent.label>
+  <!-- EN: Maddened: Manhunter -->
+  <ManhunterPermanent.baseInspectLine>Gila: Pemburu manusia</ManhunterPermanent.baseInspectLine>
+  <!-- EN: {0} has become a manhunter! -->
+  <ManhunterPermanent.beginLetter>{0} telah menjadi pemburu manusia.</ManhunterPermanent.beginLetter>
+  <!-- EN: {0}'s manhunting bloodlust has come to an end. -->
+  <ManhunterPermanent.recoveryMessage>{0} pemburuan darah manusia telah berakhir.</ManhunterPermanent.recoveryMessage>
+  
+  <!-- EN: panic fleeing -->
+  <PanicFlee.label>kabur saat panik</PanicFlee.label>
+  <!-- EN: mental state: Fleeing in panic -->
+  <PanicFlee.baseInspectLine>kondisi mental: Kabur saat panik</PanicFlee.baseInspectLine>
+  <!-- EN: {0} is fleeing in panic. -->
+  <PanicFlee.beginLetter>{0} kabur saat panik.</PanicFlee.beginLetter>
+  <!-- EN: flee -->
+  <PanicFlee.beginLetterLabel>kabur</PanicFlee.beginLetterLabel>
+  <!-- EN: {0} is no longer fleeing in panic. -->
+  <PanicFlee.recoveryMessage>{0} tidak lagi kabur saat panik.</PanicFlee.recoveryMessage>
+  
+  <!-- EN: roaming -->
+  <Roaming.label>berkeliaran</Roaming.label>
+  <!-- EN: Mental state: Roaming -->
+  <Roaming.baseInspectLine>kondisi mental: berkeliaran</Roaming.baseInspectLine>
+  
+  <!-- EN: social fighting -->
+  <SocialFighting.label>ribut</SocialFighting.label>
+  <!-- EN: mental state: Social fighting -->
+  <SocialFighting.baseInspectLine>kondisi mental: Ribut</SocialFighting.baseInspectLine>
+  
+  <!-- EN: confused wandering -->
+  <WanderConfused.label>pengembara linglung</WanderConfused.label>
+  <!-- EN: mental state: Confused and wandering -->
+  <WanderConfused.baseInspectLine>kondisi mental: kebingungan dan berkeliaran</WanderConfused.baseInspectLine>
+  <!-- EN: {0} has broken down and is wandering around confused. -->
+  <WanderConfused.beginLetter>{0} telah terguncang mentalnya dan berkeliarann dengan linglung.</WanderConfused.beginLetter>
+  <!-- EN: confusion -->
+  <WanderConfused.beginLetterLabel>linglung</WanderConfused.beginLetterLabel>
+  <!-- EN: {0} is no longer confused. -->
+  <WanderConfused.recoveryMessage>{0} tidak linglung lagi.</WanderConfused.recoveryMessage>
+  
+</LanguageData>

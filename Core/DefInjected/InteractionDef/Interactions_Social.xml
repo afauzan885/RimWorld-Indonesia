@@ -1,0 +1,195 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: chitchat -->
+  <Chitchat.label>basa basi</Chitchat.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [TalkTopicLight] with [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] to [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->chatted about</li>
+    <li>talkedabout->shared a word about</li>
+    <li>talkedabout->spoke about</li>
+    <li>talkedabout->gabbed about</li>
+    <li>talkedabout->talked about</li>
+    <li>talkedabout->joked about</li>
+    <li>talkedabout->quipped about</li>
+    <li>commentedabout->said something about</li>
+    <li>commentedabout->said a word about</li>
+    <li>commentedabout->made a comment about</li>
+    <li>commentedabout->commented about</li>
+    <li>commentedabout->told a joke about</li>
+  -->
+  <Chitchat.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] dan [RECIPIENT_nameDef] [talkedabout] [TalkTopicLight].</li>
+    <li>r_logentry(p=0.8)->[INITIATOR_nameDef] [commentedabout] [TalkTopicLight] ke [RECIPIENT_nameDef].</li>
+    <li>talkedabout(p=4)->mengobrol tentang</li>
+    <li>talkedabout->mengatakan apa yang dia pikirkan</li>
+    <li>talkedabout->berbicara tentang</li>
+    <li>talkedabout->diocehkan</li>
+    <li>talkedabout->membicarakan tentang</li>
+    <li>talkedabout->bercanda tentang</li>
+    <li>talkedabout->menyindir</li>
+    <li>commentedabout->mengatakan sesuatu tentang</li>
+    <li>commentedabout->mengatakan sepatah kata pun tentang</li>
+    <li>commentedabout->membuat komentar tentang</li>
+    <li>commentedabout->berkomentar tentang</li>
+    <li>commentedabout->menceritakan lelucon tentang</li>
+  </Chitchat.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: deep talk -->
+  <DeepTalk.label>pembicaraan serius</DeepTalk.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] and [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] with [RECIPIENT_nameDef].</li>
+    <li>talkedabout->communicated thoughts about</li>
+    <li>talkedabout->exchanged thoughts about</li>
+    <li>talkedabout->exchanged ideas about</li>
+    <li>talkedabout->shared views on</li>
+    <li>talkedabout->shared beliefs on</li>
+    <li>talkedabout->discussed the topic of</li>
+    <li>talkedabout->had a heartfelt conversation about</li>
+    <li>talkedabout->talked quietly about</li>
+    <li>talkedabout->talked deeply about</li>
+    <li>talkedabout->connected on the topic of</li>
+    <li>subject->[TalkTopicHeavy]</li>
+  -->
+  <DeepTalk.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] dan [RECIPIENT_nameDef] [talkedabout] [subject].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [talkedabout] [subject] dengan [RECIPIENT_nameDef].</li>
+    <li>talkedabout->mengkomunikasikan pikiran tentang</li>
+    <li>talkedabout->bertukar pikiran tentang</li>
+    <li>talkedabout->bertukar ide tentang</li>
+    <li>talkedabout->berbagi pandangan tentang</li>
+    <li>talkedabout->berbagi keyakinan tentang</li>
+    <li>talkedabout->membahas topik</li>
+    <li>talkedabout->melakukan percakapan yang menyentuh hati tentang</li>
+    <li>talkedabout->berbicara dengan tenang</li>
+    <li>talkedabout->berbicara secara mendalam tentang</li>
+    <li>talkedabout->terhubung dengan topik</li>
+    <li>subject->[TalkTopicHeavy]</li>
+  </DeepTalk.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: insult -->
+  <Insult.label>menghina</Insult.label>
+  <!-- EN:
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [insulted] [target]'s [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] compared [target] to a [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [target] a [insultcomparison].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>insulted(p=3)->insulted</li>
+    <li>insulted->openly insulted</li>
+    <li>insulted->loudly insulted</li>
+    <li>insulted->flagrantly insulted</li>
+    <li>insulted->directly insulted</li>
+    <li>insulted->viciously insulted</li>
+    <li>insulted->flagrantly disrespected</li>
+    <li>insulted->slandered</li>
+    <li>insulted->hurled invective about</li>
+    <li>insulted->derided</li>
+    <li>insultcomparison(p=2)->[Animal]</li>
+    <li>insultcomparison->[Enemy]</li>
+  -->
+  <Insult.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=1.33)->[INITIATOR_nameDef] [insulted] [PersonalCharacteristics] dari [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=1.33)->[INITIATOR_nameDef] [insulted] [PersonalCharacteristicMas] dari [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=1.33)->[INITIATOR_nameDef] [insulted] [PersonalCharacteristicFem] dari [RECIPIENT_nameDef].</li>
+    <li>r_logentry(p=1.33)->[INITIATOR_nameDef] [insulted] [PersonalCharacteristicNeu] dari [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] membandingkan [target] dengan [insultcomparison].</li>
+    <li>r_logentry->[INITIATOR_nameDef] menyebut [target] sebagai [insult].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target(p=0.5)->[PersonFamilyFemAcc] dari [RECIPIENT_nameDef]</li>
+    <li>target(p=0.5)->[PersonFamilyMasAcc] dari [RECIPIENT_nameDef]</li>
+    <li>insulted(p=3)->terhina</li>
+    <li>insulted->secara gamblang menghina</li>
+    <li>insulted->dengan keras menghina</li>
+    <li>insulted->dihina secara mencolok</li>
+    <li>insulted->langsung menghina</li>
+    <li>insulted->dihina dengan kejam</li>
+    <li>insulted->difitnah</li>
+    <li>insulted->melemparkan makian tentang</li>
+    <li>insulted->dicemooh</li>
+    <li>insultcomparison->satu [AnimalFem]</li>
+    <li>insultcomparison->satu [AnimalMas]</li>
+    <li>insultcomparison->satu [AnimalNeu]</li>
+    <li>insultcomparison->satu [EnemyDat]</li>
+    <li>insult->[Animal]</li>
+    <li>insult->[Enemy]</li>
+  </Insult.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: kind words -->
+  <KindWords.label>kata-kata baik</KindWords.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef]'s [PersonalCharacteristic].</li>
+    <li>complimented(p=3)->complimented</li>
+    <li>complimented->praised</li>
+    <li>complimented->commended</li>
+    <li>complimented->lauded</li>
+    <li>complimented->applauded</li>
+    <li>complimented->celebrated</li>
+    <li>complimented->saluted</li>
+    <li>complimented->spoke kindly of</li>
+    <li>complimented->expressed good things about</li>
+    <li>complimented->offered kinds words about</li>
+    <li>complimented->verbally appreciated</li>
+    <li>complimented->expressed appreciation for</li>
+    <li>complimented->said good things about</li>
+  -->
+  <KindWords.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [complimented] [RECIPIENT_nameDef] [PersonalCharacteristic].</li>
+    <li>complimented(p=3)->dipuji</li>
+    <li>complimented->memuji-muji</li>
+    <li>complimented->memuji</li>
+    <li>complimented->menyanjung</li>
+    <li>complimented->bertepuk tangan</li>
+    <li>complimented->merayakan</li>
+    <li>complimented->salut</li>
+    <li>complimented->berbicara dengan ramah</li>
+    <li>complimented->mengungkapkan hal-hal baik tentang</li>
+    <li>complimented->menawarkan kata-kata mancam tentang</li>
+    <li>complimented->dihargai secara verbal</li>
+    <li>complimented->memberi perhargaan untuk</li>
+    <li>complimented->mengatakan hal-hal baik tentang</li> 
+  </KindWords.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: slight -->
+  <Slight.label>menghina</Slight.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target]'s [PersonalCharacteristic].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef]'s [PersonFamily]</li>
+    <li>madefunof->made fun of</li>
+    <li>madefunof->disrespected</li>
+    <li>madefunof->subtly scorned</li>
+    <li>madefunof->subtly shamed</li>
+    <li>madefunof->spoke badly of</li>
+    <li>madefunof->spoke negatively of</li>
+    <li>madefunof->laughed at</li>
+    <li>madefunof->sniggered at</li>
+    <li>madefunof->implied negative things about</li>
+    <li>madefunof->belittled</li>
+    <li>madefunof->made a contemptuous remark about</li>
+    <li>madefunof->offered a backhanded compliment about</li>
+  -->
+  <Slight.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [target] [PersonalCharacteristic].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [PersonalCharacteristicMas] dari [target].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [PersonalCharacteristicFem] dari [target].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [madefunof] [PersonalCharacteristicNeu] dari [target].</li>
+    <li>target(p=4)->[RECIPIENT_nameDef]</li>
+    <li>target->[RECIPIENT_nameDef] [PersonFamily]</li>
+    <li>madefunof->mengejek</li>
+    <li>madefunof->tidak dihargai</li>
+    <li>madefunof->dicemooh secara halus</li>
+    <li>madefunof->dipermalukan secara halus</li>
+    <li>madefunof->berkata secara negatif tentang</li>
+    <li>madefunof->menertawai</li>
+    <li>madefunof->mencibir</li>
+    <li>madefunof->tersirat hal-hal negatif tentang</li>
+    <li>madefunof->diremehkan</li>
+    <li>madefunof->membuat komentar menghina tentang</li>
+    <li>madefunof->menawarkan pujian yang tidak masuk akal tentang</li>
+  </Slight.logRulesInitiator.rulesStrings>
+  
+</LanguageData>

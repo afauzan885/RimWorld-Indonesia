@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: Follow master while the master is drafted. -->
+  <FollowDrafted.headerTip>Ikuti tuan saat tuan sedang di kontrol.</FollowDrafted.headerTip>
+  
+  <!-- EN: Follow master while the master is doing field work (hunting or taming animals). -->
+  <FollowFieldwork.headerTip>Ikuti tuan saat tuan sedang melakukan tugas lapangan (berburu atau menjinakkan hewan).</FollowFieldwork.headerTip>
+  
+  <!-- EN: Mark animals to be hunted by your hunters. -->
+  <Hunt.headerTip>Tandai hewan yang akan diburu oleh pemburu anda.</Hunt.headerTip>
+
+  <!-- EN: Release to wild -->
+  <ReleaseAnimalToWild.headerTip>Lepaskan ke alam liar</ReleaseAnimalToWild.headerTip>
+  
+  <!-- EN: Slaughter -->
+  <Slaughter.headerTip>Sembelih</Slaughter.headerTip>
+  
+  <!-- EN: Tame a wild animal. -->
+  <Tame.headerTip>Jinakkan binatang liar.</Tame.headerTip>
+  
+</LanguageData>

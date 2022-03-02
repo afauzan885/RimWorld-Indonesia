@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: alphabeavers -->
+  <Alphabeavers.label>berang-berang alpha</Alphabeavers.label>
+  
+  <!-- EN: ambrosia sprout -->
+  <AmbrosiaSprout.label>ambrosia terlihat</AmbrosiaSprout.label>
+  <!-- EN: Ambrosia sprout -->
+  <AmbrosiaSprout.letterLabel>ambrosia tumbuh</AmbrosiaSprout.letterLabel>
+  <!-- EN: A grove of the mysterious ambrosia bush has sprouted nearby! If you wait for the plants to grow, you'll be able to harvest the delicious, pleasurable, and slightly addictive fruit. -->
+  <AmbrosiaSprout.letterText>Semak-semak ambrosia misterius telah tumbuh di dekat anda. Jika anda menunggu tanaman itu berbuah, anda dapat memanen buah yang enak, menyenangkan, dan membuat sedikit ketagihan yang mengkonsumsinya.</AmbrosiaSprout.letterText>
+  
+  <!-- EN: cold snap -->
+  <ColdSnap.label>dingin menusuk</ColdSnap.label>
+  <!-- EN: Cold snap -->
+  <ColdSnap.letterLabel>Gelombang dingin</ColdSnap.letterLabel>
+  
+  <!-- EN: crop blight -->
+  <CropBlight.label>tanaman busuk</CropBlight.label>
+  
+  <!-- EN: farm animals wander in -->
+  <FarmAnimalsWanderIn.label>hewan ternak berkeliaran</FarmAnimalsWanderIn.label>
+  
+  <!-- EN: flashstorm -->
+  <Flashstorm.label>badai petir</Flashstorm.label>
+  <!-- EN: Flashstorm -->
+  <Flashstorm.letterLabel>Badai petir</Flashstorm.letterLabel>
+  
+  <!-- EN: heat wave -->
+  <HeatWave.label>gelombang panas</HeatWave.label>
+  <!-- EN: Heat wave -->
+  <HeatWave.letterLabel>Gelombang panas</HeatWave.letterLabel>
+  
+  <!-- EN: herd migration -->
+  <HerdMigration.label>kawanan migrasi terlihat</HerdMigration.label>
+  <!-- EN: Animal migration: {0} -->
+  <HerdMigration.letterLabel>hewan bermigrasi: {0}</HerdMigration.letterLabel>
+  <!-- EN: A group of {0} is passing through the area.\n\nThey won't attack unless provoked. -->
+  <HerdMigration.letterText>Grup {0} sedang melintasi zona.\n\nMereka tidak akan menyerang kecuali diprovokasi.</HerdMigration.letterText>
+  
+  <!-- EN: meteorite impact -->
+  <MeteoriteImpact.label>tubrukan meteorit</MeteoriteImpact.label>
+  <!-- EN: Meteorite -->
+  <MeteoriteImpact.letterLabel>Meteorit</MeteoriteImpact.letterLabel>
+  <!-- EN: A large meteorite has struck ground in the area. It has left behind a lump of {0}. -->
+  <MeteoriteImpact.letterText>Sebuah meteorit besar menghantam tanah di daerah tersebut. Meteorit itu meninggalkan sebuah gumpalan {0}.</MeteoriteImpact.letterText>
+  
+  <!-- EN: psychic drone -->
+  <PsychicDrone.label>drone psikis</PsychicDrone.label>
+  
+  <!-- EN: psychic soothe -->
+  <PsychicSoothe.label>penenang psikis </PsychicSoothe.label>
+  
+  <!-- EN: ransom demand -->
+  <RansomDemand.label>permintaan tebusan</RansomDemand.label>
+  <!-- EN: Ransom demand -->
+  <RansomDemand.letterLabel>Permintaan tebusan</RansomDemand.letterLabel>
+  
+  <!-- EN: transport pod crash -->
+  <RefugeePodCrash.label>kecelakaan transportasi pod</RefugeePodCrash.label>
+  
+  <!-- EN: resource pod crash -->
+  <ResourcePodCrash.label>sumber daya pod yang hancur</ResourcePodCrash.label>
+  
+  <!-- EN: self-tame -->
+  <SelfTame.label>jinak sendiri</SelfTame.label>
+  
+  <!-- EN: short circuit -->
+  <ShortCircuit.label>arus pendek</ShortCircuit.label>
+  
+  <!-- EN: thrumbos pass -->
+  <ThrumboPasses.label>melintasi thrumbo</ThrumboPasses.label>
+  
+  <!-- EN: toxic fallout -->
+  <ToxicFallout.label>debu beracun</ToxicFallout.label>
+  <!-- EN: Toxic fallout -->
+  <ToxicFallout.letterLabel>Debu beracun</ToxicFallout.letterLabel>
+  
+  <!-- EN: volcanic winter -->
+  <VolcanicWinter.label>musim dingin vulkanik</VolcanicWinter.label>
+  <!-- EN: Volcanic winter -->
+  <VolcanicWinter.letterLabel>Musim dingin vulkanik</VolcanicWinter.letterLabel>
+  
+  <!-- EN: wanderer join -->
+  <WandererJoin.label>pengembara bergabung</WandererJoin.label>
+  
+  <!-- EN: wild man wanders in -->
+  <WildManWandersIn.label>manusia liar berkeliaran</WildManWandersIn.label>
+  <!-- EN: {PAWN_kind} wanders in -->
+  <WildManWandersIn.letterLabel>{PAWN_kind} berkeliaran</WildManWandersIn.letterLabel>
+  <!-- EN: A person living among wild animals has wandered into the area. {PAWN_pronoun}'s called {0}.\n\nYou can attempt to tame or arrest {PAWN_objective}. -->
+  <WildManWandersIn.letterText>Seseorang yang hidup bebas di alam liar telah berkeliaran di daerah tersebut. {PAWN_pronoun} bernama {0}.\n\nAnda dapat menangkap atau menjinakkan {PAWN_objective}.</WildManWandersIn.letterText>
+  
+</LanguageData>

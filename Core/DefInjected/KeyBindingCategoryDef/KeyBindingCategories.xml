@@ -1,0 +1,49 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: architect -->
+  <Architect.label>arsitek</Architect.label>
+  <!-- EN: General-use controls for the architect mode menu. -->
+  <Architect.description>Kontrol umum untuk menu arsitek.</Architect.description>
+
+  <!-- EN: debug menu -->
+  <DebugMenu.label>menu debug</DebugMenu.label>
+  <!-- EN: Controls used in debug menus. Active in development mode only. -->
+  <DebugMenu.description>Kontrol yang digunakan dalam menu debug. Aktif dalam mode pengembangan saja.</DebugMenu.description>
+  
+  <!-- EN: developer tools -->
+  <Development.label>alat pengembang</Development.label>
+  <!-- EN: Controls for developers and modders. Active in development mode only. -->
+  <Development.description>Kontrol untuk developer dan modder. Aktif dalam mode pengembang saja.</Development.description>
+  
+  <!-- EN: in-game global -->
+  <Game.label>kontrol permainan</Game.label>
+  <!-- EN: Colony mode controls that apply in most situations. -->
+  <Game.description>Kontrol mode koloni yang berlaku di sebagian besar situasi.</Game.description>
+  
+  <!-- EN: camera -->
+  <GameMapCamera.label>kamera</GameMapCamera.label>
+  <!-- EN: Controls for the camera. -->
+  <GameMapCamera.description>Kontrol untuk kamera.</GameMapCamera.description>
+  
+  <!-- EN: main tabs -->
+  <MainTabs.label>tab utama</MainTabs.label>
+  <!-- EN: Controls for the main tabs. -->
+  <MainTabs.description>Kontrol untuk tab utama.</MainTabs.description>
+  
+  <!-- EN: modifiers -->
+  <Modifiers.label>pengubah</Modifiers.label>
+  <!-- EN: Controls used to modify other actions. -->
+  <Modifiers.description>Kontrol yang digunakan untuk mengubah tindakan lain.</Modifiers.description>
+  
+  <!-- EN: misc -->
+  <SelectionMisc.label>lainnya</SelectionMisc.label>
+  <!-- EN: Generic controls that are re-used by many items and objects throughout the game. -->
+  <SelectionMisc.description>Kontrol umum yang digunakan kembali oleh banyak item dan objek di sepanjang permainan.</SelectionMisc.description>
+  
+  <!-- EN: special -->
+  <SelectionSpecial.label>khusus</SelectionSpecial.label>
+  <!-- EN: Special controls reserved for specific functions on specific objects. -->
+  <SelectionSpecial.description>Kontrol khusus disediakan untuk fungsi tertentu pada objek tertentu.</SelectionSpecial.description>
+  
+</LanguageData>

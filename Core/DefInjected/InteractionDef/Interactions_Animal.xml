@@ -1,0 +1,203 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: animal chat -->
+  <AnimalChat.label>Mengobrol dengan hewan</AnimalChat.label>
+  <!-- EN:
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] sat near [RECIPIENT_nameDef] and talked to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] approached [RECIPIENT_nameDef] while whispering to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>r_logentry->[INITIATOR_nameDef] came near [RECIPIENT_nameDef] while talking to [INITIATOR_objective]self about [TalkTopicAny].</li>
+    <li>tamed->made calming noises towards</li>
+    <li>tamed->offered slow, friendly gestures to</li>
+    <li>tamed->made shushing noises at</li>
+    <li>tamed->made happy clicking noises at</li>
+    <li>tamed->gestured gently and approached</li>
+    <li>tamed->slowly approached</li>
+    <li>tamed->gently touched</li>
+    <li>tamed->calmed and encouraged</li>
+    <li>tamed->matched breathing with</li>
+    <li>tamed->took a low stance while approaching</li>
+    <li>tamed->showed no fear or anger to</li>
+    <li>tamed->feigned inattention towards</li>
+    <li>tamed->gently hummed a song at</li>
+    <li>tamed->sang an old lullaby at</li>
+    <li>tamed->firmly yet softly touched</li>
+    <li>tamed->showed a relaxed attitude towards</li>
+    <li>tamed->sat patiently near</li>
+    <li>tamed->whispered a story about [TalkTopicAny] to</li>
+  -->
+  <AnimalChat.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=5)->[INITIATOR_nameDef] [tamed] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] duduk dengan hewan ([RECIPIENT_label]) dan berbicara sendiri tentang [TalkTopicAnyAcc].</li>
+    <li>r_logentry->[INITIATOR_nameDef] mendekati hewan ([RECIPIENT_label]) dan berbicara pelan kepada dirinya sendiri tentang [TalkTopicAnyAcc].</li>
+    <li>r_logentry->[INITIATOR_nameDef] semakin dekat dengan hewan ([RECIPIENT_label]) sementara [INITIATOR_pronoun] berbicara sendiri tentang [TalkTopicAnyAcc] redete.</li>
+    <li>tamed->mengeluarkan suara meyakinkan</li>
+    <li>tamed->bergerak lambat dan ramah kepada</li>
+    <li>tamed->memberi isyarat untuk diam</li>
+    <li>tamed->mengerluarkan suara klik senang di</li>
+    <li>tamed->memberi isyarat lembut dan mendekatimu</li>
+    <li>tamed->perlahan mendekat</li>
+    <li>tamed->disentuh dengan lembut</li>
+    <li>tamed->tenang dan bersemangat</li>
+    <li>tamed->bernafas dengan irama yang sama</li>
+    <li>tamed->mengambil posisi rendah saat mendekat</li>
+    <li>tamed->tidak menunjukan rasa takut atau marah kepada</li>
+    <li>tamed->berpura-pura tidak memperhatikan</li>
+    <li>tamed->dengan lembut menyandungkan sebuah lagu</li>
+    <li>tamed->menyanyikan lagu pengantar tidur</li>
+    <li>tamed->duduk dengan sabar di dekat</li>
+    <li>tamed->menunjukan sikap santai terhadap</li>
+    <li>tamed->duduk dengan sabar di dekat</li>
+    <li>tamed->mebisikan cerita tentang [TalkTopicAny]</li>
+  </AnimalChat.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: nuzzle -->
+  <Nuzzle.label>kontak hewan</Nuzzle.label>
+  <!-- EN:
+    <li>r_logentry(p=2)->[INITIATOR_nameDef] [nuzzleadverb] [nuzzled] [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzleadverb] rubbed [INITIATOR_possessive] nose against [RECIPIENT_nameDef]'s [rubbedpart].</li>
+    <li>nuzzled(p=2)->nuzzled</li>
+    <li>nuzzled->snuggled up to</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->gently</li>
+    <li>nuzzleadverb->encouragingly</li>
+    <li>nuzzleadverb->happily</li>
+    <li>nuzzleadverb->softly</li>
+    <li>nuzzleadverb->supportively</li>
+    <li>nuzzleadverb->lightly</li>
+    <li>nuzzleadverb->warmly</li>
+    <li>nuzzleadverb->plaintively</li>
+    <li>nuzzleadverb->lovingly</li>
+    <li>nuzzleadverb->affectionately</li>
+    <li>rubbedpart->leg</li>
+    <li>rubbedpart->knee</li>
+    <li>rubbedpart->foot</li>
+    <li>rubbedpart->elbow</li>
+    <li>rubbedpart->hip</li>
+    <li>rubbedpart->shoulder</li>
+    <li>rubbedpart->hand</li>
+    <li>rubbedpart->side</li>
+    <li>rubbedpart->arm</li>
+  -->
+  <Nuzzle.logRulesInitiator.rulesStrings>
+    <li>r_logentry(p=3)->[INITIATOR_nameDef] [nuzzled] [RECIPIENT_nameDef] [nuzzleadverb].</li>
+    <li>r_logentry->[INITIATOR_nameDef] [nuzzled] [nuzzleadverb] [rubbedpart] dari [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] meringkuk hingga [nuzzleadverb] ke [RECIPIENT_nameDef] an.</li>
+    <li>nuzzled->tersentuh</li>
+    <li>nuzzleadverb(p=4)-></li>
+    <li>nuzzleadverb->lembut</li>
+    <li>nuzzleadverb->dengan cara yang menyenangkan</li>
+    <li>nuzzleadverb->dengan senang hati</li>
+    <li>nuzzleadverb->lembut</li>
+    <li>nuzzleadverb->dengan cara yang menghibur</li>
+    <li>nuzzleadverb->ringan</li>
+    <li>nuzzleadverb->dengan hangat</li>
+    <li>nuzzleadverb->dengan sedih</li>
+    <li>nuzzleadverb->dengan penuh kasih sayang</li>
+    <li>nuzzleadverb->sayang</li>
+    <li>rubbedpart->batang kaki</li>
+    <li>rubbedpart->il lutut</li>
+    <li>rubbedpart->il pergelangan kaki</li>
+    <li>rubbedpart->il sikut</li>
+    <li>rubbedpart->il tulang panggul</li>
+    <li>rubbedpart->la bahu</li>
+    <li>rubbedpart->la tangan</li>
+    <li>rubbedpart->il sisi</li>
+    <li>rubbedpart->il lengan</li>
+  </Nuzzle.logRulesInitiator.rulesStrings>
+
+  <!-- EN: release to the wild -->
+  <ReleaseToWild.label>lepaskan ke alam liar</ReleaseToWild.label>
+  <!-- EN:
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] gently pet [RECIPIENT_nameDef] one last time</li>
+    <li>farewell->[INITIATOR_nameDef] said some warm words to [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] removed [RECIPIENT_nameDef]'s collar</li>
+    <li>farewell->[INITIATOR_nameDef] reminisced about the good time [INITIATOR_objective] had with [RECIPIENT_nameDef]</li>
+    <li>released->and released [RECIPIENT_objective] to the wild.</li>
+    <li>released->and set [RECIPIENT_objective] free.</li>
+    <li>released->and sent [RECIPIENT_objective] off.</li>
+    <li>released->and let [RECIPIENT_objective] go.</li>
+    <li>released->then turned away and let [RECIPIENT_objective] leave the colony.</li>
+    <li>released->before letting [RECIPIENT_objective] go to live in freedom.</li>
+  -->
+  <ReleaseToWild.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[farewell] [released]</li>
+    <li>farewell->[INITIATOR_nameDef] dengan lembut membelai [RECIPIENT_nameDef] untuk terakhir kalinya</li>
+    <li>farewell->[INITIATOR_nameDef] mengucapkan beberapa kata sensitif kepada [RECIPIENT_nameDef]</li>
+    <li>farewell->[INITIATOR_nameDef] [RECIPIENT_nameDef] melepaskan kerahnya</li>
+    <li>farewell->[INITIATOR_nameDef] ingat saat-saat indah [INITIATOR_pronoun] dengan [RECIPIENT_nameDef]</li>
+    <li>released->dan melepaskannya ke hutan belantara.</li>
+    <li>released->dan melepaskannya.</li>
+    <li>released->dan mengirimnya pergi.</li>
+    <li>released->dan biarkan.</li>
+    <li>released->, lalu [INITIATOR_pronoun] berbalik dan meninggalkan hewan itu pada takdirnya.</li>
+    <li>released->, sebelum [INITIATOR_pronoun] melepaskannya.</li>
+  </ReleaseToWild.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: tame attempt -->
+  <TameAttempt.label>upaya menjinakkan</TameAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] tried to tame [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to bring [RECIPIENT_nameDef] under control.</li>
+    <li>r_logentry->[INITIATOR_nameDef] attempted to collar [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] demanded obedience from [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come to [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] tried to make [RECIPIENT_nameDef] sit still.</li>
+    <li>r_logentry->[INITIATOR_nameDef] seized [RECIPIENT_nameDef] sharply and barked a command.</li>
+    <li>r_logentry->[INITIATOR_nameDef] attempted to hold [RECIPIENT_nameDef] still.</li>
+    <li>r_logentry->[INITIATOR_nameDef] shouted a command at [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] slapped [RECIPIENT_nameDef] in a show of dominance.</li>
+    <li>r_logentry->[INITIATOR_nameDef] directed [RECIPIENT_nameDef] back towards the community.</li>
+    <li>r_logentry->[INITIATOR_nameDef] called [RECIPIENT_nameDef] to come back to the community.</li>
+    <li>r_logentry->[INITIATOR_nameDef] touched a vulnerable body part of [RECIPIENT_nameDef], demanding obedience.</li>
+    <li>r_logentry->[INITIATOR_nameDef] pointed at the ground, demanding that [RECIPIENT_nameDef] come.</li>
+    <li>r_logentry->[INITIATOR_nameDef] gave [RECIPIENT_nameDef] a first command.</li>
+  -->
+  <TameAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] mencoba menjinakkan [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] mencoba untuk mengendalikan [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] mencoba memakaikan kalung [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] mencoba kepatuhan [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] memanggil [RECIPIENT_nameDef] untuk pergi ke [INITIATOR_objective].</li>
+    <li>r_logentry->[INITIATOR_nameDef] mencoba membuatnya duduk [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] merebut [RECIPIENT_nameDef] dengan tiba-tiba dan membentak diberi perintah.</li>
+    <li>r_logentry->[INITIATOR_nameDef] mencoba membuatnya duduk diam [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] perintah membentak untuk [RECIPIENT_nameDef].</li>
+    <li>r_logentry->[INITIATOR_nameDef] menampar [RECIPIENT_nameDef] menunjukan dominasi.</li>
+    <li>r_logentry->[INITIATOR_nameDef] mengarahkan [RECIPIENT_nameDef] untuk kembali ke komunitas.</li>
+    <li>r_logentry->[INITIATOR_nameDef] bernama [RECIPIENT_nameDef] untuk {RECIPIENT_gender ? bawa kembali: bawa kembali: bawa kembali} ke komunitas.</li>
+    <li>r_logentry->[INITIATOR_nameDef] menyentuh bagian tubuh yang rentah dari [RECIPIENT_nameDef], agar patuh.</li>
+    <li>r_logentry->[INITIATOR_nameDef] menunjuk ke tanah, meminta [RECIPIENT_nameDef] untuk datang.</li>
+    <li>r_logentry->[INITIATOR_nameDef] mengeluarkan perintah pertama ke [RECIPIENT_nameDef] un primo comando.</li>
+  </TameAttempt.logRulesInitiator.rulesStrings>
+  
+  <!-- EN: train attempt -->
+  <TrainAttempt.label>upaya pelatihan</TrainAttempt.label>
+  <!-- EN:
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->[tried] to train</li>
+    <li>trained->[tried] to show a new trick to</li>
+    <li>trained->[tried] to discipline</li>
+    <li>trained->[tried] to instruct</li>
+    <li>trained->[tried] to encourage a new skill in</li>
+    <li>trained->demonstrated a skill to</li>
+    <li>trained->encouraged a new response from</li>
+    <li>tried->tried</li>
+    <li>tried->attempted</li>
+  -->
+  <TrainAttempt.logRulesInitiator.rulesStrings>
+    <li>r_logentry->[INITIATOR_nameDef] [trained] [RECIPIENT_nameDef].</li>
+    <li>trained(p=2)->[tried] untuk melatih</li>
+    <li>trained->[tried] untuk menampilkan trik baru ke</li>
+    <li>trained->[tried] untuk mendisiplinkan</li>
+    <li>trained->[tried] untuk menginstruksikan</li>
+    <li>trained->[tried] untuk memacu keterampilan baru</li>
+    <li>trained->menunjukkan keterampilan ke</li>
+    <li>trained->memacu tanggapan baru dari</li>
+    <li>tried->dia telah mencoba</li>
+    <li>tried->mencoba</li>
+  </TrainAttempt.logRulesInitiator.rulesStrings>
+  
+</LanguageData>
