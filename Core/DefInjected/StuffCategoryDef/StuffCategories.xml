@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: fabric -->
+  <Fabric.label>kain</Fabric.label>
+  
+  <!-- EN: leathery -->
+  <Leathery.label>kulit</Leathery.label>
+  
+  <!-- EN: metallic -->
+  <Metallic.label>logam</Metallic.label>
+  
+  <!-- EN: stony -->
+  <Stony.label>batu</Stony.label>
+  
+  <!-- EN: woody -->
+  <Woody.label>kayu</Woody.label>
+  
+</LanguageData>

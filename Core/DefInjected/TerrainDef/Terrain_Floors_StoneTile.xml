@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: granite flagstone -->
+  <FlagstoneGranite.label>paving block granit</FlagstoneGranite.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneGranite.description>paving block yang dipotong kasar. Tidak indah, tetapi dapat membuat permukaan yang bagus untuk jalan dan jalan setapak diluar ruangan. Menghancurkan ubin ini tidak menghasilkan sumber daya.</FlagstoneGranite.description>
+  
+  <!-- EN: limestone flagstone -->
+  <FlagstoneLimestone.label>paving block kapur</FlagstoneLimestone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneLimestone.description>paving block yang dipotong kasar. Tidak indah, tetapi dapat membuat permukaan yang bagus untuk jalan dan jalan setapak diluar ruangan. Menghancurkan ubin ini tidak menghasilkan sumber daya.</FlagstoneLimestone.description>
+  
+  <!-- EN: marble flagstone -->
+  <FlagstoneMarble.label>paving block marmer</FlagstoneMarble.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneMarble.description>paving block yang dipotong kasar. Tidak indah, tetapi dapat membuat permukaan yang bagus untuk jalan dan jalan setapak diluar ruangan. Menghancurkan ubin ini tidak menghasilkan sumber daya.</FlagstoneMarble.description>
+  
+  <!-- EN: sandstone flagstone -->
+  <FlagstoneSandstone.label>paving block batu pasir</FlagstoneSandstone.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSandstone.description>paving block yang dipotong kasar. Tidak indah, tetapi dapat membuat permukaan yang bagus untuk jalan dan jalan setapak diluar ruangan. Menghancurkan ubin ini tidak menghasilkan sumber daya.</FlagstoneSandstone.description>
+  
+  <!-- EN: slate flagstone -->
+  <FlagstoneSlate.label>paving block batusabak</FlagstoneSlate.label>
+  <!-- EN: Roughly-cut stone tiles. These are not beautiful, but they make good surfaces for roads and outdoor walkways. Deconstructing flagstone yields no resources. -->
+  <FlagstoneSlate.description>paving block yang dipotong kasar. Tidak indah, tetapi dapat membuat permukaan yang bagus untuk jalan dan jalan setapak diluar ruangan. Menghancurkan ubin ini tidak menghasilkan sumber daya.</FlagstoneSlate.description>
+  
+  <!-- EN: granite tile -->
+  <TileGranite.label>ubin batu Granit</TileGranite.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileGranite.description>Ubin batu yang dipotong dengan hati-hati dan presisi untuk nuasa kastil. Cantik untuk dilihat, tetapi membutuhkan waktu untuk membuatnya.</TileGranite.description>
+  
+  <!-- EN: limestone tile -->
+  <TileLimestone.label>ubin batu kapur</TileLimestone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileLimestone.description>Ubin batu yang dipotong dengan hati-hati dan presisi untuk nuasa kastil. Cantik untuk dilihat, tetapi membutuhkan waktu untuk membuatnya.</TileLimestone.description>
+  
+  <!-- EN: marble tile -->
+  <TileMarble.label>ubin batu marmer</TileMarble.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileMarble.description>Ubin batu yang dipotong dengan hati-hati dan presisi untuk nuasa kastil. Cantik untuk dilihat, tetapi membutuhkan waktu untuk membuatnya.</TileMarble.description>
+  
+  <!-- EN: sandstone tile -->
+  <TileSandstone.label>ubin batu pasir</TileSandstone.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSandstone.description>Ubin batu yang dipotong dengan hati-hati dan presisi untuk nuasa kastil. Cantik untuk dilihat, tetapi membutuhkan waktu untuk membuatnya.</TileSandstone.description>
+  
+  <!-- EN: slate tile -->
+  <TileSlate.label>ubin batusabak</TileSlate.label>
+  <!-- EN: Carefully-cut and fit stone tiles for a castle feeling. They are pretty to look at, but they take a long time to lay. -->
+  <TileSlate.description>Ubin batu yang dipotong dengan hati-hati dan presisi untuk nuasa kastil. Cantik untuk dilihat, tetapi membutuhkan waktu untuk membuatnya.</TileSlate.description>
+  
+</LanguageData>

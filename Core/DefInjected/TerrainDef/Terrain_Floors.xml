@@ -1,0 +1,64 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: blue carpet -->
+  <CarpetBlue.label>karpet biru</CarpetBlue.label>
+  <!-- EN: Toe-hugging plush carpet in a cool blue color. -->
+  <CarpetBlue.description>Plüschteppich in einem kühlen Blau.</CarpetBlue.description>
+  
+  <!-- EN: cream carpet -->
+  <CarpetCream.label>karpet krim</CarpetCream.label>
+  <!-- EN: Inviting cream-colored carpet. -->
+  <CarpetCream.description>Ein einladender cremefarbener Teppich.</CarpetCream.description>
+  
+  <!-- EN: dark carpet -->
+  <CarpetDark.label>karpet gelap</CarpetDark.label>
+  <!-- EN: Professional-looking dark gray carpet. -->
+  <CarpetDark.description>Karpet abu-abu gelap yang terlihat profesional.</CarpetDark.description>
+  
+  <!-- EN: green carpet -->
+  <CarpetGreen.label>karpet hijau</CarpetGreen.label>
+  <!-- EN: Naturalistic-feeling green carpet. Earth tones, dude. -->
+  <CarpetGreen.description>Karpet hiau nuasa natural. Nada bumu, bung.</CarpetGreen.description>
+  
+  <!-- EN: red carpet -->
+  <CarpetRed.label>karpet merah</CarpetRed.label>
+  <!-- EN: Plush carpet in a lovely rose hue. -->
+  <CarpetRed.description>Karpet mewah dengan warna mawar yang cantik.</CarpetRed.description>
+  
+  <!-- EN: concrete -->
+  <Concrete.label>beton</Concrete.label>
+  <!-- EN: Rough concrete. It is cheap and quick to build, but is also quite ugly. -->
+  <Concrete.description>Beton kasar. Murah dan cepat dibuat, terlihat jelek.</Concrete.description>
+  
+  <!-- EN: gold tile -->
+  <GoldTile.label>ubin emas</GoldTile.label>
+  <!-- EN: For overbearing extravagance, nothing beats gold tiles. They are exceptionally expensive, and exceptionally beautiful, and people will think you're exceptionally snobbish if you actually live on them. -->
+  <GoldTile.description>Untuk yang suka berfoya-foya dan sombong, tidak ada yang mengalahkan ubin emas. Ubin ini sangat mahal, dan sangat indah. Orang-orang akan berpikir anda sangat sombong anda benar-benar tinggal disana.</GoldTile.description>
+  
+  <!-- EN: steel tile -->
+  <MetalTile.label>ubin baja</MetalTile.label>
+  <!-- EN: Steel tiles, for that spaceship look. They are pretty, and the smooth tile surface gets a bonus to cleanliness. -->
+  <MetalTile.description>Ubin baja, untuk tampilan futuristik bak pesawat ruang angkasa. Ubin ini cantik, dan permukaanya yang halus mendapatkan bonus untuk kebersihan.</MetalTile.description>
+  
+  <!-- EN: paved tile -->
+  <PavedTile.label>ubin beraspal</PavedTile.label>
+  <!-- EN: Concrete tiles. Cheap, but neutral in terms of looks and slow to build. -->
+  <PavedTile.description>Ubin beton. Murah, tapi netral dalam hal tampilan dan lambat untuk dibangun.</PavedTile.description>
+  
+  <!-- EN: silver tile -->
+  <SilverTile.label>ubin perak</SilverTile.label>
+  <!-- EN: For a futuristic but royal look, silver tiles fit perfectly into luxurious rooms. They get a bonus to cleanliness. -->
+  <SilverTile.description>Untuk tampilan futuristik namun royal, ubin perak sangat cocok dengan ruangan yang mewah. Plus mendapat bonus untuk kebersihan.</SilverTile.description>
+  
+  <!-- EN: sterile tile -->
+  <SterileTile.label>ubin steril</SterileTile.label>
+  <!-- EN: Sterile tiles with special cleanliness-enhancing properties. Extra-clean rooms improve outcomes in hospitals and research labs. This tile is very slow to build. -->
+  <SterileTile.description>Ubin steril dengan sifatnya yang khusus untuk meningkatkan kebersihan. Ruangan yang ekstra bersih meningkatkan hasil dirumah sakit dan laboratorium penelitian. Ubin ini sangat lambat untuk dibangun.</SterileTile.description>
+  
+  <!-- EN: wood floor -->
+  <WoodPlankFloor.label>lantai kayu</WoodPlankFloor.label>
+  <!-- EN: Wood plank flooring for that warm, homey feeling. While it is quick to lay, it is also very flammable. -->
+  <WoodPlankFloor.description>Lantai papan kayu untuk perasaan hangat dan nyaman. Meskipun cepat dibangun, lantai ini sangat mudah terbakar.</WoodPlankFloor.description>
+  
+</LanguageData>

@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: stony soil -->
+  <Gravel.label>tanah berbatu</Gravel.label>
+  <!-- EN: gravel -->
+  <Gravel.tools.gravel.label>kerikil</Gravel.tools.gravel.label>
+  
+  <!-- EN: Ice -->
+  <Ice.label>es</Ice.label>
+  
+  <!-- EN: marshy soil -->
+  <MarshyTerrain.label>tanah berawa</MarshyTerrain.label>
+  <!-- EN: mud -->
+  <MarshyTerrain.tools.mud.label>lumpur</MarshyTerrain.tools.mud.label>
+  
+  <!-- EN: lichen-covered soil -->
+  <MossyTerrain.label>tanah berlumut</MossyTerrain.label>
+  
+  <!-- EN: mud -->
+  <Mud.label>lumpur</Mud.label>
+  <!-- EN: mud -->
+  <Mud.tools.mud.label>lumpur</Mud.tools.mud.label>
+  
+  <!-- EN: sand -->
+  <Sand.label>pasir</Sand.label>
+  <!-- EN: sand -->
+  <Sand.tools.sand.label>pasir</Sand.tools.sand.label>
+  
+  <!-- EN: soft sand -->
+  <SoftSand.label>pasir halus</SoftSand.label>
+  <!-- EN: sand -->
+  <SoftSand.tools.sand.label>pasir</SoftSand.tools.sand.label>
+  
+  <!-- EN: soil -->
+  <Soil.label>tanah</Soil.label>
+  <!-- EN: dirt -->
+  <Soil.tools.dirt.label>tanah</Soil.tools.dirt.label>
+  
+  <!-- EN: rich soil -->
+  <SoilRich.label>tanah subur</SoilRich.label>
+  <!-- EN: dirt -->
+  <SoilRich.tools.dirt.label>tanah</SoilRich.tools.dirt.label>
+  
+</LanguageData>
